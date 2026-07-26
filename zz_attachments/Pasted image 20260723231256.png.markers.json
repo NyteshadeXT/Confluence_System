@@ -1,0 +1,33 @@
+{
+  "size": {
+    "w": 2550,
+    "h": 1320
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "zz_attachments/Pasted image 20260723231256.png"
+  ],
+  "overlays": [],
+  "activeBase": "zz_attachments/Pasted image 20260723231256.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}

@@ -1,0 +1,2 @@
+**Core Concept:** Persistence, repetition, remembered action  
+Echo ensures that actions do not end when they conclude. It carries consequence forward, repeating and reinforcing what has already occurred.

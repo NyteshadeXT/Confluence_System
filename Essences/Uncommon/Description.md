@@ -1,0 +1,1 @@
+An Uncommon Essence represents a refinement, interpretation, or internalization of a Common force — or a force that only manifests under special conditions. Uncommon Essences are not baseline physics; they are how physics becomes strange.

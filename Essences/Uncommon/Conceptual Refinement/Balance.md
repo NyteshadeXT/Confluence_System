@@ -1,0 +1,2 @@
+**Core Concept:** Equilibrium, correction, opposing forces  
+Balance enforces parity between extremes. It responds to excess by correcting it, favoring stability through opposition rather than dominance.

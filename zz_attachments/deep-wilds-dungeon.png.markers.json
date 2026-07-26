@@ -1,0 +1,33 @@
+{
+  "size": {
+    "w": 2526,
+    "h": 1071
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "zz_attachments/deep-wilds-dungeon.png"
+  ],
+  "overlays": [],
+  "activeBase": "zz_attachments/deep-wilds-dungeon.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}
