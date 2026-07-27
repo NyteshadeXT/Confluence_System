@@ -152,24 +152,14 @@ creatures:
 
 ## Tactics
 
-The broodlings possess no instinct for self-preservation.
-
-They rush the nearest Seeker in an attempt to overwhelm isolated targets through numbers.
-
-They never retreat, surrender, or pursue fleeing characters beyond the boundaries of the clearing.
+The broodlings possess no instinct for self-preservation. They rush the nearest Seeker in an attempt to overwhelm isolated targets through numbers. They never retreat, surrender, or pursue fleeing characters beyond the boundaries of the clearing.
 
 ## Features of the Area
-
 - **Lighting:** Dim light provided by crystal growths throughout the grove.
-    
 - **Clearing:** Approximately 50 feet in diameter.
-    
 - **Massive Roots:** Provide cover and break lines of movement.
-    
 - **Crystal Clusters:** Count as difficult terrain.
-    
 - **Dense Undergrowth:** Beyond the established trail, thick vegetation counts as greater difficult terrain. The forest resists movement away from the path.
-    
 
 ### Dungeon Manifestations
 

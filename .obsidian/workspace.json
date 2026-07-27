@@ -13,12 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons/Deep Wilds.md",
-                "mode": "source",
+                "file": "Dungeon Doors.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deep Wilds"
+              "title": "Dungeon Doors"
+            }
+          },
+          {
+            "id": "3ba8fe65bb6a44bd",
+            "type": "leaf",
+            "dimension": 7.6923076923076925,
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://e7cc55dd8eb6069214ea916c283cd51b78f5/C:/Users/kkroe/Documents/Obsidian/Confluence_System/zz_attachments/deep-wilds-dungeon.png?1785104539261",
+                  "filePath": "zz_attachments/deep-wilds-dungeon.png",
+                  "fog": {
+                    "enabled": true,
+                    "key": "image:zz_attachments/deep-wilds-dungeon.png",
+                    "label": "deep-wilds-dungeon"
+                  }
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
+            }
+          },
+          {
+            "id": "b9f47a9621923c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -48,8 +84,37 @@
               "icon": "lucide-file",
               "title": "Rules for Dungeons"
             }
+          },
+          {
+            "id": "3a8fd23491114ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons/Deep Wilds.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Deep Wilds"
+            }
+          },
+          {
+            "id": "1332c99f113594f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancestry/Smoulder.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Smoulder"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -202,9 +267,19 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "d2c8378cf511c473",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "4e4d25b265416d24",
@@ -216,7 +291,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_4b693bab6ab8",
+                "creatureId": "ID_d9b9aa1b4aab",
                 "creatureName": "Ankheg Broodling"
               },
               "icon": "initiative-tracker-creature-view",
@@ -242,40 +317,123 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c5ef35b672e71eb1",
+  "floating": {
+    "id": "e6f223b3da243518",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d42a975602054c5e",
+        "type": "window",
+        "children": [
+          {
+            "id": "cb50ecd94c620103",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cefa10c7fb4b692c",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://6987cb4473c32edbfbcebb22750975596a7f/C:/Users/kkroe/Documents/Obsidian/Confluence_System/zz_attachments/auran.png?1785104539232",
+                      "filePath": "zz_attachments/auran.png"
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3506,
+        "y": -197,
+        "width": 2952,
+        "height": 1568,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "39145905784106af",
+        "type": "window",
+        "children": [
+          {
+            "id": "76ad21f353a242e5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0f8bd0024cfb041e",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://e7cc55dd8eb6069214ea916c283cd51b78f5/C:/Users/kkroe/Documents/Obsidian/Confluence_System/zz_attachments/deep-wilds-dungeon.png?1785104539261",
+                      "filePath": "zz_attachments/deep-wilds-dungeon.png",
+                      "fog": {
+                        "enabled": true,
+                        "key": "image:zz_attachments/deep-wilds-dungeon.png",
+                        "label": "deep-wilds-dungeon"
+                      }
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 644,
+        "y": 258,
+        "width": 1280,
+        "height": 672,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0f8bd0024cfb041e",
   "lastOpenFiles": [
-    "Beastiary/Monster Manual 2/Ankheg Broodling.md",
-    "Dungeons/Deep Wilds.md",
-    "Beastiary/Monster Manual 2",
-    "Beastiary",
-    "Rules for Dungeons.md",
-    "Powers Query.md",
-    "Dungeon Doors.md",
-    "zz_attachments/deep-wilds-threshold-grove.png",
-    "zz_attachments/deep-wilds-dungeon.png",
-    "zz_attachments/Pasted image 20260722154356.png",
-    "zz_attachments/Pasted image 20260723231549.png",
-    "zz_attachments/Pasted image 20260724171745.png",
-    "zz_attachments/deep-wilds-dungeon.png",
-    "ZoomMap/PlayerScreen/Fog/image-zz_attachments-Pasted image 20260723231549.png.png",
+    "ZoomMap/PlayerScreen/Fog/image-zz_attachments-deep-wilds-dungeon.png.png",
     "ZoomMap/PlayerScreen/Fog",
     "ZoomMap/PlayerScreen",
     "ZoomMap",
-    "zz_attachments/Pasted image 20260723231256.png.markers.json",
-    "zz_attachments/dungeon-attunement-25.png",
-    "zz_attachments/dungeon-attunement-24.png",
-    "zz_attachments/dungeon-attunement-23.png",
-    "Template - Powers.md",
-    "zz_attachments/deep-wilds-dungeon.png.markers.json",
     "Ancestry/Smoulder.md",
-    "Dungeons",
+    "Dungeons/Deep Wilds.md",
+    "Untitled.md",
+    "Rules for Dungeons.md",
+    "Beastiary/Monster Manual 2/Ankheg Broodling.md",
+    "Dungeon Doors.md",
     "Ancestry/Runic.md",
     "Ancestry/Leonid.md",
     "Ancestry/Human.md",
     "Ancestry/Elf.md",
     "Ancestry/Draconian.md",
-    "Ancestry/Celestine.md",
     "Ancestry/Auran.md",
+    "Ancestry/Celestine.md",
+    "zz_attachments/Pasted image 20260726175947.png",
+    "zz_attachments/Pasted image 20260726175757.png",
+    "zz_attachments/Pasted image 20260726175726.png",
+    "zz_attachments/Pasted image 20260726175705.png",
+    "zz_attachments/Pasted image 20260726175649.png",
+    "Beastiary/Monster Manual 2",
+    "Beastiary",
+    "Powers Query.md",
+    "zz_attachments/deep-wilds-threshold-grove.png",
+    "zz_attachments/deep-wilds-dungeon.png",
+    "zz_attachments/Pasted image 20260722154356.png",
+    "zz_attachments/Pasted image 20260723231549.png",
+    "zz_attachments/Pasted image 20260724171745.png",
+    "zz_attachments/Pasted image 20260723231256.png.markers.json",
+    "Template - Powers.md",
+    "zz_attachments/deep-wilds-dungeon.png.markers.json",
+    "Dungeons",
     "Essences/Common/Beast/Bear.md",
     "Essences/Common/Beast/Cat.md",
     "Essences/Common/Beast/Bat.md",
@@ -287,7 +445,6 @@
     "Essences/Uncommon/Body & Internal State/Blood.md",
     "Essences/Rare/Cosmic & Celestial Forces/Moon.md",
     "Essences/Rare/Persistence & Consequence/Omen.md",
-    "Essences/Rare/Persistence & Consequence/Gathering.md",
     "Essences/Rare/Primal Synthesis"
   ]
 }
