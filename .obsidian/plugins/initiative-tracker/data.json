@@ -2,25 +2,37 @@
   "players": [
     {
       "name": "Jaina",
-      "level": 0,
-      "hp": 0,
-      "ac": "",
-      "modifier": 0,
+      "level": 1,
+      "hp": 10,
+      "ac": "12",
+      "modifier": 2,
       "player": true
     },
     {
       "name": "Skarr",
-      "player": true
+      "player": true,
+      "level": 1,
+      "hp": 11,
+      "ac": "12",
+      "modifier": 2
     },
     {
       "name": "Tubs",
-      "player": true
+      "player": true,
+      "level": 1,
+      "hp": 9,
+      "ac": "12",
+      "modifier": 2
     },
     {
       "note": "smoulders",
       "path": "zz_attachments/smoulders.png",
       "name": "Xevious",
-      "player": true
+      "player": true,
+      "level": 1,
+      "ac": "10",
+      "modifier": 0,
+      "hp": 10
     }
   ],
   "parties": [],
@@ -117,7 +129,7 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {

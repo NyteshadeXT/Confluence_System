@@ -6,6 +6,7 @@ essences:
 - Balance
 - Oath
 - Light
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Sacred Intervention
 
 **ENCOUNTER DIVINE**
 
-**Eligible Essences:** Life, Balance, Oath, Light  
+**Eligible Essences:** Life, Balance, Oath, Light, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

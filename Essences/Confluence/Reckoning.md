@@ -35,9 +35,6 @@ A triad resolves into Reckoning only if it contains **Echo or Omen**, and at lea
 ·         **Iron Tier:** Gain +1 Mana at Rank 3 and Rank 7
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Chain Armor, gain proficiency with the Heavy Blade Weapon Group, gain proficiency with Holy Symbols or Orbs as Implements, gain +2 bonus to Insight checks involving truth, motive, or sworn obligation.
-
 ## RANK MILESTONES
 **Rank 3 — Unavoidable Memory** You gain a +1 bonus to Will defense.
 **Rank 5 — Measured Judgment** Increase Wisdom or Charisma by +1 (based on selection during Essence acquisition).

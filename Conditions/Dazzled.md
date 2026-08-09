@@ -1,0 +1,1 @@
+Your eyes are overstimulated or your vision is swimming. If vision is your only precise sense, all creatures and objects are [[Concealment|concealed]] from you.

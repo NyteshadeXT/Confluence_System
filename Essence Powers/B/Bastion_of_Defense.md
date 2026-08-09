@@ -7,6 +7,7 @@ essences:
 - Stone
 - Zeal
 - Balance
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Apex Ability
 
 **DAILY MARTIAL WEAPON**
 
-**Eligible Essences:** Oath, Shield, Stone, Zeal, Balance  
+**Eligible Essences:** Oath, Shield, Stone, Zeal, Balance, Harmony
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

@@ -5,6 +5,7 @@ essences:
 - Shield
 - Order
 - Might
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -12,7 +13,7 @@ Attack ✦ Core Concept
 
 **At-Will Martial Weapon**
 
-**Eligible Essences:** Shield, Order, Might
+**Eligible Essences:** Shield, Order, Might, Storm
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

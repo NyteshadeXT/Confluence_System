@@ -24,11 +24,6 @@ Snake waits for the decisive moment. It favors careful positioning, single decis
 
 ---
 
-### Training Interaction
-Snake strikes with finesse and favors precision. At Rank 6, Snake grants one of the following **Light Blade Group Proficiency OR Unarmed Weapon Group Enhancement** (Your unarmed strike damage increases to 1d8 and gains a +1 proficiency bonus.).
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Patient Watch** Snake survives through timing and awareness. Gain +1 Reflex.
 **Rank 5 — Coiled Precision** Increase Dexterity by +1.

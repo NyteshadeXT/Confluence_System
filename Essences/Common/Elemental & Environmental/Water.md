@@ -24,13 +24,6 @@ Water emphasizes endurance through adjustment rather than resistance. It survive
 
 ---
 
-### Training Interaction
-Water grants defensive training aligned with adaptive protection rather than rigid armor. At Rank 6, Water grants one of the following proficiencies **Hide Armor Proficiency** OR **Light** **Shield Proficiency.**
-
-Water does not grant weapon category proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Steady Current** Water maintains composure under sustained pressure. Gain +1 Will. +1 to Implement attack rolls with Healing or Restoration powers.
 **Rank 5 — Fluid Awareness** Increase Wisdom by +1.

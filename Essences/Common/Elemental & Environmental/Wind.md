@@ -24,13 +24,6 @@ Wind emphasizes control through speed and redirection. It survives by acting fir
 
 ---
 
-### Training Interaction
-Wind does not grant armor proficiency.
-
-Wind grants weapon training aligned with speed and reach rather than heavy engagement. At Rank 6, Wind grants one of the following proficiencies Spear Group Proficiency OR Military Ranged Proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Rapid Engagement** Wind is often first to act. Gain +1 Initiative.
 **Rank 5 — Accelerated Reflexes** Increase Dexterity by +1.

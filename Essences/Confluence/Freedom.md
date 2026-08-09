@@ -38,9 +38,6 @@ A triad resolves into Freedom only if it contains at least one movement Essence 
 ·         **Iron Tier:** Gain +1 Mana at Rank 7
 ·         **Bronze Tier:** No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Leather Armor, gain proficiency with the Light Blade Weapon Group, gain proficiency with the Spear Weapon Group OR gain +2 bonus to Acrobatics checks involving balance, escape, or squeezing.
-
 ## RANK MILESTONES
 **Rank 3 — Fluid Reflexes** You gain a +1 bonus to Reflex defense.
 **Rank 5 — Unbound Spirit** Increase Dexterity or Wisdom by +1 (based on selection during Essence acquisition).

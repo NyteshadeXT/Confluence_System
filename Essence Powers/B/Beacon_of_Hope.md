@@ -6,6 +6,7 @@ essences:
 - Light
 - Oath
 - Balance
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Apex Ability
 
 **DAILY DIVINE HEALING IMPLEMENT**
 
-**Eligible Essences:** Life, Light, Oath, Balance  
+**Eligible Essences:** Life, Light, Oath, Balance, Harmony
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

@@ -7,6 +7,7 @@ essences:
 - Hunt
 - Zeal
 - Balance
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Eye, Oath, Zeal, Hunt, Balance  
+**Eligible Essences:** Eye, Oath, Zeal, Hunt, Balance, Harmony
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

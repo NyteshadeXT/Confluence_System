@@ -8,6 +8,7 @@ essences:
 - Order
 - Renewal
 - Bond
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Utility ✦ Encounter
 
 **Encounter Martial Healing**
 
-**Eligible Essences:** Zeal, Resolute, Oath, Order, Renewal, Bond
+**Eligible Essences:** Zeal, Resolute, Oath, Order, Renewal, Bond, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

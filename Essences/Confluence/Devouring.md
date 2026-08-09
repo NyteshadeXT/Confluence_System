@@ -38,11 +38,6 @@ Any triad that feeds upon its own success, lacks an internal stopping condition 
 ·         Iron Tier: No Mana gained
 ·         Bronze Tier: No Mana gained
 
-## TRAINING INTERACTION
-At Rank 6, choose Heavy Blade Group Proficiency, Axe Group Proficiency, +2 bonus to Intimidate checks OR +2 bonus to Athletics checks involving grappling or overpowering.
-
-Devouring does not grant armor proficiency.
-
 ## RANK MILESTONES
 **Rank 3 — Ravenous Assault** Gain +1 to damage rolls against bloodied creatures.
 **Rank 5 — Growing Hunger** Increase Strength or Constitution by +1 (based on selection during Essence acquisition).

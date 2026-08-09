@@ -36,11 +36,6 @@ Many Dungeons will seek to actively exterminate bearers of this Confluence.
 ·         Iron Tier: Gain +1 Mana at Rank 3
 ·         Bronze Tier: Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose Heavy Blade Group Proficiency, +2 bonus to Intimidate checks involving fear or mortality, +2 bonus to Religion checks involving death or entropy and +2 bonus to Arcana checks involving destructive magic.
-
-Oblivion does not grant armor proficiency.
-
 ## ESSENCE MASTERY MILESTONES
 **Rank 3 — Final Strike** Gain +1 to damage rolls against bloodied creatures.
 **Rank 5 — Cold Resolve** Increase Intelligence or Constitution by +1 (based on selection during Essence acquisition).

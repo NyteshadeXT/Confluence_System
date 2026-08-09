@@ -36,11 +36,6 @@ A triad resolves into Suppression only if it contains at least one direct restri
 ·         Iron Tier: Gain +1 Mana at Rank 7
 ·         Bronze Tier: No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose Heavy Shield Proficiency, +2 bonus to Endurance checks, +2 bonus to Athletics checks involving grappling or restraining OR +2 bonus to Intimidate checks related to dominance.
-
-Suppression does not grant weapon proficiency.
-
 ## RANK MILESTONES
 **Rank 3 — Restrictive Presence** Gain +1 to Fortitude.
 **Rank 5 — Controlled Endurance** Increase Wisdom or Constitution by +1 (based on selection during Essence acquisition).

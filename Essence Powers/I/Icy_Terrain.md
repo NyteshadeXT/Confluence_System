@@ -6,6 +6,7 @@ essences:
 - Water
 - Wind
 - Balance
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER ARCANE COLD IMPLEMENT**
 
-**Eligible Essences:** Ice, Water, Balance, Wind  
+**Eligible Essences:** Ice, Water, Balance, Wind, Storm
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

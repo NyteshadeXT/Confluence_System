@@ -6,6 +6,7 @@ essences:
 - Light
 - Balance
 - Echo
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Arcane Reaction
 
 **DAILY ARCANE**
 
-**Eligible Essences:** Wind, Light, Balance, Echo  
+**Eligible Essences:** Wind, Light, Balance, Echo, Storm
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Daily

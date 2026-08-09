@@ -9,6 +9,7 @@ essences:
 - Order
 - Sound
 - Gathering
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Blade, Steel, Swift, Momentum, Order, Sound, Gathering
+**Eligible Essences:** Blade, Steel, Swift, Momentum, Order, Sound, Gathering, Storm
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

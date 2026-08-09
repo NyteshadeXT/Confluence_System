@@ -6,6 +6,7 @@ essences:
 - Shield
 - Light
 - Life
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Sacred Bulwark
 
 **DAILY DIVINE**
 
-**Eligible Essences:** Oath, Shield, Light, Life  
+**Eligible Essences:** Oath, Shield, Light, Life, Harmony 
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Daily

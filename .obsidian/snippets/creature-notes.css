@@ -1,0 +1,346 @@
+/* Creature note panels
+   Add `cssclasses: creature-note` to creature note frontmatter.
+*/
+
+.creature-note {
+  --creature-blue: #168cff;
+  --creature-blue-rgb: 22, 140, 255;
+  --creature-blue-soft: rgba(var(--creature-blue-rgb), 0.18);
+  --creature-blue-faint: rgba(var(--creature-blue-rgb), 0.08);
+  --creature-rule: rgba(var(--creature-blue-rgb), 0.7);
+  --creature-panel: #2d2d2d;
+  --creature-panel-deep: #252525;
+  --creature-text: #e8eef7;
+  --creature-muted: #aeb9c8;
+  --creature-font: "MV Boli", cursive;
+  --creature-width: 1035px;
+}
+
+/* Shared panel treatment */
+.creature-note .callout[data-callout="creature-description"],
+.creature-note .callout[data-callout="creature-tactics"] {
+  max-width: var(--creature-width);
+  margin: 0.35rem auto;
+  padding: 0;
+  overflow: hidden;
+
+  border: 1px solid var(--creature-blue);
+  border-top-width: 3px;
+  border-bottom-width: 2px;
+  border-radius: 0;
+
+  background:
+    linear-gradient(135deg, var(--creature-blue-faint), transparent 40%),
+    var(--creature-panel);
+
+  box-shadow:
+    0 0 12px rgba(var(--creature-blue-rgb), 0.15),
+    0 0 14px rgba(0, 0, 0, 0.2);
+
+  color: var(--creature-text);
+
+  --callout-color: var(--creature-blue-rgb);
+  --callout-icon: none;
+}
+
+/* Keep the description visually attached to the statblock. */
+.creature-note .callout[data-callout="creature-description"] {
+  margin-top: 0.2rem;
+  background: var(--creature-panel-deep);
+}
+
+/* Leave a small but visible break before tactics. */
+.creature-note .callout[data-callout="creature-tactics"] {
+  margin-top: 0.55rem;
+}
+
+/* Shared callout headers */
+.creature-note .callout[data-callout="creature-description"] .callout-title,
+.creature-note .callout[data-callout="creature-tactics"] .callout-title {
+  min-height: 30px;
+  padding: 3px 10px;
+
+  border-bottom: 1px solid var(--creature-blue);
+  background: linear-gradient(
+    90deg,
+    var(--creature-blue-soft),
+    transparent 72%
+  );
+
+  color: var(--creature-blue);
+  font-family: var(--creature-font);
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.35;
+  text-transform: uppercase;
+  text-shadow: 0 0 4px rgba(var(--creature-blue-rgb), 0.25);
+}
+
+.creature-note .callout[data-callout="creature-description"] .callout-title-inner,
+.creature-note .callout[data-callout="creature-tactics"] .callout-title-inner {
+  color: inherit;
+}
+
+/* Hide callout icons so the panels read as statblock sections. */
+.creature-note .callout[data-callout="creature-description"] .callout-icon,
+.creature-note .callout[data-callout="creature-tactics"] .callout-icon {
+  display: none;
+}
+
+/* Shared callout body */
+.creature-note .callout[data-callout="creature-description"] .callout-content,
+.creature-note .callout[data-callout="creature-tactics"] .callout-content {
+  padding: 8px 12px 10px;
+  color: var(--creature-text);
+  font-family: var(--font-text);
+  line-height: 1.6;
+}
+
+.creature-note .callout[data-callout="creature-description"] .callout-content > :first-child,
+.creature-note .callout[data-callout="creature-tactics"] .callout-content > :first-child {
+  margin-top: 0;
+}
+
+.creature-note .callout[data-callout="creature-description"] .callout-content > :last-child,
+.creature-note .callout[data-callout="creature-tactics"] .callout-content > :last-child {
+  margin-bottom: 0;
+}
+
+/* Description: readable boxed flavor text. */
+.creature-note .callout[data-callout="creature-description"] .callout-content {
+  padding-top: 10px;
+  padding-bottom: 11px;
+  color: var(--creature-muted);
+  font-family: var(--font-text);
+  font-size: 1.05rem;
+  font-style: italic;
+  letter-spacing: 0.01em;
+  line-height: 1.7;
+  text-shadow: 0 0 2px rgba(var(--creature-blue-rgb), 0.08);
+}
+
+/* Tactics: statblock-like subsections separated by thin blue rules. */
+/* Tactics body uses the normal reading font for clarity during play. */
+.creature-note .callout[data-callout="creature-tactics"] .callout-content {
+  font-family: var(--font-text);
+  font-style: normal;
+  line-height: 1.6;
+}
+
+.creature-note .callout[data-callout="creature-tactics"] ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.creature-note .callout[data-callout="creature-tactics"] li {
+  margin: 0;
+  padding: 5px 0;
+}
+
+.creature-note .callout[data-callout="creature-tactics"] li + li {
+  margin-top: 4px;
+  padding-top: 8px;
+  border-top: 1px solid var(--creature-rule);
+}
+
+.creature-note .callout[data-callout="creature-tactics"] li::marker {
+  content: "";
+}
+
+.creature-note .callout[data-callout="creature-tactics"] ul,
+.creature-note .callout[data-callout="creature-tactics"] li {
+  list-style: none !important;
+}
+
+.creature-note .callout[data-callout="creature-tactics"] li::before {
+  display: none !important;
+  content: none !important;
+}
+
+.creature-note .callout[data-callout="creature-tactics"] strong {
+  color: var(--creature-blue);
+  font-family: var(--creature-font);
+  font-size: 1.05rem;
+  font-style: italic;
+  font-weight: 700;
+  text-shadow: 0 0 3px rgba(var(--creature-blue-rgb), 0.18);
+}
+
+/* Optional manual divider for non-list content.
+   Use: <div class="creature-rule"></div>
+*/
+.creature-note .creature-rule {
+  height: 1px;
+  margin: 0.45rem 0;
+  border: 0;
+  background: linear-gradient(
+    to right,
+    rgba(var(--creature-blue-rgb), 0.95),
+    rgba(var(--creature-blue-rgb), 0.58),
+    rgba(var(--creature-blue-rgb), 0.95)
+  );
+  box-shadow: 0 0 3px rgba(var(--creature-blue-rgb), 0.35);
+}
+
+/* Optional two-column layout when both panels are wrapped
+   in a div.creature-notes-grid.
+*/
+.creature-note .creature-notes-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.55rem;
+  max-width: var(--creature-width);
+  margin: 0.35rem auto;
+}
+
+.creature-note .creature-notes-grid > .callout {
+  width: 100%;
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  .creature-note .creature-notes-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Creature lore panel */
+.creature-note .callout[data-callout="creature-lore"] {
+  max-width: var(--creature-width);
+  margin: 0.35rem auto;
+  padding: 0;
+  overflow: hidden;
+
+  border: 1px solid var(--creature-blue);
+  border-top-width: 3px;
+  border-bottom-width: 2px;
+  border-radius: 0;
+
+  background:
+    linear-gradient(135deg, var(--creature-blue-faint), transparent 40%),
+    var(--creature-panel);
+
+  box-shadow:
+    0 0 12px rgba(var(--creature-blue-rgb), 0.15),
+    0 0 14px rgba(0, 0, 0, 0.2);
+
+  color: var(--creature-text);
+
+  --callout-color: var(--creature-blue-rgb);
+  --callout-icon: none;
+}
+
+/* Lore header */
+.creature-note
+.callout[data-callout="creature-lore"]
+.callout-title {
+  min-height: 30px;
+  padding: 3px 10px;
+
+  border-bottom: 1px solid var(--creature-blue);
+  background: linear-gradient(
+    90deg,
+    var(--creature-blue-soft),
+    transparent 72%
+  );
+
+  color: var(--creature-blue);
+  font-family: var(--creature-font);
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.35;
+  text-transform: uppercase;
+  text-shadow: 0 0 4px rgba(var(--creature-blue-rgb), 0.25);
+}
+
+.creature-note
+.callout[data-callout="creature-lore"]
+.callout-title-inner {
+  color: inherit;
+}
+
+.creature-note
+.callout[data-callout="creature-lore"]
+.callout-icon {
+  display: none;
+}
+
+/* Lore body */
+.creature-note
+.callout[data-callout="creature-lore"]
+.callout-content {
+  padding: 8px 12px 10px;
+  color: var(--creature-text);
+  font-family: var(--font-text);
+  font-style: normal;
+  line-height: 1.6;
+}
+
+/* Lore list */
+.creature-note
+.callout[data-callout="creature-lore"]
+ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none !important;
+}
+
+.creature-note
+.callout[data-callout="creature-lore"]
+li {
+  position: relative;
+  margin: 0;
+  padding: 5px 0 5px 18px;
+  list-style: none !important;
+}
+
+/* Thin blue rules between lore entries */
+.creature-note
+.callout[data-callout="creature-lore"]
+li + li {
+  margin-top: 4px;
+  padding-top: 8px;
+  border-top: 1px solid var(--creature-rule);
+}
+
+/* Small blue diamond */
+.creature-note
+.callout[data-callout="creature-lore"]
+li::before {
+  position: absolute;
+  top: 0.9em;
+  left: 2px;
+  display: block;
+  width: 6px;
+  height: 6px;
+  content: "";
+  background: var(--creature-blue);
+  transform: rotate(45deg);
+  opacity: 0.75;
+}
+
+.creature-note
+.callout[data-callout="creature-lore"]
+li + li::before {
+  top: 1.15em;
+}
+
+.creature-note
+.callout[data-callout="creature-lore"]
+li::marker {
+  content: "";
+}
+
+.creature-note
+.callout[data-callout="creature-lore"]
+strong {
+  color: var(--creature-blue);
+  font-family: var(--creature-font);
+  font-style: italic;
+  font-weight: 700;
+}

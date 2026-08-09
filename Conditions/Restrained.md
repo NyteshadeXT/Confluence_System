@@ -1,0 +1,1 @@
+A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed. You grant combat advantage to enemies and also gain the [[immobilized]] condition. You can’t be forced to move by any form of external force. All attack rolls are rolled at disadvantage.

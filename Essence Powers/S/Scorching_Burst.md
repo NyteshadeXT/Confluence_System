@@ -7,6 +7,7 @@ essences:
 - Omen
 - Reckoning
 - Momentum
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Core Concept
 
 **AT-WILL ARCANE FIRE IMPLEMENT**
 
-**Eligible Essences:** Fire, Light, Omen, Reckoning, Momentum  
+**Eligible Essences:** Fire, Light, Omen, Reckoning, Momentum, Storm
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

@@ -7,6 +7,7 @@ essences:
 - Order
 - Momentum
 - Wolf
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon**
 
-**Eligible Essences:** Blade, Shield, Order, Momentum, Wolf  
+**Eligible Essences:** Blade, Shield, Order, Momentum, Wolf, Harmony
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

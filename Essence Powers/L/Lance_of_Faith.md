@@ -6,6 +6,7 @@ essences:
 - Eye
 - Sound
 - Magic
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ essences:
 
 At-Will Implement Radiant Psychic Sonic Force
 
-**Eligible Essences:** Light, Eye, Sound, Magic  
+**Eligible Essences:** Light, Eye, Sound, Magic, Harmony
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

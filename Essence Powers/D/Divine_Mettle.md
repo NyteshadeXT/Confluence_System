@@ -6,6 +6,7 @@ essences:
 - Life
 - Oath
 - Light
+- Harmony
 ---
 
 
@@ -14,7 +15,7 @@ Utility ✦ Channel Divinity
 
 **ENCOUNTER DIVINE**
 
-**Eligible Essences:** Oath, Light, Life, Balance  
+**Eligible Essences:** Oath, Light, Life, Balance, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

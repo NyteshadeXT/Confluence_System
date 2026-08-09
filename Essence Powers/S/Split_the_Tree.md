@@ -6,14 +6,15 @@ essences:
 - Hunt
 - Adept
 - Eye
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
 Attack ✦ Apex Ability
 
-Daily  Martial Weapon Precision
+**Daily Martial Weapon Precision**
 
-**Eligible Essences:** Ranged, Hunt, Adept, Eye
+**Eligible Essences:** Ranged, Hunt, Adept, Eye, Storm
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

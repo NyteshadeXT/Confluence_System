@@ -24,13 +24,6 @@ Might expresses strength without subtlety. It favors decisive impact, breaking r
 
 ---
 
-### Training Interaction
-Might commits fully to physical dominance using powerful weapons.  It breaks objects, grapples shoves and climbs. At Rank 6, Might grants one of the following **Military Melee Proficiency, Two-Handed Weapon Proficiency OR +2 bonus to Athletics checks.**
-
-Might does NOT grant armor.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Imposing Presence** Might withstands physical challenge. Gain +1 Fortitude.
 **Rank 5 — Crushing Strength** Increase Strength by +1.

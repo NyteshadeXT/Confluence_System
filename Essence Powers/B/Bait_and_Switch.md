@@ -8,6 +8,7 @@ essences:
 - Cat
 - Deception
 - Momentum
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Shadow, Swift, Trick, Cat, Wind, Deception, Momentum
+**Eligible Essences:** Shadow, Swift, Trick, Cat, Wind, Deception, Momentum, Harmony
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

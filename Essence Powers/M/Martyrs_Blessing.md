@@ -9,6 +9,7 @@ essences:
 - Dominion
 - Bear
 - Dog
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Utility ✦ Utility / Passive
 
 **DAILY DIVINE**
 
-**Eligible Essences:** Oath, Shield, Life, Zeal, Bear, Dog, Dominion
+**Eligible Essences:** Oath, Shield, Life, Zeal, Bear, Dog, Dominion, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Daily

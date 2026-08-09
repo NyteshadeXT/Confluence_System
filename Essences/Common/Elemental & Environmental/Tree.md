@@ -24,13 +24,6 @@ Tree represents slow resilience and protection. It favors defense, longevity, an
 
 ---
 
-### Training Interaction
-Tree grants protective defensive training. At Rank 6, Tree grants one of the following proficiencies **Scale Armor Proficiency, Heavy Shield Proficiency OR Hide Armor Proficiency.**
-
-Tree does not grant weapon category proficiency. Tree protects. It does not specialize in killing.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Barkskin Resolve** Tree withstands physical force. Gain +1 Fortitude.
 **Rank 5 — Deep Roots** Increase Constitution by +1.

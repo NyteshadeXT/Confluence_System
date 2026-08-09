@@ -24,11 +24,6 @@ Ape emphasizes raw physical power and vertical mobility. It favors overwhelming 
 
 ---
 
-### Training Interaction
-Ape grants training aligned with brute physical dominance. At Rank 6, Ape grants one of the following **Unarmed Weapon Group Enhancement** (Your unarmed strike damage increases to 1d8 and gains a +1 proficiency bonus.), **Two-Handed Weapon Proficiency OR Climb Speed (equal to base speed).**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Primal Presence** Ape withstands physical opposition. Gain +1 Fortitude.
 **Rank 5 — Crushing Strength** Increase Strength by +1.

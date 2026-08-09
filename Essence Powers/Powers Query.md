@@ -3,8 +3,8 @@ TABLE slot,
   rows.file.link AS Powers,
   length(rows) AS Power_Count
 FROM "Essence Powers"
+WHERE any(essences, (e) => e = "Swift")
 WHERE typeof(essences) = "array"
-WHERE any(essences, (e) => e = "Oath")
 GROUP BY slot
 SORT slot
 ```

@@ -35,9 +35,6 @@ A triad resolves into Equilibrium only if it contains **Balance**, and at least 
 ·         **Iron Tier:** Gain +1 Mana at Rank 3
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose one gain proficiency with **Chain Armor, g**ain proficiency with **Light Shields,** gain proficiency with Staff as an Implement **OR g**ain +2 bonus to Insight checks involving conflict resolution or detecting imbalance.
-
 ## RANK MILESTONES
 **Rank 3 — Centered Form** You gain a +1 bonus to Will defense.
 **Rank 5 — Balanced Mind** Increase Wisdom or Constitution by +1.

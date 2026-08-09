@@ -6,6 +6,7 @@ essences:
 - Cat
 - Might
 - Wind
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Movement
 
 **At-Will Martial**
 
-**Eligible Essences:** Swift, Cat, Might, Wind  
+**Eligible Essences:** Swift, Cat, Might, Wind, Storm
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** At-Will

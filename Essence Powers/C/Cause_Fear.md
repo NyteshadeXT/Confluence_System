@@ -6,6 +6,8 @@ essences:
 - Reckoning
 - Shadow
 - Oath
+- Dominion
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +15,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE FEAR IMPLEMENT**
 
-**Eligible Essences:** Omen, Reckoning, Shadow, Oath, Dominion
+**Eligible Essences:** Omen, Reckoning, Shadow, Oath, Dominion, Mind
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

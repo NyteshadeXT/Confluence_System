@@ -24,13 +24,6 @@ Air emphasizes avoidance over endurance and control through movement, not durabi
 
 ---
 
-### Training Interaction
-Air does **not** grant armor or weapon proficiency.
-
-Air modifies mobility and positioning. If a benefit references armor, the character must already possess the relevant proficiency. Otherwise, the benefit remains dormant.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Evasion Instinct** Air moves first. Gain +1 Initiative. 
 **Rank 5 — Kinetic Refinement** Air refines reaction speed, not resilience. Increase Dexterity by +1.

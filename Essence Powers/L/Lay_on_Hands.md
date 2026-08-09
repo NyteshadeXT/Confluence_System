@@ -5,6 +5,7 @@ essences:
 - Oath
 - Light
 - Life
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -12,7 +13,7 @@ Utility ✦ Sacred Touch
 
 **AT-WILL DIVINE HEALING**
 
-**Eligible Essences:** Life, Oath, Light  
+**Eligible Essences:** Life, Oath, Light, Harmony 
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** At-Will

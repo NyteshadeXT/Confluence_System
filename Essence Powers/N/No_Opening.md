@@ -6,6 +6,7 @@ essences:
 - Order
 - Iron
 - Adept
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Defensive
 
 **Encounter Martial**
 
-**Eligible Essences:** Shield, Order, Iron, Adept  
+**Eligible Essences:** Shield, Order, Iron, Adept, Mind
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

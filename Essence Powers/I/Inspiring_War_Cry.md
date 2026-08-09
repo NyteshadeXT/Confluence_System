@@ -9,6 +9,7 @@ essences:
 - Renewal
 - Revelation
 - Order
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Sound, Zeal, Resolute, Oath, Order, Renewal, Revelation
+**Eligible Essences:** Sound, Zeal, Resolute, Oath, Order, Renewal, Revelation, Harmony
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

@@ -24,11 +24,6 @@ Dog endures through commitment and awareness. It favors protection, detection, a
 
 ---
 
-### Training Interaction
-Dog guards.  It holds a defensive lane and detects threats. At Rank 6, Dog grants one of the following **Heavy Shield Proficiency, Spear Group Proficiency OR Gain +1 to Perception checks.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Watchful Instinct** Dog stands firm against fear and mental pressure. Gain +1 Will.
 **Rank 5 — Steady Resolve** Increase Wisdom by +1.

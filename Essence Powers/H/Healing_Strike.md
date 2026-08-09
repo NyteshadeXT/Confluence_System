@@ -6,6 +6,7 @@ essences:
 - Life
 - Light
 - Shield
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE HEALING RADIANT WEAPON**
 
-**Eligible Essences:** Life, Oath, Light, Shield  
+**Eligible Essences:** Life, Oath, Light, Shield, Harmony
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

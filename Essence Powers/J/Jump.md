@@ -5,6 +5,7 @@ essences:
 - Balance
 - Wind
 - Momentum
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -12,7 +13,7 @@ Utility ✦ Arcane Enhancement
 
 **ENCOUNTER ARCANE**
 
-**Eligible Essences:** Wind, Momentum, Balance  
+**Eligible Essences:** Wind, Momentum, Balance, Storm
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

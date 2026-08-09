@@ -24,11 +24,6 @@ Wasp punishes intrusion through persistence. It excels at repeated pressure, dis
 
 ---
 
-### Training Interaction
-Wasp moves constantly working to threaten space all round it. When it strikes, it strikes quickly. At Rank 6, Wasp grants one of the following **Light Blade Group Proficiency, Spear Group Proficiency OR Gain +1 Speed.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Agitating Presence** Wasp acts early and often. Gain +1 Initiative.
 **Rank 5 — Quickened Reflexes** Increase Dexterity by +1.

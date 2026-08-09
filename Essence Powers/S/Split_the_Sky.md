@@ -8,6 +8,7 @@ essences:
 - Sun
 - Oath
 - Dominion
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE THUNDER WEAPON**
 
-**Eligible Essences:** Sound, Force, Might, Sun, Oath, Dominion  
+**Eligible Essences:** Sound, Force, Might, Sun, Oath, Dominion, Storm
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

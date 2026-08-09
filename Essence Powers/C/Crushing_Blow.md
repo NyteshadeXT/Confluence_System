@@ -8,6 +8,7 @@ essences:
 - Bear
 - Iron
 - Momentum
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Bludgeon, Might, Steel, Bear, Iron, Momentum  
+**Eligible Essences:** Bludgeon, Might, Steel, Bear, Iron, Momentum, Storm 
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

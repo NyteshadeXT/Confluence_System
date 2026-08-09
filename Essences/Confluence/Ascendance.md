@@ -41,12 +41,6 @@ A triad resolves into Ascendance only if it contains at least one elevation Esse
 ·         Iron Tier: Gain +1 Mana at Rank 3 and Rank 7
 ·         Bronze Tier: Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-
-At Rank 6, choose Polearm Group Proficiency, +2 bonus to Religion checks involving divine authority, +2 bonus to Athletics checks involving jumping or vertical movement OR +2 bonus to Intimidate checks reflecting presence or radiance.
-
-Ascendance does not grant armor proficiency.
-
 ## ESSENCE MASTERY MILESTONES
 **Rank 3 — Elevated Reaction** Gain +1 Initiative.
 **Rank 5 — Transcendent Form** Increase Charisma or Strength by +1 (based on selection during Essence acquisition).

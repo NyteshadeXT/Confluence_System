@@ -36,11 +36,6 @@ Any triad that converts one resource or state into another, requires preparation
 ·         Iron Tier: Gain +1 Mana at Rank 3 and Rank 7
 ·         Bronze Tier: Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose +2 bonus to Arcana checks involving magical substances or reagents, +2 bonus to Nature checks involving natural toxins, reagents, or distillation OR Light Armor Proficiency.
-
-Alchemy does not grant weapon proficiency.
-
 ## RANK MILESTONES
 **Rank 3 — Measured Preparation** Gain +1 to saving throws against ongoing damage effects.
 **Rank 5 — Refined Mind** Increase Intelligence by +1.

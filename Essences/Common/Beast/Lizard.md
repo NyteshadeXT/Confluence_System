@@ -24,11 +24,6 @@ Lizard survives where others fail. It favors endurance through regeneration, env
 
 ---
 
-### Training Interaction
-Lizard adapts to its environment and survives in harsh conditions.  It develops a hardened hide to protect itself. At Rank 6, Lizard grants one of the following **Gain Resist 5 to one damage type of your choice (fire, cold, acid, lightning, or poison), Scale Armor Proficiency OR Gain +2 bonus to Endurance checks.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Adaptive Instinct** Lizard withstands physical stress. Gain +1 Fortitude.
 **Rank 5 — Regenerative Frame** Increase Constitution by +1.

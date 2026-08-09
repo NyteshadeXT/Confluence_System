@@ -5,6 +5,7 @@ essences:
 - Oath
 - Light
 - Balance
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -12,7 +13,7 @@ Utility ✦ Sacred Ward
 
 **ENCOUNTER DIVINE**
 
-**Eligible Essences:** Oath, Light, Balance  
+**Eligible Essences:** Oath, Light, Balance, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

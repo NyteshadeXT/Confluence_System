@@ -1,5 +1,11 @@
 {
   "cssTheme": "ITS Theme",
   "accentColor": "#405eba",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "item-card",
+    "dnd4e-item",
+    "randomness",
+    "creature-notes"
+  ]
 }

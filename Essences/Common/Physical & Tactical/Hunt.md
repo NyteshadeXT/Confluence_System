@@ -1,4 +1,4 @@
-![[essence-hunt.png|right]]
+![[essence-hunt.png|right hmed]]
 
 **Core Concept:** Pursuit, tracking, inevitability  
 
@@ -21,13 +21,6 @@ Hunt excels at finding, following, and wearing down prey. It rewards preparation
 **Focus:** Hunt has limited magical support tied to perception, tracking, and marking.
 - **Iron Tier:** Gain +1 Mana at Rank 3
 - **Bronze Tier:** No additional Mana gained from Hunt in Bronze
-
----
-
-### Training Interaction
-Hunt follows signs relentlessly tracking at range.  It prefers to hunt with reach. At Rank 6, Hunt grants one of the following **Bow Group Proficiency, Spear Group Proficiency OR +2 bonus to Perception and Nature checks made to track creatures.**
-
-Hunt does NOT grant armor.
 
 ---
 

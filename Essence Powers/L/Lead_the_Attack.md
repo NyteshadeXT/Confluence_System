@@ -7,6 +7,7 @@ essences:
 - Eye
 - Momentum
 - Hunt
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Apex Ability
 
 **DAILY MARTIAL WEAPON**
 
-**Eligible Essences:** Eye, Zeal, Oath, Momentum, Hunt  
+**Eligible Essences:** Eye, Zeal, Oath, Momentum, Hunt, Harmony
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

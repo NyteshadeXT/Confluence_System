@@ -24,11 +24,6 @@ Wolf excels through cooperation and sustained pressure. It rewards positioning, 
 
 ---
 
-### Training Interaction
-Wolf circles and strikes. It likes to hunt with reach and formation. It ultimately runs down it’s prey. At Rank 6, Wolf grants one of the following **Light Blade Group Proficiency**, **Spear Group Proficiency OR Speed +1.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Pack Instinct** Wolf acts when the pack moves. Gain +1 Initiative.
 

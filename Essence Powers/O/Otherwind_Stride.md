@@ -9,6 +9,7 @@ essences:
 - Wing
 - Freedom
 - Paradox
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER ARCANE IMPLEMENT TELEPORTATION**
 
-**Eligible Essences:** Air, Wind, Swift, Magic, Wing, Freedom, Paradox
+**Eligible Essences:** Air, Wind, Swift, Magic, Wing, Freedom, Paradox, Storm
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

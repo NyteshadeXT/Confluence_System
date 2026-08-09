@@ -7,6 +7,7 @@ essences:
 - Eye
 - Hunt
 - Ambush
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Blade, Shadow, Eye, Hunt, Ambush
+**Eligible Essences:** Blade, Shadow, Eye, Hunt, Ambush, Harmony
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

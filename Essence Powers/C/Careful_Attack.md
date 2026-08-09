@@ -7,6 +7,7 @@ essences:
 - Blade
 - Ranged
 - Snake
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Core Concept
 
 **At-Will Martial Weapon Precision**
 
-**Eligible Essences:** Hunt, Adept, Blade, Ranged, Snake  
+**Eligible Essences:** Hunt, Adept, Blade, Ranged, Snake, Harmony
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

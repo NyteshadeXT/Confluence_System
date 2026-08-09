@@ -7,6 +7,7 @@ essences:
 - Zeal
 - Oath
 - Swift
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Core Concept
 
 **AT-WILL MARTIAL WEAPON**
 
-**Eligible Essences:** Hunt, Momentum, Zeal, Oath, Swift  
+**Eligible Essences:** Hunt, Momentum, Zeal, Oath, Swift, Harmony
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

@@ -23,13 +23,6 @@ Ice limits options and dictates pace. It slows, binds, and constrains enemies, f
 
 ---
 
-### Training Interaction
-Ice is not martial and not heavily armored. At Rank 6, Ice grants one of the following proficiencies: **Implement Focus** (choose one implement category: Orb, Staff, Wand, etc.) OR **Light Shield Proficiency.** Ice does not grant armor beyond cloth.
-
-Ice does not grant weapon category proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Calculated Defense** Ice resists mental disruption through composure. Gain +1 Will.
 **Rank 5 — Cold Precision** Increase Intelligence by +1.

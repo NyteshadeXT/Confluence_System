@@ -7,6 +7,7 @@ essences:
 - Shadow
 - Lightning
 - Star
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Core Concept
 
 **At-Will Arcane Implement**
 
-**Eligible Essences:** Magic, Force, Shadow, Lightning, Star
+**Eligible Essences:** Magic, Force, Shadow, Lightning, Star, Mind
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

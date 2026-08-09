@@ -6,6 +6,7 @@ essences:
 - Life
 - Light
 - Balance
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Channel Divinity
 
 **ENCOUNTER DIVINE HEALING**
 
-**Eligible Essences:** Life, Oath, Light, Balance  
+**Eligible Essences:** Life, Oath, Light, Balance, Harmony  
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

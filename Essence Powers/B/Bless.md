@@ -6,6 +6,7 @@ essences:
 - Zeal
 - Oath
 - Balance
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Sacred Benediction
 
 **DAILY DIVINE**
 
-**Eligible Essences:** Light, Zeal, Oath, Balance  
+**Eligible Essences:** Light, Zeal, Oath, Balance, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Daily

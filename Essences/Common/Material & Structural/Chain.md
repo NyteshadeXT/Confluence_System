@@ -24,11 +24,6 @@ Chain restricts movement and dictates positioning. It excels at limiting options
 
 ---
 
-### Training Interaction
-Chain grants weapon training aligned with restraint and reach. At Rank 6, Chain grants one of the following: **Flail Group Proficiency, Spear Group Proficiency OR Heavy Shield Proficiency.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Imposed Structure** Chain resists being moved or disrupted. Gain +1 Fortitude.
 **Rank 5 — Iron Grip** Increase Strength by +1.

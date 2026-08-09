@@ -24,13 +24,6 @@ Fox avoids direct confrontation through clever positioning. It excels at decepti
 
 ---
 
-### Training Interaction
-Fox prefers subtly and precision.  It may wield illusions or tricks to serve its ends. At Rank 6, Fox grants one of the following **Light Blade Group Proficiency OR Implement Proficiency (choose one).**
-
-Fox does NOT grant armor.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Slippery Instinct** Fox acts before the trap closes. Gain +1 Initiative.
 **Rank 5 — Silver Tongue** Increase Charisma by +1.

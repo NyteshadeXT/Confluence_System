@@ -9,6 +9,7 @@ essences:
 - Revelation
 - Harmonic
 - Equilibrium
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER ARCANE RADIANT IMPLEMENT**
 
-**Eligible Essences:** Light, Sound, Magic, Eye, Revelation, Harmonic, Equilibrium
+**Eligible Essences:** Light, Sound, Magic, Eye, Revelation, Harmonic, Equilibrium, Mind
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

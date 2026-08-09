@@ -8,6 +8,7 @@ essences:
 - Magic
 - Force
 - Gathering
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER ARCANE LIGHTNING IMPLEMENT**
 
-**Eligible Essences:** Lightning, Air, Sound, Magic, Force, Gathering
+**Eligible Essences:** Lightning, Air, Sound, Magic, Force, Gathering, Storm
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

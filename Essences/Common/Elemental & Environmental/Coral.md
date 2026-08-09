@@ -24,13 +24,6 @@ Coral grows through accumulation and resistance. It reshapes space into dangerou
 
 ---
 
-### Training Interaction
-Coral grants defensive training aligned with layered protection and territorial control. At Rank 6, Coral grants one of the following proficiencies **Scale Armor Proficiency, Heavy Shield Proficiency OR Spear Group Proficiency.**
-
-Coral does not grant weapon category proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Layered Carapace** Coral hardens through accretion. Gain +1 AC.
 **Rank 5 — Growing Structure** Increase Constitution by +1.

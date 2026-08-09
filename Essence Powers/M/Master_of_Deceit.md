@@ -5,6 +5,7 @@ essences:
 - Fox
 - Adept
 - Eye
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -12,7 +13,7 @@ Utility ✦ Skill
 
 **Encounter  Martial**
 
-**Eligible Essences:** Fox, Adept, Eye  
+**Eligible Essences:** Fox, Adept, Eye, Mind
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

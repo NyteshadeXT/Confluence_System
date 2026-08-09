@@ -8,6 +8,7 @@ essences:
 - Momentum
 - Snake
 - Balance
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Blade, Cat, Swift, Momentum, Snake, Balance
+**Eligible Essences:** Blade, Cat, Swift, Momentum, Snake, Balance, Storm
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

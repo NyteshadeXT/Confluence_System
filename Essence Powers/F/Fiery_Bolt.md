@@ -9,6 +9,7 @@ essences:
 - Force
 - Ranged
 - Gathering
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER ARCANE FIRE IMPLEMENT**
 
-**Eligible Essences:** Fire, Ruin, Magic, Ash, Force, Ranged, Gathering
+**Eligible Essences:** Fire, Ruin, Magic, Ash, Force, Ranged, Gathering, Storm
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

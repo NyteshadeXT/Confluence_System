@@ -8,6 +8,7 @@ essences:
 - Hunt
 - Wolf
 - Fox
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon Mobility**
 
-**Eligible Essences:** Fox, Wolf, Hunt, Ranged, Oath, Order  
+**Eligible Essences:** Fox, Wolf, Hunt, Ranged, Oath, Order, Harmony
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

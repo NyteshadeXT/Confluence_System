@@ -35,11 +35,6 @@ A triad resolves into Momentum only if it contains at least one motion Essence (
 ·         Iron Tier: Gain +1 Mana at Rank 7
 ·         Bronze Tier: No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose Spear Group Proficiency, Heavy Blade Group Proficiency, +2 bonus to Athletics checks involving charging, jumping, or forced movement OR +2 bonus to Acrobatics checks involving movement through enemy spaces.
-
-Momentum does not grant armor proficiency.
-
 ## RANK MILESTONES
 **Rank 3 — Driving Start** Gain +1 Initiative.
 **Rank 5 — Carried Force** Increase Dexterity or Strength by +1 (based on selection during Essence acquisition).

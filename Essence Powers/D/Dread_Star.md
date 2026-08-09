@@ -7,6 +7,7 @@ essences:
 - Omen
 - Gathering
 - Suppression
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Apex Ability
 
 **Daily Arcane Light Implement**
 
-**Eligible Essences:** Star, Light, Omen, Gathering, Suppression
+**Eligible Essences:** Star, Light, Omen, Gathering, Suppression, Mind
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

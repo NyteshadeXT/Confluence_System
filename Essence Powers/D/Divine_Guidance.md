@@ -7,6 +7,7 @@ essences:
 - Oath
 - Revelation
 - Suppression
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Utility ✦ Tactical
 
 **ENCOUNTER DIVINE**
 
-**Eligible Essences:** Oath, Order, Light, Revelation, Suppression
+**Eligible Essences:** Oath, Order, Light, Revelation, Suppression, Harmony
 
 **Slot:** 2 – Utility / Passive
 **Tier:** Encounter

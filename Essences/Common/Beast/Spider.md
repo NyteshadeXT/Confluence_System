@@ -24,13 +24,6 @@ Spider controls encounters before they begin. It reshapes space, restricts movem
 
 ---
 
-### Training Interaction
-Spider favors precision strikes and controlling space. It shapes encounters to its benefit. At Rank 6, Spider grants one of the following **Light Blade Group Proficiency, Spear Group Proficiency OR Implement Proficiency (choose one).**
-
-Spider does NOT grant armor.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Web Sense** Spider anticipates movement. Gain +1 Reflex.
 **Rank 5 — Calculated Patience** Increase Intelligence by +1.

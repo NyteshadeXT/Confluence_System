@@ -36,9 +36,6 @@ A triad resolves into Convergence only if unity is mutual and symmetrical. If on
 ·         **Iron Tier:** Gain +1 Mana at Rank 3 and Rank 7
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Chain Armor, gain proficiency with Light Shields, gain proficiency with Staves as Implements, gain +2 bonus to Diplomacy checks involving coalition, unity, or shared purpose.
-
 ## RANK MILESTONES
 **Rank 3 — Unified Will** You gain a +1 bonus to Will defense.
 **Rank 5 — Harmonized Presence** Increase Wisdom or Charisma by +1.

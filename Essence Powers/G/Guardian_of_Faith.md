@@ -6,6 +6,7 @@ essences:
 - Light
 - Balance
 - Life
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Apex Ability
 
 **DAILY DIVINE RADIANT CONJURATION IMPLEMENT**
 
-**Eligible Essences:** Oath, Light, Balance, Life  
+**Eligible Essences:** Oath, Light, Balance, Life, Harmony
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

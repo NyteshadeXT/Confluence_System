@@ -36,9 +36,6 @@ Apotheosis is not merely powerful. It is self-exalting.
 ·         **Iron Tier:** Gain +1 Mana at Rank 3 and Rank 7
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Plate Armor, gain proficiency with Heavy Shields, gain proficiency with the Heavy Blade Weapon Group OR gain proficiency with Holy Symbols or Orbs (choose one).
-
 ## RANK MILESTONES
  **Rank 3 — Sovereign Presence** You gain a +1 bonus to Will defense.
 **Rank 5 — Self-Exaltation** Increase Charisma or Constitution by +1.

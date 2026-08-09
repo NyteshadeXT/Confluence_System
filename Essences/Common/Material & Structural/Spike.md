@@ -24,11 +24,6 @@ Spike makes movement costly and mistakes painful. It controls territory by threa
 
 ---
 
-### Training Interaction
-Spike grants weapon training aligned with threat projection. At Rank 6, Spike grants one of the following **Spear Group Proficiency, Polearm Group Proficiency OR Heavy Blade Group Proficiency.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Threatening Posture** Spike withstands backlash and counter-force. Gain +1 Fortitude.
 **Rank 5 — Barbed Strength** Increase Strength by +1.

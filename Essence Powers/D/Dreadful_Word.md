@@ -7,6 +7,7 @@ essences:
 - Shadow
 - Eye
 - Domination
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Signature Strike
 
 **Encounter Arcane Implement**
 
-**Eligible Essences:** Star, Omen, Shadow, Eye, Domination
+**Eligible Essences:** Star, Omen, Shadow, Eye, Domination, Mind
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

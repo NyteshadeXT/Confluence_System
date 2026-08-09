@@ -24,11 +24,6 @@ Turtle endures by waiting out opposition. It emphasizes protection, restraint, a
 
 ---
 
-### Training Interaction
-Turtle uses strong protection. It is hardest to break early in a fight.  Turtle is reinforced by it’s defensive posture. At Rank 6, Turtle grants one of the following **Heavy Shield Proficiency, Plate Armor Proficiency, OR Gain +1 AC while not bloodied.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Hardened Shell** Turtle reinforces its defensive posture early. Gain +1 AC.
 **Rank 5 — Enduring Body** Increase Constitution by +1.

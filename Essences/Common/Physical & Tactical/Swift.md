@@ -24,13 +24,6 @@ Swift favors acting first and repositioning constantly. It rewards timing, mobil
 
 ---
 
-### Training Interaction
-Swift moves farther, strikes quickly and reacts immediately. At Rank 6, Swift grants one of the following **Gain +2 Speed, Light Blade Group Proficiency OR Gain +1 to Initiative checks.**
-
-Swift does NOT grant armor.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Lightning Reflex** Swift consistently acts early. Gain +1 Initiative.
 **Rank 5 — Rapid Form** Increase Dexterity by +1.

@@ -7,6 +7,7 @@ essences:
 - Wind
 - Reckoning
 - Balance
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Core Concept
 
 **AT-WILL ARCANE THUNDER IMPLEMENT**
 
-**Eligible Essences:** Sound, Force, Wind, Reckoning, Balance  
+**Eligible Essences:** Sound, Force, Wind, Reckoning, Balance, Storm  
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

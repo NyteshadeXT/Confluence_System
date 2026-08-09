@@ -36,9 +36,6 @@ A triad resolves into Siege only if it contains at least one structural enduranc
 ·         **Iron Tier:** No Mana granted
 ·         **Bronze Tier:** No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Scale Armor Proficiency, gain proficiency with Heavy Shields, gain proficiency with Hammer Weapon Group OR gain +2 bonus to Endurance checks involving prolonged strain or exhaustion.
-
 ## RANK MILESTONES
 **Rank 3 — Unyielding Frame** You gain a +1 bonus to Fortitude saving throws.
 **Rank 5 — Structural Resolve** Increase Constitution or Strength by +1 (based on selection during Essence acquisition).

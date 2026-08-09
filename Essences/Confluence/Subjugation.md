@@ -38,9 +38,6 @@ Many Dungeons will react violently to its presence.
 ·         **Iron Tier:** Gain +1 Mana at Rank 3 and Rank 7
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Chain Armor, gain proficiency with Heavy Shields, gain proficiency with the Flail or Mace Weapon Group OR gain +2 bonus to Intimidation checks made to compel or assert authority.
-
 ## RANK MILESTONES
 **Rank 3 — Hardened Will** You gain a +1 bonus to Will defense.
 **Rank 5 — Imposing Presence** Increase Charisma or Intelligence by +1 (based on selection during Essence acquisition).

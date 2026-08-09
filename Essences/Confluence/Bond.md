@@ -34,9 +34,6 @@ Any triad that enforces responsibility through connection, strengthens through m
 ·         **Iron Tier:** Gain +1 Mana at Rank 7
 ·         **Bronze Tier:** No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with **Chain Armor, g**ain proficiency with **Light or Heavy Shields, g**ain proficiency with the **Spear or Heavy Blade Weapon Group** OR gain +2 bonus to Diplomacy checks involving alliance, loyalty, or negotiation.
-
 ## RANK MILESTONES
 **Rank 3 — Shared Resolve** You gain a +1 bonus to Fortitude defense.
 **Rank 5 — Strengthened Ties** Increase Charisma or Constitution by +1.

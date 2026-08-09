@@ -7,6 +7,7 @@ essences:
 - Oath
 - Zeal
 - Revelation
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Utility ✦ Social Influence
 
 **ENCOUNTER ARCANE**
 
-**Eligible Essences:** Light, Eye, Oath, Zeal, Revelation
+**Eligible Essences:** Light, Eye, Oath, Zeal, Revelation, Mind
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

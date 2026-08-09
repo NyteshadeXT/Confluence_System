@@ -35,11 +35,6 @@ A triad resolves into Revelation only if it contains **Eye**, and at least one c
 ·         **Iron Tier:** Gain +1 Mana at Rank 3 and Rank 7
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Light Armor (Leather or Hide), gain proficiency with Orbs OR Staves as Implements OR gain +2 bonus to Perception checks made to detect hidden creatures or illusions.
-
-Revelation does not grant weapon proficiency.
-
 ## RANK MILESTONES
 **Rank 3 — Clear Sight** You gain a +1 bonus to Will defense.
 **Rank 5 — Enlightened Mind** Increase Wisdom or Intelligence by ++1 (based on selection during Essence acquisition).

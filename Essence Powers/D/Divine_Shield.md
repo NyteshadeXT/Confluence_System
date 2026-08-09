@@ -6,6 +6,7 @@ essences:
 - Light
 - Oath
 - Life
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Core Concept
 
 **AT-WILL DIVINE WEAPON**
 
-**Eligible Essences:** Oath, Shield, Light, Life  
+**Eligible Essences:** Oath, Shield, Light, Life, Harmony
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

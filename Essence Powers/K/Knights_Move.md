@@ -8,6 +8,7 @@ essences:
 - Order
 - Balance
 - Momentum
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Utility ✦ Tactical Command
 
 **ENCOUNTER MARTIAL**
 
-**Eligible Essences:** Eye, Oath, Momentum, Swift, Balance  
+**Eligible Essences:** Eye, Oath, Momentum, Swift, Balance, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

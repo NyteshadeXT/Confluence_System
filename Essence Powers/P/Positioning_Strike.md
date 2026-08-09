@@ -7,6 +7,7 @@ essences:
 - Snake
 - Adept
 - Order
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon Control**
 
-**Eligible Essences:** Fox, Cat, Snake, Adept, Order  
+**Eligible Essences:** Fox, Cat, Snake, Adept, Order, Harmony
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

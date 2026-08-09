@@ -24,13 +24,6 @@ Trap wins before the fight begins. It rewards foresight, patience, and positioni
 
 ---
 
-### Training Interaction
-Trap uses precise tools and employs prepared magic.  It masters mechanical and environmental setups. At Rank 6, Trap grants one of the following **Light Blade Group Proficiency, Implement Proficiency (choose one) OR +2 bonus to Thievery checks and to skill checks made to create or disable traps.**
-
-Trap does NOT grant armor.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Prepared Position** Trap anticipates danger and avoids retaliation. Gain +1 Reflex.
 **Rank 5 — Calculated Mind** Increase Intelligence by +1.

@@ -24,11 +24,6 @@ Bear absorbs punishment and answers with relentless force. It favors staying pow
 
 ---
 
-### Training Interaction
-Ape grants training aligned with primal close combat. At Rank 6, Bear grants one of the following **Unarmed Weapon Group Enhancement** (Your unarmed strike damage increases to 1d8 and gains a +1 proficiency bonus.), **Two-Handed Weapon Proficiency OR Heavy Shield Proficiency**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Thick Hide** Bear endures physical punishment. Gain +1 Fortitude.
 **Rank 5 — Primal Bulk** Increase Constitution by +1.

@@ -24,14 +24,6 @@ Fire emphasizes endurance through aggression and damage persistence, accepting r
 
 ---
 
-### Training Interaction
-
-Fire is not about armor — it is about pressure as a result fire does not inherently grant armor proficiency. However, at Rank 6, if the character already possesses medium or heavy armor proficiency, Fire may grant a refinement (see milestone below).
-
-Fire is about the application of force and sustained offences.  At Rank 6 gain Military Melee Weapon Proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Combat Pressure** +1 Fortitude. Fire stands its ground in heat and strain.
 **Rank 5 — Tempered Core** Increase Constitution by +1

@@ -24,11 +24,6 @@ Cat strikes with speed and precision. It rewards mobility, control of footing, a
 
 ---
 
-### Training Interaction
-Cat is agile and moves consistently.  It maintains balance and defensive posture without the need for armor. At Rank 6, Cat grants one of the following **Light Blade Group Proficiency**, **Gain +1 Speed OR Gain +1 AC while wearing cloth or no armor.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Quickstep** Cat acts before others commit. Gain +1 Initiative.
 **Rank 5 — Feline Grace** Increase Dexterity by +1.

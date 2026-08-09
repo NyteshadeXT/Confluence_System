@@ -24,11 +24,6 @@ Cage defines space by what it forbids. It isolates threats, prevents escape, and
 
 ---
 
-### Training Interaction
-Cage grants training aligned with defensive structure and positional enforcement. At Rank 6, Cage grants one of the following **Heavy Shield Proficiency, Scale Armor Proficiency OR Implement Proficiency (choose one).**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Structured Defense** Cage resists disruption of its imposed order. Gain +1 Will.
 **Rank 5 — Calculated Containment** Increase Intelligence by +1.

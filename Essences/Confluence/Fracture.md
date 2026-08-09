@@ -35,9 +35,6 @@ A triad resolves into Fracture only if it contains **Glass or Ruin**, and at lea
 ·         **Iron Tier:** Gain +1 Mana at Rank 3
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Light Blades Weapon Group, gain proficiency with the Hammer Weapon Group, gain proficiency with Scale Armor OR gain +2 bonus to Athletics checks made to break objects or structures.
-
 ## RANK MILESTONES
 **Rank 3 — Cracked Foundation** You gain a +1 bonus to Reflex defense.
 **Rank 5 — Weaponized Insight** Increase Intelligence or Strength by +1 (based on selection during Essence acquisition).

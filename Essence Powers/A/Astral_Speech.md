@@ -8,6 +8,7 @@ essences:
 - Zeal
 - Order
 - Equilibrium
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Utility ✦ Utility / Passive
 
 **DAILY DIVINE MIND**
 
-**Eligible Essences:** Oath, Light, Revelation, Zeal, Order, Equilibrium
+**Eligible Essences:** Oath, Light, Revelation, Zeal, Order, Equilibrium, Mind
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Daily

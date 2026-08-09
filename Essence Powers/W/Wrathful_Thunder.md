@@ -6,6 +6,8 @@ essences:
 - Light
 - Sound
 - Reckoning
+- Lightning
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +15,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE THUNDER WEAPON**
 
-**Eligible Essences:** Oath, Light, Sound, Reckoning  
+**Eligible Essences:** Oath, Light, Sound, Reckoning, Lightning, Storm
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

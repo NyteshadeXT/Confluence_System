@@ -7,6 +7,7 @@ essences:
 - Shield
 - Life
 - Balance
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Utility ✦ Signature Support
 
 **ENCOUNTER MARTIAL HEALING**
 
-**Eligible Essences:** Oath, Zeal, Shield, Life, Balance  
+**Eligible Essences:** Oath, Zeal, Shield, Life, Balance, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

@@ -1,0 +1,1606 @@
+/* =========================================================
+   D&D 4e–Inspired Item Notes
+   Apply with:
+   
+   ---
+   cssclasses:
+     - dnd4e-item
+   ---
+   ========================================================= */
+
+.dnd4e-item {
+    --dnd4e-item-dark: #183c3b;
+    --dnd4e-item-mid: #24605d;
+    --dnd4e-item-light: #4d8c86;
+    --dnd4e-item-pale: #d7e7e4;
+
+    --dnd4e-panel-bg: var(--background-secondary);
+    --dnd4e-panel-border: rgba(77, 140, 134, 0.7);
+    --dnd4e-title-text: #f3f7f6;
+    --dnd4e-muted-text: var(--text-muted);
+}
+
+/* Keep the item reasonably narrow, like a compendium entry */
+.dnd4e-item .markdown-preview-sizer,
+.dnd4e-item .cm-sizer {
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* =========================================================
+   METADATA STRIP
+   > [!metadata]
+   > **Level 5** • **Potion** • **50 gp**
+   ========================================================= */
+
+.dnd4e-item .callout[data-callout="metadata"] {
+    --callout-color: 36, 96, 93;
+
+    margin: 0 0 0.9rem;
+    padding: 0;
+
+    background: rgba(36, 96, 93, 0.14);
+    border: 1px solid var(--dnd4e-panel-border);
+    border-top: none;
+    border-radius: 0 0 2px 2px;
+
+    box-shadow: none;
+}
+
+/* Hide the default "Metadata" title and icon */
+.dnd4e-item
+.callout[data-callout="metadata"]
+> .callout-title {
+    display: none;
+}
+
+.dnd4e-item
+.callout[data-callout="metadata"]
+> .callout-content {
+    padding: 0.42rem 0.9rem;
+}
+
+.dnd4e-item
+.callout[data-callout="metadata"]
+.callout
+p {
+    margin: 0;
+
+    color: var(--text-normal);
+    font-size: 0.82rem;
+    font-weight: 600;
+    letter-spacing: 0.045em;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+
+/* Make the separators more subtle */
+.dnd4e-item
+.callout[data-callout="metadata"]
+strong {
+    color: var(--text-normal);
+    font-weight: 750;
+}
+
+/* =========================================================
+   POWER CALLOUT
+   > [!power|consumable]
+   ========================================================= */
+
+.dnd4e-item .callout[data-callout="power"] {
+    --callout-color: 36, 96, 93;
+    --callout-icon: lucide-sparkles;
+
+    margin: 1rem 0;
+    padding: 0;
+
+    background: var(--dnd4e-panel-bg);
+    border: 1px solid var(--dnd4e-panel-border);
+    border-left: 4px solid var(--dnd4e-item-light);
+    border-radius: 2px;
+
+    box-shadow:
+        0 3px 8px rgba(0, 0, 0, 0.16),
+        inset 0 1px rgba(255, 255, 255, 0.025);
+
+    overflow: hidden;
+}
+
+/* Power title bar */
+.dnd4e-item
+.callout[data-callout="power"]
+> .callout-title {
+    min-height: unset;
+    padding: 0.38rem 0.7rem;
+
+    color: var(--dnd4e-title-text);
+    background:
+        linear-gradient(
+            90deg,
+            var(--dnd4e-item-dark),
+            var(--dnd4e-item-mid)
+        );
+
+    border-bottom: 1px solid var(--dnd4e-item-light);
+    border-radius: 0;
+
+    font-size: 0.88rem;
+    font-weight: 750;
+    letter-spacing: 0.035em;
+}
+
+/* Keep the icon restrained */
+.dnd4e-item
+.callout[data-callout="power"]
+.callout-icon {
+    color: var(--dnd4e-item-pale);
+    width: 1rem;
+    height: 1rem;
+}
+
+/* Show the |consumable metadata in the header */
+.dnd4e-item
+.callout[data-callout="power"][data-callout-metadata~="consumable"]
+.callout-title-inner::after {
+    content: " • Consumable";
+
+    color: var(--dnd4e-item-pale);
+    font-weight: 600;
+}
+
+/* Power body */
+.dnd4e-item
+.callout[data-callout="power"]
+> .callout-content {
+    padding: 0.7rem 0.85rem 0.8rem;
+}
+
+/* Remove excess paragraph spacing */
+.dnd4e-item
+.callout[data-callout="power"]
+.callout-content
+p {
+    margin: 0.45rem 0;
+    line-height: 1.55;
+}
+
+/* First line: action type */
+.dnd4e-item
+.callout[data-callout="power"]
+.callout-content
+p:first-child {
+    margin: -0.1rem -0.85rem 0.65rem;
+    padding: 0.28rem 0.85rem;
+
+    color: var(--text-normal);
+    background: rgba(36, 96, 93, 0.12);
+    border-bottom: 1px solid rgba(77, 140, 134, 0.45);
+
+    font-size: 0.82rem;
+    letter-spacing: 0.035em;
+    text-transform: uppercase;
+}
+
+/* =========================================================
+   GENERAL ITEM TYPOGRAPHY
+   ========================================================= */
+
+.dnd4e-item .markdown-rendered {
+    line-height: 1.6;
+}
+
+.dnd4e-item .markdown-rendered strong {
+    color: var(--text-normal);
+    font-weight: 750;
+}
+
+.dnd4e-item .markdown-rendered a {
+    color: var(--dnd4e-item-light);
+    font-weight: 600;
+}
+
+.dnd4e-item .markdown-rendered hr {
+    margin: 1.25rem 0;
+
+    border: none;
+    border-top: 1px solid var(--dnd4e-panel-border);
+}
+
+/* Reduce rounded modern styling inside item notes */
+.dnd4e-item .callout {
+    --callout-radius: 2px;
+}
+
+/* =========================================================
+   LIGHT MODE
+   ========================================================= */
+
+.theme-light .dnd4e-item {
+    --dnd4e-item-dark: #234a48;
+    --dnd4e-item-mid: #326b67;
+    --dnd4e-item-light: #568d88;
+    --dnd4e-item-pale: #e3f0ee;
+
+    --dnd4e-panel-bg: #f0f4f3;
+    --dnd4e-panel-border: rgba(50, 107, 103, 0.55);
+}
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 600px) {
+    .dnd4e-item .markdown-rendered h1:first-of-type {
+        padding: 0.5rem 0.7rem;
+        font-size: 1.45rem;
+    }
+
+    .dnd4e-item
+    .callout[data-callout="metadata"]
+    .callout-content {
+        padding: 0.4rem 0.7rem;
+    }
+
+    .dnd4e-item
+    .callout[data-callout="metadata"]
+    p {
+        font-size: 0.75rem;
+        letter-spacing: 0.025em;
+    }
+}
+
+/* ---------------------------------------------------------
+   Metadata strip
+   Visually attaches directly to the title.
+   --------------------------------------------------------- */
+
+body .dnd4e-item .callout[data-callout="metadata"] {
+    margin-top: 0 !important;
+
+    background: rgba(36, 96, 93, 0.16) !important;
+
+    border: 1px solid #4d8c86 !important;
+    border-top: none !important;
+    border-radius: 0 0 2px 2px !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="metadata"]
+> .callout-content {
+    padding: 0.42rem 0.85rem !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="metadata"]
+.callout-content p {
+    margin: 0 !important;
+
+    font-size: 0.82rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.025em !important;
+    text-transform: none !important;
+}
+
+/* ---------------------------------------------------------
+   Flavor text
+   Slightly more like printed rulebook text.
+   --------------------------------------------------------- */
+
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
+> p {
+
+    margin: 0 !important;
+
+    padding: .85rem 1rem !important;
+
+    background: rgba(36,96,93,.03);
+
+    border-left: 1px solid #4d8c86;
+    border-right: 1px solid #4d8c86;
+
+    color: var(--text-muted);
+
+    font-family: Georgia,"Times New Roman",serif;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+/* ---------------------------------------------------------
+   Power block
+   --------------------------------------------------------- */
+
+body .dnd4e-item .callout[data-callout="power"] {
+    margin-top: 1rem !important;
+
+    border: 1px solid #4d8c86 !important;
+    border-left: 4px solid #4d8c86 !important;
+    border-radius: 1px !important;
+
+    box-shadow: none !important;
+}
+
+/* Stronger 4e-style power header */
+body .dnd4e-item
+.callout[data-callout="power"]
+> .callout-title {
+    padding: 0.38rem 0.75rem !important;
+
+    color: #ffffff !important;
+    background: linear-gradient(
+        90deg,
+        #174a47,
+        #246d68
+    ) !important;
+
+    border-bottom: 1px solid #4d8c86 !important;
+    border-radius: 0 !important;
+
+    font-size: 0.9rem !important;
+    font-weight: 750 !important;
+    letter-spacing: 0.015em !important;
+}
+
+/* Remove the Obsidian callout icon */
+body .dnd4e-item
+.callout[data-callout="power"]
+.callout-icon {
+    display: none !important;
+}
+
+/* Remove space left behind by the hidden icon */
+body .dnd4e-item
+.callout[data-callout="power"]
+.callout-title {
+    gap: 0 !important;
+}
+
+/* Make the generated Consumable label less dominant */
+body .dnd4e-item
+.callout[data-callout="power"][data-callout-metadata~="consumable"]
+.callout-title-inner::after {
+    content: "  •  Consumable";
+
+    color: rgba(255, 255, 255, 0.82) !important;
+    font-size: 0.88em;
+    font-weight: 600;
+}
+
+/* Action strip */
+body .dnd4e-item
+.callout[data-callout="power"]
+.callout-content p:first-child {
+    margin: -0.7rem -0.85rem 0.7rem !important;
+    padding: 0.32rem 0.85rem !important;
+
+    color: var(--text-normal) !important;
+    background: rgba(36, 96, 93, 0.13) !important;
+
+    border-bottom: 1px solid rgba(77, 140, 134, 0.55) !important;
+
+    font-size: 0.78rem !important;
+    font-weight: 750 !important;
+    letter-spacing: 0.045em !important;
+    text-transform: uppercase !important;
+}
+
+/* Main effect text */
+body .dnd4e-item
+.callout[data-callout="power"]
+.callout-content p:last-child {
+    margin: 0 !important;
+    padding: 0.05rem 0 0.1rem !important;
+
+    font-size: 1rem !important;
+    line-height: 1.55 !important;
+}
+
+/* =========================================================
+   4E ITEM HEADER — OBSIDIAN READING VIEW
+   Handles Obsidian's .el-h1 heading wrapper.
+   ========================================================= */
+
+/* Remove spacing from the wrapper around the first H1 */
+body .dnd4e-item .el-h1:has(> h1:first-child) {
+    margin: 1rem 0 0 !important;
+    padding: 0 !important;
+}
+
+/* Style the actual item-name heading */
+body .dnd4e-item .el-h1:has(> h1:first-child) > h1 {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+
+    margin: 0 !important;
+    padding: 0.58rem 0.9rem !important;
+
+    color: #f5f7f6 !important;
+    background: linear-gradient(
+        90deg,
+        #183c3b 0%,
+        #24605d 72%,
+        #2d6a66 100%
+    ) !important;
+
+    border: 1px solid #4d8c86 !important;
+    border-bottom: none !important;
+    border-radius: 2px 2px 0 0 !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1.7rem !important;
+    font-weight: 700 !important;
+    line-height: 1.15 !important;
+    letter-spacing: 0.015em !important;
+
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7) !important;
+}
+
+/* Remove theme-generated decoration from the heading */
+body .dnd4e-item .el-h1:has(> h1:first-child) > h1::before,
+body .dnd4e-item .el-h1:has(> h1:first-child) > h1::after {
+    display: none !important;
+}
+
+/* Attach metadata directly to the heading wrapper */
+body .dnd4e-item
+.el-h1:has(> h1:first-child)
++ .callout[data-callout="metadata"] {
+    margin: 0 0 1rem !important;
+    padding: 0 !important;
+
+    background: rgba(36, 96, 93, 0.16) !important;
+
+    border: 1px solid #4d8c86 !important;
+    border-top: none !important;
+    border-radius: 0 0 2px 2px !important;
+
+    box-shadow: none !important;
+}
+
+/* Metadata sometimes has another rendering wrapper between it
+   and the heading, depending on the theme/Obsidian version */
+body .dnd4e-item
+.el-h1:has(> h1:first-child)
++ div
+.callout[data-callout="metadata"] {
+    margin-top: 0 !important;
+}
+
+/* Hide the default metadata title */
+body .dnd4e-item
+.callout[data-callout="metadata"]
+> .callout-title {
+    display: none !important;
+}
+
+/* Compact metadata content */
+body .dnd4e-item
+.callout[data-callout="metadata"]
+> .callout-content {
+    padding: 0.42rem 0.9rem !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="metadata"]
+.callout-content p {
+    margin: 0 !important;
+
+    color: var(--text-normal) !important;
+    font-size: 0.82rem !important;
+    font-weight: 700 !important;
+    line-height: 1.4 !important;
+    letter-spacing: 0.025em !important;
+    text-transform: none !important;
+}
+
+/* =========================================================
+   FALLBACK FOR THEMES THAT DO NOT EXPOSE .el-h1
+   ========================================================= */
+
+body .markdown-rendered.dnd4e-item h1:first-of-type,
+body .dnd4e-item .markdown-rendered h1:first-of-type {
+    box-sizing: border-box;
+    width: 100%;
+
+    margin: 1rem 0 0 !important;
+    padding: 0.58rem 0.9rem !important;
+
+    color: #f5f7f6 !important;
+    background: linear-gradient(
+        90deg,
+        #183c3b 0%,
+        #24605d 72%,
+        #2d6a66 100%
+    ) !important;
+
+    border: 1px solid #4d8c86 !important;
+    border-bottom: none !important;
+    border-radius: 2px 2px 0 0 !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1.7rem !important;
+    line-height: 1.15 !important;
+}
+
+/* =========================================================
+   FINAL POLISH
+   ========================================================= */
+
+/* Slightly tighter item title */
+body .dnd4e-item .el-h1:has(> h1:first-child) > h1 {
+    padding: 0.42rem 0.85rem !important;
+    font-size: 1.55rem !important;
+    line-height: 1.15 !important;
+}
+
+/* Compact metadata strip */
+body .dnd4e-item
+.callout[data-callout="metadata"]
+> .callout-content {
+    padding: 0.34rem 0.85rem !important;
+}
+
+/* Pull the flavor text closer to the item header */
+body .dnd4e-item
+.callout[data-callout="metadata"]
++ p,
+body .dnd4e-item
+.el-callout:has(.callout[data-callout="metadata"])
++ .el-p {
+    margin-top: 0.7rem !important;
+    margin-bottom: 0.9rem !important;
+}
+
+/* Cleaner power block */
+body .dnd4e-item .callout[data-callout="power"] {
+    background: rgba(255, 255, 255, 0.025) !important;
+    border: 1px solid #4d8c86 !important;
+    border-left-width: 1px !important;
+}
+
+/* Slightly darker action row */
+body .dnd4e-item
+.callout[data-callout="power"]
+.callout-content p:first-child {
+    background: rgba(36, 96, 93, 0.18) !important;
+}
+
+/* Give the effect text a little more breathing room */
+body .dnd4e-item
+.callout[data-callout="power"]
+.callout-content p:last-child {
+    padding: 0.15rem 0 0.25rem !important;
+}
+
+/* =========================================================
+   ITEM DESCRIPTION — MATCHES YOUR ACTUAL OBSIDIAN DOM
+   ========================================================= */
+
+/* The metadata callout is inside .el-div, followed by .el-p */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Style the description paragraph */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
+> p {
+    box-sizing: border-box;
+    width: 100%;
+
+    margin: 0 !important;
+    padding: 0.75rem 1rem !important;
+
+    color: var(--text-muted) !important;
+    background: rgba(36, 96, 93, 0.05) !important;
+
+    border-top: 1px solid #4d8c86 !important;
+    border-bottom: 1px solid #4d8c86 !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1rem !important;
+    font-style: italic !important;
+    line-height: 1.5 !important;
+}
+
+/* Style the nested emphasis element */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
+> p
+> em {
+    color: inherit !important;
+    font-family: inherit !important;
+    font-style: italic !important;
+}
+
+/* Reduce spacing beneath the description */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
++ .el-div {
+    margin-top: 0 !important;
+}
+
+/* Remove the power callout's extra upper margin */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
++ .el-div
+.callout[data-callout="power"] {
+    margin-top: 0 !important;
+}
+
+/* =========================================================
+   CONNECT ITEM HEADER, FLAVOR, AND POWER INTO ONE CARD
+   ========================================================= */
+
+/* Remove the gap beneath the metadata callout wrapper */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"]) {
+    margin-bottom: 0 !important;
+}
+
+/* Remove any bottom margin on the metadata callout itself */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="metadata"] {
+    margin-bottom: 0 !important;
+}
+
+/* Flavor wrapper */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Flavor paragraph */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
+> p {
+    margin: 0 !important;
+    padding: 0.85rem 1rem !important;
+
+    color: var(--text-muted) !important;
+    background: rgba(36, 96, 93, 0.03) !important;
+
+    border-left: 1px solid #4d8c86 !important;
+    border-right: 1px solid #4d8c86 !important;
+    border-top: none !important;
+    border-bottom: none !important;
+
+    border-radius: 0 !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1rem !important;
+    font-style: italic !important;
+    line-height: 1.5 !important;
+}
+
+/* Ensure the italic element inherits the paragraph styling */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
+> p
+> em {
+    color: inherit !important;
+    font-family: inherit !important;
+    font-style: italic !important;
+}
+
+/* Remove gap before the power callout wrapper */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
++ .el-div {
+    margin-top: 0 !important;
+}
+
+/* Connect the power block directly beneath the flavor text */
+body .markdown-rendered.dnd4e-item
+.el-div:has(.callout[data-callout="metadata"])
++ .el-p
++ .el-div
+.callout[data-callout="power"] {
+    margin-top: 0 !important;
+
+    border-top: 1px solid #4d8c86 !important;
+    border-radius: 0 0 1px 1px !important;
+}
+
+
+/* =========================================================
+   CRAFTING RECIPE
+
+   Expected Markdown structure:
+
+   ## Arcane Pattern
+   **Discipline** Alchemy (Trained)
+   **Pattern** Potion of Healing
+   **Complexity** Simple
+
+   **Crafting DC** 15 (Iron)
+   **Crafting Progress** 10
+   **Batch Size** 1 potion
+
+   **Supplies**
+   - Healing Herbs ×3
+   - Crystal Water ×1
+   - Quintessence ×1
+   - Gold 15 gp
+   ========================================================= */
+
+.dnd4e-item {
+    --dnd4e-crafting-dark: #6d3519;
+    --dnd4e-crafting-mid: #a45228;
+    --dnd4e-crafting-light: #df8a4a;
+    --dnd4e-crafting-pale: #f4d8c1;
+    --dnd4e-crafting-bg: rgba(164, 82, 40, 0.055);
+    --dnd4e-crafting-row: rgba(164, 82, 40, 0.10);
+    --dnd4e-crafting-border: rgba(223, 138, 74, 0.58);
+}
+
+/* Arcane Pattern heading */
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2[data-heading="Arcane Pattern"]),
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2#arcane-pattern) {
+    margin: 1.35rem 0 0 !important;
+    padding: 0 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2[data-heading="Arcane Pattern"]) > h2,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2#arcane-pattern) > h2 {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0.48rem 0.85rem !important;
+    color: #fff8f2 !important;
+    background: linear-gradient(
+        90deg,
+        var(--dnd4e-crafting-dark),
+        var(--dnd4e-crafting-mid)
+    ) !important;
+    border: 1px solid var(--dnd4e-crafting-border) !important;
+    border-bottom: none !important;
+    border-radius: 2px 2px 0 0 !important;
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1.35rem !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    letter-spacing: 0.012em !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55) !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2[data-heading="Arcane Pattern"]) > h2::before,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2[data-heading="Arcane Pattern"]) > h2::after,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2#arcane-pattern) > h2::before,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2#arcane-pattern) > h2::after {
+    display: none !important;
+}
+
+/* The four crafting blocks immediately following the Arcane Pattern heading */
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p + .el-ul {
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding-left: 0.85rem !important;
+    padding-right: 0.85rem !important;
+    background: var(--dnd4e-crafting-bg) !important;
+    border-left: 1px solid var(--dnd4e-crafting-border) !important;
+    border-right: 1px solid var(--dnd4e-crafting-border) !important;
+}
+
+/* Arcane Pattern detail rows */
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p {
+    padding-top: 0.62rem !important;
+    padding-bottom: 0.62rem !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p {
+    border-top: 1px solid rgba(223, 138, 74, 0.22) !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p > p,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p > p,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p > p {
+    margin: 0 !important;
+    line-height: 1.58 !important;
+}
+
+/* Align field labels */
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p strong,
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p strong {
+    display: inline-block;
+    min-width: 9.25rem;
+    color: var(--dnd4e-crafting-pale) !important;
+    font-weight: 750 !important;
+}
+
+/* Supplies subheader */
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p {
+    padding-top: 0.68rem !important;
+    padding-bottom: 0.38rem !important;
+    background: var(--dnd4e-crafting-row) !important;
+    border-top: 1px solid var(--dnd4e-crafting-border) !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p strong {
+    color: #fff3e9 !important;
+    font-size: 0.84rem !important;
+    font-weight: 750 !important;
+    letter-spacing: 0.045em !important;
+    text-transform: uppercase !important;
+}
+
+/* Supplies list */
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p + .el-ul {
+    padding-top: 0.35rem !important;
+    padding-bottom: 0.75rem !important;
+    border-bottom: 1px solid var(--dnd4e-crafting-border) !important;
+    border-radius: 0 0 2px 2px !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p + .el-ul ul {
+    margin: 0 !important;
+    padding-left: 1.25rem !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p + .el-ul li {
+    margin: 0.2rem 0 !important;
+    padding-left: 0.15rem !important;
+    line-height: 1.5 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p + .el-ul li::marker {
+    color: var(--dnd4e-crafting-light) !important;
+}
+
+/* Fallback heading for themes without .el-h2 wrappers */
+body .markdown-rendered.dnd4e-item h2#arcane-pattern {
+    margin: 1.35rem 0 0 !important;
+    padding: 0.48rem 0.85rem !important;
+    color: #fff8f2 !important;
+    background: linear-gradient(
+        90deg,
+        var(--dnd4e-crafting-dark),
+        var(--dnd4e-crafting-mid)
+    ) !important;
+    border: 1px solid var(--dnd4e-crafting-border) !important;
+    border-radius: 2px 2px 0 0 !important;
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1.35rem !important;
+}
+
+.theme-light .dnd4e-item {
+    --dnd4e-crafting-dark: #7a3c1e;
+    --dnd4e-crafting-mid: #b45c2d;
+    --dnd4e-crafting-light: #c96e35;
+    --dnd4e-crafting-pale: #713416;
+    --dnd4e-crafting-bg: rgba(180, 92, 45, 0.07);
+    --dnd4e-crafting-row: rgba(180, 92, 45, 0.12);
+    --dnd4e-crafting-border: rgba(180, 92, 45, 0.52);
+}
+
+@media (max-width: 600px) {
+    body .markdown-rendered.dnd4e-item
+    .el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) > h2 {
+        padding: 0.44rem 0.7rem !important;
+        font-size: 1.2rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    .el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p,
+    body .markdown-rendered.dnd4e-item
+    .el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p,
+    body .markdown-rendered.dnd4e-item
+    .el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p,
+    body .markdown-rendered.dnd4e-item
+    .el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p + .el-p + .el-ul {
+        padding-left: 0.7rem !important;
+        padding-right: 0.7rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    .el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p strong,
+    body .markdown-rendered.dnd4e-item
+    .el-h2:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) + .el-p + .el-p strong {
+        min-width: 7.3rem;
+    }
+}
+
+
+
+
+
+/* =========================================================
+   ITEM ARTWORK
+   Dataview adds .item-card-art to its own container.
+   ========================================================= */
+
+body .markdown-rendered.dnd4e-item .item-card-art {
+    box-sizing: border-box;
+
+    width: clamp(225px, 35%, 275px);
+
+    /* Top, right, bottom, left */
+    margin: 0 0 0.75rem 0 !important;
+    padding: 0 !important;
+}
+
+body .markdown-rendered.dnd4e-item .item-card-art p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body .markdown-rendered.dnd4e-item .item-card-art img {
+    display: block;
+    box-sizing: border-box;
+
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+
+    margin: 0 !important;
+    padding: 5px;
+
+    object-fit: cover;
+    object-position: center;
+
+    background: rgba(20, 20, 20, 0.6);
+
+    border: 1px solid #4d8c86;
+    border-radius: 3px;
+
+    box-shadow:
+        0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+/* Tighten the gap between artwork and item title */
+body .markdown-rendered.dnd4e-item
+.item-card-art + .el-h1 {
+    margin-top: 0.35rem !important;
+}
+
+/* Narrow panes */
+@media (max-width: 700px) {
+    body .markdown-rendered.dnd4e-item .item-card-art {
+        width: min(70%, 280px);
+        margin: 0 0 0.75rem 0 !important;
+    }
+}
+
+/* =========================================================
+   DUNGEON INGREDIENT INFORMATION CALLOUTS
+
+   Expected Markdown:
+
+   > [!info|sources & usage]-
+   > ## Sources
+   > ...
+   > ## Uses
+   > - ...
+
+   > [!info|notes]-
+   > ## Notes
+   > ...
+   ========================================================= */
+
+.dnd4e-item {
+    --dnd4e-ingredient-dark: #3e3158;
+    --dnd4e-ingredient-mid: #675080;
+    --dnd4e-ingredient-light: #a58bc4;
+    --dnd4e-ingredient-pale: #e2d8ef;
+    --dnd4e-ingredient-bg: rgba(103, 80, 128, 0.07);
+    --dnd4e-ingredient-row: rgba(103, 80, 128, 0.13);
+    --dnd4e-ingredient-border: rgba(165, 139, 196, 0.58);
+}
+
+/* Shared callout shell */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"],
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"] {
+    --callout-color: 103, 80, 128;
+
+    margin: 0.9rem 0 0 !important;
+    padding: 0 !important;
+
+    background: var(--dnd4e-ingredient-bg) !important;
+    border: 1px solid var(--dnd4e-ingredient-border) !important;
+    border-radius: 2px !important;
+    box-shadow: none !important;
+
+    overflow: hidden;
+}
+
+/* Callout title bar */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"] > .callout-title,
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"] > .callout-title {
+    min-height: unset !important;
+    padding: 0.42rem 0.75rem !important;
+
+    color: #faf7fd !important;
+    background: linear-gradient(
+        90deg,
+        var(--dnd4e-ingredient-dark),
+        var(--dnd4e-ingredient-mid)
+    ) !important;
+
+    border-bottom: 1px solid var(--dnd4e-ingredient-border) !important;
+    border-radius: 0 !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.018em !important;
+}
+
+/* Remove the generic Info icon but preserve the fold indicator */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"] > .callout-title .callout-icon,
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"] > .callout-title .callout-icon {
+    display: none !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"] > .callout-title,
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"] > .callout-title {
+    gap: 0.35rem !important;
+}
+
+/* Replace the generic “Info” title with useful labels */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-title-inner,
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"]
+.callout-title-inner {
+    font-size: 0 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-title-inner::before {
+    content: "Sources & Uses";
+    font-size: 1rem;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"]
+.callout-title-inner::before {
+    content: "Notes";
+    font-size: 1rem;
+}
+
+/* Shared content area */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"] > .callout-content,
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"] > .callout-content {
+    padding: 0.75rem 0.85rem 0.85rem !important;
+}
+
+/* Nested Sources and Uses headings */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content h2 {
+    margin: 0.75rem -0.85rem 0.55rem !important;
+    padding: 0.3rem 0.85rem !important;
+
+    color: var(--dnd4e-ingredient-pale) !important;
+    background: var(--dnd4e-ingredient-row) !important;
+    border-top: 1px solid rgba(165, 139, 196, 0.28) !important;
+    border-bottom: 1px solid rgba(165, 139, 196, 0.28) !important;
+
+    font-family: inherit !important;
+    font-size: 0.78rem !important;
+    font-weight: 800 !important;
+    line-height: 1.35 !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content h2:first-child {
+    margin-top: -0.75rem !important;
+    border-top: none !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content h2::before,
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content h2::after {
+    display: none !important;
+}
+
+/* Paragraph rhythm */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content p {
+    margin: 0.45rem 0 !important;
+    line-height: 1.58 !important;
+}
+
+/* Uses list */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content ul {
+    margin: 0.2rem 0 0 !important;
+    padding-left: 1.25rem !important;
+    columns: 2;
+    column-gap: 2rem;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content li {
+    break-inside: avoid;
+    margin: 0.18rem 0 !important;
+    padding-left: 0.12rem !important;
+    line-height: 1.48 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="sources"]
+.callout-content li::marker {
+    color: var(--dnd4e-ingredient-light) !important;
+}
+
+/* Notes: callout title already provides the heading */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"]
+.callout-content h2:first-child {
+    display: none !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"] > .callout-content {
+    color: var(--text-muted) !important;
+    background: linear-gradient(
+        90deg,
+        var(--dnd4e-ingredient-row),
+        var(--dnd4e-ingredient-bg)
+    ) !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"]
+.callout-content p {
+    margin: 0 !important;
+    line-height: 1.58 !important;
+}
+
+/* Passive power metadata used by Dungeon Ingredients */
+body .dnd4e-item
+.callout[data-callout="power"][data-callout-metadata~="passive"]
+.callout-title-inner::after {
+    content: "  •  Passive";
+
+    color: rgba(255, 255, 255, 0.82) !important;
+    font-size: 0.88em;
+    font-weight: 600;
+}
+
+.theme-light .dnd4e-item {
+    --dnd4e-ingredient-dark: #514066;
+    --dnd4e-ingredient-mid: #796393;
+    --dnd4e-ingredient-light: #80699b;
+    --dnd4e-ingredient-pale: #4c3a61;
+    --dnd4e-ingredient-bg: rgba(121, 99, 147, 0.065);
+    --dnd4e-ingredient-row: rgba(121, 99, 147, 0.11);
+    --dnd4e-ingredient-border: rgba(121, 99, 147, 0.48);
+}
+
+@media (max-width: 600px) {
+    body .markdown-rendered.dnd4e-item
+    .callout[data-callout="info"][data-callout-metadata*="sources"]
+    .callout-content ul {
+        columns: 1;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    .callout[data-callout="info"][data-callout-metadata*="sources"] > .callout-content,
+    body .markdown-rendered.dnd4e-item
+    .callout[data-callout="info"][data-callout-metadata*="notes"] > .callout-content {
+        padding-left: 0.7rem !important;
+        padding-right: 0.7rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    .callout[data-callout="info"][data-callout-metadata*="sources"]
+    .callout-content h2 {
+        margin-left: -0.7rem !important;
+        margin-right: -0.7rem !important;
+        padding-left: 0.7rem !important;
+        padding-right: 0.7rem !important;
+    }
+}
+
+/* =========================================================
+   OPTIONAL LORE CARD
+
+   Expected Markdown:
+
+   > ### Lore
+   >
+   >> _"Every enchanted weapon begins with power..."_
+   >> —Attributed to an unknown Dungeon Forger
+
+   Explanatory lore text may follow immediately after the
+   outer blockquote. CSS visually joins it to the same card.
+   ========================================================= */
+
+.dnd4e-item {
+    --dnd4e-lore-dark: #493821;
+    --dnd4e-lore-mid: #665033;
+    --dnd4e-lore-light: #9a7b4d;
+    --dnd4e-lore-pale: #eadcc4;
+    --dnd4e-lore-bg: rgba(102, 80, 51, 0.075);
+    --dnd4e-lore-quote-bg: rgba(20, 24, 26, 0.34);
+    --dnd4e-lore-border: rgba(154, 123, 77, 0.72);
+}
+
+/* Outer Lore blockquote becomes the top portion of one card. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore)) {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 1.35rem 0 0 !important;
+    padding: 0 !important;
+    overflow: hidden;
+
+    color: var(--text-normal) !important;
+    background: var(--dnd4e-lore-bg) !important;
+    border: 1px solid var(--dnd4e-lore-border) !important;
+    border-radius: 2px 2px 0 0 !important;
+}
+
+/* Compact bronze title bar. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> h3 {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0.34rem 0.8rem !important;
+
+    color: #f7efe2 !important;
+    background: linear-gradient(
+        90deg,
+        var(--dnd4e-lore-dark),
+        var(--dnd4e-lore-mid)
+    ) !important;
+    border: none !important;
+    border-bottom: 1px solid var(--dnd4e-lore-border) !important;
+    border-radius: 0 !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1.08rem !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    letter-spacing: 0.012em !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Remove theme heading rules, ornaments, and generated lines. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> h3::before,
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> h3::after {
+    display: none !important;
+    content: none !important;
+}
+
+/* Inner blockquote holds the attributed quotation. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote {
+    position: relative;
+    box-sizing: border-box;
+    max-width: 690px;
+    margin: 0.9rem auto 1rem !important;
+    padding: 0.8rem 1.3rem 0.85rem 3rem !important;
+
+    color: var(--text-normal) !important;
+    background: var(--dnd4e-lore-quote-bg) !important;
+    border: none !important;
+    border-left: 2px solid rgba(154, 123, 77, 0.5) !important;
+    border-radius: 1px !important;
+
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1.04rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Large, restrained decorative quotation mark. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote::before {
+    content: "❝";
+    position: absolute;
+    top: 0.22rem;
+    left: 0.68rem;
+
+    color: rgba(154, 123, 77, 0.42) !important;
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 2.45rem !important;
+    font-style: normal !important;
+    line-height: 1 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote p {
+    margin: 0 !important;
+    color: inherit !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote p:first-child {
+    font-style: italic !important;
+}
+
+/* Attribution line. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote p:last-child:not(:first-child) {
+    margin-top: 0.45rem !important;
+    color: var(--text-faint) !important;
+    font-size: 0.9rem !important;
+    font-style: normal !important;
+    text-align: right !important;
+}
+
+/* Join a plain paragraph directly after the Lore blockquote. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
++ p,
+body .markdown-rendered.dnd4e-item
+.el-blockquote:has(blockquote > h3:is([data-heading="Lore"], #lore))
++ .el-p {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
++ p,
+body .markdown-rendered.dnd4e-item
+.el-blockquote:has(blockquote > h3:is([data-heading="Lore"], #lore))
++ .el-p > p {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0.85rem 1rem 0.95rem !important;
+
+    color: var(--text-normal) !important;
+    background: var(--dnd4e-lore-bg) !important;
+    border: 1px solid var(--dnd4e-lore-border) !important;
+    border-top: 1px solid rgba(154, 123, 77, 0.32) !important;
+    border-radius: 0 0 2px 2px !important;
+
+    font-size: 0.98rem !important;
+    line-height: 1.58 !important;
+}
+
+/* Remove the outer blockquote's lower border when body text follows. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore)):has(+ p),
+body .markdown-rendered.dnd4e-item
+.el-blockquote:has(blockquote > h3:is([data-heading="Lore"], #lore)):has(+ .el-p)
+blockquote {
+    border-bottom-color: transparent !important;
+    border-radius: 2px 2px 0 0 !important;
+}
+
+/* Preserve emphasis inside the explanatory lore text. */
+body .markdown-rendered.dnd4e-item
+.el-blockquote:has(blockquote > h3:is([data-heading="Lore"], #lore))
++ .el-p > p strong,
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
++ p strong {
+    color: var(--text-normal) !important;
+    font-weight: 750 !important;
+}
+
+.theme-light .dnd4e-item {
+    --dnd4e-lore-dark: #5c4428;
+    --dnd4e-lore-mid: #80623d;
+    --dnd4e-lore-light: #8f6d3f;
+    --dnd4e-lore-pale: #5d4425;
+    --dnd4e-lore-bg: rgba(128, 98, 61, 0.075);
+    --dnd4e-lore-quote-bg: rgba(128, 98, 61, 0.08);
+    --dnd4e-lore-border: rgba(128, 98, 61, 0.5);
+}
+
+@media (max-width: 600px) {
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h3:is([data-heading="Lore"], #lore))
+    > h3 {
+        padding: 0.32rem 0.7rem !important;
+        font-size: 1rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h3:is([data-heading="Lore"], #lore))
+    > blockquote {
+        max-width: none;
+        margin: 0.7rem !important;
+        padding: 0.72rem 0.8rem 0.75rem 2.45rem !important;
+        font-size: 0.98rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h3:is([data-heading="Lore"], #lore))
+    > blockquote::before {
+        left: 0.48rem;
+        font-size: 2rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    .el-blockquote:has(blockquote > h3:is([data-heading="Lore"], #lore))
+    + .el-p > p,
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h3:is([data-heading="Lore"], #lore))
+    + p {
+        padding: 0.75rem 0.8rem 0.85rem !important;
+    }
+}
+
+/* =========================================================
+   LORE CARD — NESTED BODY VERSION
+
+   Expected Markdown:
+
+   > ### Lore
+   >
+   >> _"Quotation."_
+   >>
+   >> —Attribution
+   >
+   > Explanatory lore text.
+
+   The explanatory paragraph is a direct child of the outer
+   blockquote, rather than a paragraph following it.
+   ========================================================= */
+
+/* The complete Lore card now lives inside one blockquote. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore)) {
+    border-radius: 2px !important;
+}
+
+/* Explanatory lore text inside the outer Lore blockquote. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> p {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0.9rem 1rem 1rem !important;
+
+    color: var(--text-normal) !important;
+    background: rgba(102, 80, 51, 0.035) !important;
+    border-top: 1px solid rgba(154, 123, 77, 0.32) !important;
+
+    font-size: 0.98rem !important;
+    font-style: normal !important;
+    line-height: 1.58 !important;
+}
+
+/* Keep emphasis in the lore explanation consistent. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> p strong {
+    color: var(--text-normal) !important;
+    font-weight: 750 !important;
+}
+
+/* Remove any theme-injected quote decoration from the outer card. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))::before,
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))::after {
+    content: none !important;
+    display: none !important;
+}
+
+/* Give the nested quotation a little more breathing room. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote {
+    width: calc(100% - 2rem);
+    margin: 0.85rem auto !important;
+}
+
+/* Quote and attribution are separate paragraphs when a blank
+   nested quote line is included in the Markdown. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote p:first-child {
+    color: var(--text-normal) !important;
+    font-style: italic !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> blockquote p:last-child:not(:first-child) {
+    margin-top: 0.45rem !important;
+    color: var(--text-faint) !important;
+    font-size: 0.9rem !important;
+    font-style: normal !important;
+    text-align: right !important;
+}
+
+.theme-light .dnd4e-item
+blockquote:has(> h3:is([data-heading="Lore"], #lore))
+> p {
+    background: rgba(128, 98, 61, 0.045) !important;
+}
+
+@media (max-width: 600px) {
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h3:is([data-heading="Lore"], #lore))
+    > blockquote {
+        width: calc(100% - 1.4rem);
+        margin: 0.7rem auto !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h3:is([data-heading="Lore"], #lore))
+    > p {
+        padding: 0.78rem 0.8rem 0.88rem !important;
+    }
+}

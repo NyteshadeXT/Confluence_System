@@ -24,13 +24,6 @@ Fungus thrives in hostile environments and persists through neglect. It survives
 
 ---
 
-### Training Interaction
-Fungus grants limited defensive training aligned with soft resilience. At Rank 6, Fungus grants one of the following proficiencies **Hide Armor Proficiency** OR **Light Shield Proficiency.**
-
-Fungus does not grant weapon category proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Rotting Persistence** Fungus survives through condition resistance and slow reconstitution. Gain +1 to Saving Throws.
 **Rank 5 — Spreading Body** Increase Constitution by +1.

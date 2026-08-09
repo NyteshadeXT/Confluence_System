@@ -8,6 +8,7 @@ essences:
 - Momentum
 - Force
 - Hunt
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Ape, Bear, Might, Momentum, Force, Hunt
+**Eligible Essences:** Ape, Bear, Might, Momentum, Force, Hunt, Storm
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

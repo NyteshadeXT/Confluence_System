@@ -6,6 +6,7 @@ essences:
 - Glass
 - Echo
 - Reckoning
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER ARCANE FORCE IMPLEMENT**
 
-**Eligible Essences:** Force, Glass, Echo, Reckoning  
+**Eligible Essences:** Force, Glass, Echo, Reckoning, Storm
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

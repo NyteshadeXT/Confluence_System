@@ -24,11 +24,6 @@ Plant overwhelms through spread and inevitability. It restricts movement, reshap
 
 ---
 
-### Training Interaction
-Plant grants defensive training aligned with natural protection and grounded positioning. At Rank 6, Plant grants one of the following proficiencies **Hide Armor Proficiency** OR **Spear Group Proficiency.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Rooted Presence** Plant endures through organic resilience. Gain +1 Fortitude.
 **Rank 5 — Verdant Growth** Increase Wisdom by +1.

@@ -9,6 +9,7 @@ essences:
 - Steel
 - Bond
 - Dominion
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Shield, Order, Chain, Resolute, Steel, Bond, Dominion
+**Eligible Essences:** Shield, Order, Chain, Resolute, Steel, Bond, Dominion, Harmony
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

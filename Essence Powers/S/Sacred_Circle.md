@@ -8,6 +8,7 @@ essences:
 - Dominion
 - Dog
 - Equilibrium
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Utility ✦ Utility / Passive
 
 **DAILY DIVINE ZONE**
 
-**Eligible Essences:** Rune, Light, Order, Dog, Dominion, Equilibrium
+**Eligible Essences:** Rune, Light, Order, Dog, Dominion, Equilibrium, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Daily

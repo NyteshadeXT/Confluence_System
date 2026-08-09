@@ -37,9 +37,6 @@ A triad resolves into Assimilation only if it contains **Growth, Plant, Fungus, 
 ·         **Iron Tier:** Gain +1 Mana at Rank 3
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with **Hide or Chain Armor,** gain proficiency with the **Spear or Polearm Weapon Group, g**ain proficiency with **Totems or Orbs as Implements (choose one) OR** gain +2 bonus to Nature checks involving ecosystems, growth, or biological adaptation.
-
 ## RANK MILESTONES
 **Rank 3 — Adaptive Frame** You gain a +1 bonus to Fortitude defense.
 **Rank 5 — Expanding Identity** Increase Constitution or Intelligence by +1.

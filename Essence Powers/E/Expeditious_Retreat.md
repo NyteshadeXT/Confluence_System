@@ -6,6 +6,7 @@ essences:
 - Light
 - Momentum
 - Echo
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Arcane Mobility
 
 **DAILY ARCANE**
 
-**Eligible Essences:** Wind, Light, Momentum, Echo  
+**Eligible Essences:** Wind, Light, Momentum, Echo, Storm
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Daily

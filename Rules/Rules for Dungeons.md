@@ -63,18 +63,7 @@ Essence Rank is equal to the lowest Rank among all unlocked powers linked to tha
 
 Essences mature only as their weakest expressions improve.
 
-When an Essence’s Rank increases, all benefits associated with the new Rank apply immediately. Essence benefits are always active unless explicitly stated otherwise. Once an Essence gains a Rank or Tier, it cannot lose it unless a rule explicitly states otherwise.
-
-**Essence Rank Benefits**
-
-|   |   |
-|---|---|
-|**Essence Rank**|**Benefit**|
-|**2**|+1 Attack, +1 Armor Class|
-|**4**|+1 Attack, +1 Armor Class|
-|**6**|+1 Attack|
-|**8**|+1 Attack, +1 Armor Class|
-|**10**|+1 Attack|
+When an Essence’s Rank increases, any benefits associated with the new Rank apply immediately. Essence benefits are always active unless explicitly stated otherwise. Once an Essence gains a Rank or Tier, it cannot lose it unless a rule explicitly states otherwise.
 
 ## Types of Essence
 
@@ -231,23 +220,6 @@ Essence Backlash occurs when a character forces power through an unstable or exh
 
 If the Backlash is severe enough a character may experience other longer lasting effects like permanent scars (mental, physical or even metaphysical), a locked slot or of even a negative consequence to a slots power.
 
-# Quintessence
-
-Quintessence is the fuel for magic items, but it’s important to note that it’s not actually mana. Think of it as power borrowed from the Dungeon, not from yourself.
-
-Players must spend Quintessence (harvested from fallen foes in the dungeons) to "prime" an item's Encounter or Daily power. Players may also overcharge an items power by spending extra Quintessence for bonus effects. This, however, comes with some extra danger as the Dungeon will react to overcharging.
-
-Players may also use Quintessence as the currency for the _Enchant Magic Item_ ritual. To upgrade an Iron-rank sword to Bronze-rank, the player needs a specific amount of Quintessence matching the sword’s elemental affinity.
-
-# Scaling and Tiers
-
-|**Essence Rank**|**D&D 4E Tier**|**Proficiency/Math Adjustment**|
-|---|---|---|
-|**Iron**|Heroic (1-10)|Baseline|
-|**Bronze**|Paragon (11-20)|Essence-aligned bonuses|
-|**Silver**|Epic (21-30)|Movement & narrative elevation|
-|**Gold**|Post-Epic|God-tier play (Immortal Rules)|
-
 # Advancement
 
 Characters earn experience (XP) by overcoming Dungeon challenges.
@@ -290,16 +262,16 @@ If a power linked to an Essence is removed, replaced, or rendered inactive, the 
 Characters earn XP by overcoming challenges within a Dungeon. Only challenges at the character’s current Tier or higher grant XP.  Challenges below the character’s current Tier grant no XP.
 
 **Creature XP Values (At-Tier)**
-- **Minion:** 1 XP
-- **Standard Creature:** 2 XP
-- **Elite Creature:** 3 XP
-- **Solo Creature:** 5 XP
+- **Minion:** 5 XP
+- **Standard Creature:** 10 XP
+- **Elite Creature:** 15 XP
+- **Solo Creature:** 25 XP
 
 **Non-Creature Challenges** Hazards, traps, puzzles, and other Dungeon challenges grant XP using the same scale:
-- **Minor challenge:** 1 XP
-- **Standard challenge:** 2 XP
-- **Major challenge:** 3 XP
-- **Setpiece or multi-phase challenge:** 5 XP
+- **Minor challenge:** 5 XP
+- **Standard challenge:** 10 XP
+- **Major challenge:** 15 XP
+- **Setpiece or multi-phase challenge:** 25 XP
 
 The GM determines equivalency based on risk, complexity, and consequence.
 
@@ -310,12 +282,27 @@ XP that is not spent remains unassigned. Investing XP in a power immediately inc
 
 XP cannot be invested in a power that has reached Rank 10 in the character’s current Tier.  Additional XP must be invested in another eligible power or held unspent. XP cannot be pre-spent toward future Tiers.
 
-### XP Cost per Rank
+### XP Cost per Power Rank
 *To preserve deliberate pacing, power advancement is intentionally slow.*
 
 **Recommended Standard Cost** Advancing a power by 1 Rank costs 20 XP
 
 **GM NOTE** This results in roughly one rank gained every three meaningful encounters if all earned XP is focused on a single power.
+
+### XP Cost per Skill Rank
+
+|New Score|XP Cost|
+|---|---|
+|1|5|
+|2|10|
+|3|15|
+|4|20|
+|5|25|
+|6|35|
+|7|45|
+|8|60|
+|9|75|
+|10|100|
 
 # Resting
 
@@ -336,7 +323,6 @@ During a Short Rest, a character regains a combined total of two Mana and/or Sta
 ### Essence Rebalancing
 
 A character may only rebalance one Essence per short rest. During Essence Rebalancing the player may choose to complete one of the following.
-
 - Re-ready a different Encounter Attack _within the same Essence._
 - Shift one Passive/Conditional utility power to a different trigger.
 - Suppress one negative Essence condition or instability.

@@ -24,13 +24,6 @@ Steel embodies controlled force applied with intent. It favors consistency, prec
 
 ---
 
-### Training Interaction
-Steel grants weapon mastery training. At Rank 6, Steel grants one of the following: **Heavy Blade Group Proficiency, Light Blade Group Proficiency OR Military Melee Proficiency.**
-
-Steel does not grant armor proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Measured Strike** Gain +1 to Attack Rolls with Weapon powers.
 **Rank 5 — Tempered Form** Increase Strength by +1.

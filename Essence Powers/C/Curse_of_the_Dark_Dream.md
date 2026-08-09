@@ -7,6 +7,7 @@ essences:
 - Eye
 - Moon
 - Revelation
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Apex Ability
 
 **Daily Arcane Implement**
 
-**Eligible Essences:** Veil, Shadow, Eye, Moon, Revelation
+**Eligible Essences:** Veil, Shadow, Eye, Moon, Revelation, Mind
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

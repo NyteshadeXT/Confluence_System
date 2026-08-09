@@ -36,11 +36,6 @@ Any triad that prepares consequences in advance, punishes movement or ignorance 
 ·         Iron Tier: Gain +1 Mana at Rank 3
 ·         Bronze Tier: No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose Light Blade Group Proficiency, Ranged Weapon Group Proficiency, +2 bonus to Stealth checks made to avoid detection before combat begins OR +2 bonus to Perception checks to detect hidden creatures.
-
-Ambush does not grant armor proficiency.
-
 ## Rank Milestones
 **Rank 3 — First to Act** Gain +1 Initiative.
 **Rank 5 — Precise Strike** Increase Dexterity by +1.

@@ -7,6 +7,7 @@ essences:
 - Swift
 - Hunt
 - Polearm
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Signature Strike
 
 **Encounter Martial Weapon**
 
-**Eligible Essences:** Blade, Momentum, Swift, Hunt, Polearm  
+**Eligible Essences:** Blade, Momentum, Swift, Hunt, Polearm, Harmony
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

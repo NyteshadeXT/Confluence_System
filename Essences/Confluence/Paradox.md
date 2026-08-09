@@ -34,11 +34,6 @@ A triad resolves into Paradox only if it contains two opposing conceptual Essenc
 ·         Iron Tier: Gain +1 Mana at Rank 3 and Rank 7
 ·         Bronze Tier: Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose +2 bonus to Arcana checks involving magical instability, +2 bonus to Insight checks OR Light Shield Proficiency.
-
-Paradox does not grant weapon or armor proficiency.
-
 ## RANK MILESTONES
 **Rank 3 — Tension Awareness** Gain +1 to Reflex.
 **Rank 5 — Sharpened Contradiction** Increase Charisma or Intelligence by +1 (based on selection during Essence acquisition).

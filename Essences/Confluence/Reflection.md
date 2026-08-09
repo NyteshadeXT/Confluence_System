@@ -35,9 +35,6 @@ A triad resolves into Reflection only if it contains **Mirror or Eye**, and at l
 ·         **Iron Tier:** Gain +1 Mana at Rank 3 and Rank 7
 ·         **Bronze Tier:** Gain +1 Mana at Bronze Rank 1
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with Light Shields, gain proficiency with the Light Blade Weapon Group, gain proficiency with Chain Armor OR gain +2 bonus to Insight checks made to oppose deception or detect hostile intent.
-
 ## RANK MILESTONES
 **Rank 3 — Composed Awareness** You gain a +1 bonus to Will saving throws.
 **Rank 5 — Measured Mind** Increase Wisdom or Intelligence by +1 (based on selection during Essence acquisition).

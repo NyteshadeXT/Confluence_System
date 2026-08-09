@@ -24,13 +24,6 @@ Earth emphasizes holding ground and enduring pressure through sheer stability. I
 
 ---
 
-### Training Interaction
-Earth grants armor training aligned with stability and protection. At Rank 6, Earth grants one of the following proficiencies **Scale Armor Proficiency** OR **Heavy Shield Proficiency.**
-
-Earth does not grant weapon category proficiency.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Rooted Stance** Earth resists physical force and bodily harm. Gain +1 Fortitude.
 **Rank 5 — Enduring Frame** Increase Constitution by +1.

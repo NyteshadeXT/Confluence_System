@@ -24,13 +24,6 @@ Bat thrives where others are blind. It favors perception, unpredictable movement
 
 ---
 
-### Training Interaction
-Bat moves unpredictably striking from different angles.  It seeks to disrupt magically. At Rank 6, Bat grants one of the following **Gain +1 Speed, Light Blade Group Proficiency OR Implement Proficiency (choose one).**
-
-Bat does NOT grant armor.
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Echo Awareness** Bat acts when others hesitate. Gain +1 Initiative.
 **Rank 5 — Heightened Senses** Increase Wisdom by +1.

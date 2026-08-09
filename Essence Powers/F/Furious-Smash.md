@@ -6,6 +6,7 @@ essences:
 - Oath
 - Shield
 - Momentum
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Core Concept
 
 **AT-WILL MARTIAL WEAPON**
 
-**Eligible Essences:** Zeal, Oath, Shield, Momentum  
+**Eligible Essences:** Zeal, Oath, Shield, Momentum, Storm
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

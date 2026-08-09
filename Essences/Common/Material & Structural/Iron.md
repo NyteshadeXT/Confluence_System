@@ -24,12 +24,6 @@ Iron endures punishment and presses forward regardless of resistance. It favors 
 
 ---
 
-### Training Interaction
-
-Iron represents disciplined martial protection. At Rank 6, Iron grants one of the following proficiencies **Plate Armor Proficiency, Military Melee Proficiency OR Heavy Shield Proficiency.**
-
----
-
 ### Essence Mastery Milestones
 **Rank 3 — Hardened Frame** Gain +1 Fortitude.
 **Rank 5 — Tempered Body** Increase Constitution by +1.

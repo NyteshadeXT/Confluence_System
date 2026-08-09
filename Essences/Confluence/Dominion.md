@@ -34,11 +34,6 @@ Any triad that defines space as _owned, e_nforces behavior through presence and 
 ·         Iron Tier: Gain +1 Mana at Rank 7
 ·         Bronze Tier: No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose Heavy Armor Proficiency, Heavy Shield Proficiency, +2 bonus to Endurance checks OR +2 bonus to Intimidate checks related to authority or command.
-
-Dominion does not grant weapon proficiency.
-
 ## RANK MILESTONES
 **Rank 3 — Established Presence** Gain +1 to Fortitude.
 **Rank 5 — Imposing Form** Increase Constitution or Strength by +1 (based on selection during Essence acquisition).

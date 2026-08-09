@@ -36,9 +36,6 @@ A triad resolves into Pursuit only if it contains **Hunt** or **Wolf** and at le
 ·         **Iron Tier:** Gain +1 Mana at Rank 7
 ·         **Bronze Tier:** No additional Mana
 
-## TRAINING INTERACTION
-At Rank 6, choose gain proficiency with the Light Blade Weapon Group, gain proficiency with the Bows Weapon Group, gain Leather Armor Proficiency OR gain +2 bonus to Perception checks made to track or oppose Stealth.
-
 ## RANK MILESTONES
 **Rank 3 — Focused Quarry** You gain a +1 bonus to Perception checks made to track a creature you have previously encountered within the last 24 hours.
 **Rank 5 — Predator’s Discipline** Increase Wisdom or Dexterity by +1 (based on selection during Essence acquisition).

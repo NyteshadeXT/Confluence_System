@@ -6,6 +6,7 @@ essences:
 - Light
 - Momentum
 - Convergence
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Attack ✦ Apex Ability
 
 **DAILY ARCANE FIRE CONJURATION IMPLEMENT**
 
-**Eligible Essences:** Fire, Light, Momentum, Convergence  
+**Eligible Essences:** Fire, Light, Momentum, Convergence, Storm  
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

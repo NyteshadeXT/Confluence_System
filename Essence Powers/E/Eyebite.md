@@ -7,6 +7,7 @@ essences:
 - Eye
 - Light
 - Moon
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Core Concept
 
 **At-Will Arcane Implement**
 
-**Eligible Essences:** Veil, Shadow, Eye, Light, Moon
+**Eligible Essences:** Veil, Shadow, Eye, Light, Moon, Mind
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

@@ -7,6 +7,7 @@ essences:
 - Might
 - Momentum
 - Swift
+- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon**
 
-**Eligible Essences:** Blade, Bludgeon, Might, Momentum, Swift  
+**Eligible Essences:** Blade, Bludgeon, Might, Momentum, Swift, Storm
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

@@ -7,6 +7,7 @@ essences:
 - Swift
 - Hunt
 - Eye
+- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon Reaction**
 
-**Eligible Essences:** Fox, Cat, Swift, Hunt, Eye  
+**Eligible Essences:** Fox, Cat, Swift, Hunt, Eye, Mind
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
