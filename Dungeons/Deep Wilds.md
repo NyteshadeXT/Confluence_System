@@ -206,7 +206,7 @@ Characters who examine the area before or after combat may attempt the following
 > As the final manifestation dissolves, the last of the purple-and-gold wisps do not fade. Instead, they circle one another before condensing into a pair of softly glowing orb suspended just above the moss.  One is emerald in color and the other Violet. Touching the orb causes it to dissolve into harmless light, leaving behind:
 > 
 > - consumable::[[Potion of Healing]] [rank::iron] [gp::50] [qty::001]
-> - consumable::[[The First Woodsmans Lessons]] [rank::iron] [gp::???]
+> - consumable::[[The Woodsman First Lessons]] [rank::iron] [gp::???]
 
 [[Deep Wilds#Map|Return to Map]]
 

@@ -35,7 +35,17 @@
       "hp": 10
     }
   ],
-  "parties": [],
+  "parties": [
+    {
+      "name": "Deep WIlds",
+      "players": [
+        "Jaina",
+        "Skarr",
+        "Tubs",
+        "Xevious"
+      ]
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
@@ -133,10 +143,139 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
-    "state": false,
-    "name": null,
-    "round": 1,
+    "creatures": [
+      {
+        "name": "Jaina",
+        "initiative": 12,
+        "static": false,
+        "modifier": 2,
+        "hp": 10,
+        "currentMaxHP": 10,
+        "ac": "12",
+        "currentAC": "12",
+        "id": "ID_8a683a1a699a",
+        "currentHP": 10,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Skarr",
+        "initiative": 11,
+        "static": false,
+        "modifier": 2,
+        "hp": 11,
+        "currentMaxHP": 11,
+        "ac": "12",
+        "currentAC": "12",
+        "id": "ID_6a7909b95a28",
+        "currentHP": 8,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": true,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Tubs",
+        "initiative": 11,
+        "static": false,
+        "modifier": 2,
+        "hp": 9,
+        "currentMaxHP": 9,
+        "ac": "12",
+        "currentAC": "12",
+        "id": "ID_282b8baa6bdb",
+        "currentHP": 7,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Xevious",
+        "initiative": 7,
+        "static": false,
+        "modifier": 0,
+        "hp": 10,
+        "currentMaxHP": 10,
+        "ac": "10",
+        "currentAC": "10",
+        "note": "smoulders",
+        "path": "zz_attachments/smoulders.png",
+        "id": "ID_e969fa1a49e9",
+        "currentHP": 8,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Blood Hawk",
+        "initiative": 25,
+        "static": false,
+        "modifier": 5,
+        "hp": 27,
+        "currentMaxHP": 27,
+        "ac": 15,
+        "currentAC": 15,
+        "path": "Bestiary/Monster Manual 2/Blood Hawk.md",
+        "id": "ID_ca1b69e8897a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Unconscious"
+        ],
+        "enabled": true,
+        "level": 1,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Blood Hawk",
+        "initiative": 13,
+        "static": false,
+        "modifier": 5,
+        "hp": 27,
+        "currentMaxHP": 27,
+        "ac": 15,
+        "currentAC": 15,
+        "path": "Bestiary/Monster Manual 2/Blood Hawk.md",
+        "id": "ID_389bfb59c84b",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Unconscious"
+        ],
+        "enabled": true,
+        "level": 1,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      }
+    ],
+    "state": true,
+    "name": "The Silent Hunt",
+    "round": 4,
     "logFile": "",
     "rollHP": false
   },

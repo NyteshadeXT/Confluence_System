@@ -22,9 +22,6 @@ Whenever you complete an Awakening or Essence Development Tier, increase your ma
 Additionally, whenever you gain a Character Rank, increase your maximum Hit Points by 1.
 
 ## Activated Ability: Inner Inferno
-
-This is where I think the Smolder should really shine.
-
 **Inner Inferno** — Free Action  
 **Frequency:** Once per encounter.
 
