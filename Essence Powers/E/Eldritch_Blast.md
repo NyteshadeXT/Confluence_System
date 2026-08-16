@@ -20,15 +20,15 @@ Attack ✦ Core Concept
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
 
-You channel raw pact energy into a focused lance of destructive power.
+You channel raw energy into a focused lance of destructive power.
 
 **Dungeon Resonance:** Neutral
-**Action Type:** Standard Action  
+**Action Type:** Single Action  
 **Range:** Ranged 10  
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex. This power counts as a ranged basic attack. When you gain this power, choose whether it uses Charisma or Constitution. That choice cannot be changed.
+> - Power Attack vs. Reflex. This power counts as a ranged basic attack. When you gain this power, choose whether it uses Charisma or Constitution. That choice cannot be changed.
 
 > [!Hit|background-color-green]
 > - 1d10 + your chosen ability modifier damage.

@@ -5,8 +5,12 @@ essences:
 - Life
 - Light
 - Oath
-- Balance
-- Harmony
+- Sun
+- Renewal
+- Zeal
+- Resolute
+- Order
+- Apotheosis
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,8 +18,7 @@ Attack ✦ Apex Ability
 
 **DAILY DIVINE HEALING IMPLEMENT**
 
-**Eligible Essences:** Life, Light, Oath, Balance, Harmony
-
+**Eligible Essences:** Light, Sun, Renewal, Oath, Zeal, Resolute, Life, Order, Apotheosis
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 

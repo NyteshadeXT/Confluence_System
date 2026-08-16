@@ -1,0 +1,2 @@
+**Core Concept:** Taint, distortion, escalating compromise  
+Corrupt turns strength against its bearer. It rewards contamination and gradual alteration, making every wound, weakness, or borrowed power a path toward further ruin.

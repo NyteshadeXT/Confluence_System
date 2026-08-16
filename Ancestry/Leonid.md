@@ -13,11 +13,13 @@ Among the oldest Dungeon murals, Leonids are always depicted in motion, forever 
 |Stamina|6|
 |Healing Surges|4|
 
+## Attribute Modifiers
+- +2 Strength and Dexterity
+- -2 Intelligence
+
 ## Passive Ability: Hunter's Instinct
 
-**Hunter's Instinct**
-
-Whenever you complete an Awakening or Essence Development Tier, increase your maximum Stamina by 2.
+**Hunter's Instinct** Whenever you complete an Awakening or Essence Development Tier, increase your maximum Stamina by 2.
 
 ## Activated Ability: Relentless Hunter
 

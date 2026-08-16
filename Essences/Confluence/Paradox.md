@@ -1,9 +1,7 @@
 **Nature:** Instability / Inversion
 **Core Concept:** Contradiction, mutual reinforcement of opposites, balance through tension
 
-Paradox embodies the coexistence of opposing truths. It strengthens through contradiction and destabilizes through certainty. Where others pursue purity or escalation, Paradox binds strength to weakness and advantage to cost.
-
-Paradox does not seek resolution. It thrives in tension.
+Paradox embodies the coexistence of opposing truths. It strengthens through contradiction and destabilizes through certainty. Where others pursue purity or escalation, Paradox binds strength to weakness and advantage to cost. Paradox does not seek resolution. It thrives in tension.
 
 **Associated Ability Score** Charisma or Intelligence (choose at acquisition)
 

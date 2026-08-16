@@ -1,0 +1,2 @@
+**Core Concept:** Space, thresholds, impossible distance  
+Dimension treats distance and boundaries as things to be shaped. It rewards displacement, containment, traversal, and making the impossible path briefly real.

@@ -1,0 +1,2 @@
+**Core Concept:** Imagination, altered reality, sleeping possibility  
+Dream blurs the line between what is perceived and what is true. It rewards uncertainty, nightmare, impossible possibility, and shaping the battlefield through the expectations of others.

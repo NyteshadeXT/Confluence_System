@@ -1,0 +1,2 @@
+**Core Concept:** Multiplicity, distributed presence, overwhelming abundance  
+Myriad is one force expressed in many places at once. It rewards repetition, divided attention, and turning a single advantage into an inescapable multitude.

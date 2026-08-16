@@ -13,11 +13,13 @@ The oldest carvings depict the Draconian form standing against impossible odds, 
 |Stamina|5|
 |Healing Surges|4|
 
+## Attribute Modifiers
+- +2 Dexterity and Intelligence
+- -2 Strength
+
 ## Passive Ability: Draconic Vitality
 
-**Draconic Vitality**
-
-Whenever you complete an Awakening or Essence Development Tier, increase your maximum Hit Points by 2.
+**Draconic Vitality** Whenever you complete an Awakening or Essence Development Tier, increase your maximum Hit Points by 2.
 
 ## Activated Ability: Draconic Resolve
 
@@ -26,4 +28,4 @@ Whenever you complete an Awakening or Essence Development Tier, increase your ma
 
 When you take damage, reduce that damage by 1 + your Character Rank.
 
-If this reduces the damage to 0, you gain 1 Stamina. This Stamina can exceed your normal maximum, but any excess Stamina is lost at the end of your next turn..
+If this reduces the damage to 0, you gain 1 Stamina. This Stamina can exceed your normal maximum, but any excess Stamina is lost at the end of your next turn.

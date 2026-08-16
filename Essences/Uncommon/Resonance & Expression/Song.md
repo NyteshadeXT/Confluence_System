@@ -1,0 +1,2 @@
+**Core Concept:** Resonance, expression, shared rhythm  
+Song gives shape and purpose to sound. It rewards cadence, emotion, and performance, binding allies into harmony while unsettling enemies with melodies that linger.

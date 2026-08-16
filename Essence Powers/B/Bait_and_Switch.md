@@ -2,13 +2,14 @@
 alias: "Bait and Switch"
 slot: 4
 essences: 
-- Shadow
+- Ambush
 - Swift
-- Trick
+- Adept
 - Cat
-- Deception
 - Momentum
-- Harmony
+- Eye
+- Wind
+- Fox
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,8 +17,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Shadow, Swift, Trick, Cat, Wind, Deception, Momentum, Harmony
-
+**Eligible Essences:** Swift, Momentum, Ambush, Adept, Eye, Wind, Fox, Cat
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
 

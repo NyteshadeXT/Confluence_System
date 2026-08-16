@@ -15,7 +15,7 @@ level: 2
 ---
 
 > [!creature-description] Description
-> The sluggish sporeback frogs have developed a symbiotic relationship with a swamp fungus. The fungus grows on the backs of the frogs, gaining nourishment from their skin while providing natural camouflage and defense against any creatures that would prey on the frogs. When a sporeback dies, the fungus releases spores that cloud the mind and blur vision. This natural defense encourages predators to seek other quarry.
+> The sluggish sporeback frogs have developed a symbiotic relationship with a swamp fungus. The fungus grows on the backs of the frogs, gaining nourishment from their skin while providing natural camouflage and defense against any creatures that would prey on the frogs. When a sporeback dies, the fungus releases spores that cloud the mind and blur vision. This natural defense encourages predators to seek other quarry. 
 
 ```statblock
 layout: Basic Dungeon Layout

@@ -1,0 +1,2 @@
+**Core Concept:** Weight, attraction, inescapable pull  
+Gravity makes movement a burden and position a commitment. It rewards anchoring, pulling, crushing pressure, and turning the battlefield itself into an obstacle.

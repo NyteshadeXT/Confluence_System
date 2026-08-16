@@ -13,11 +13,13 @@ Dungeon records often portray the Smolder form as a reminder that creation and d
 |Stamina|4|
 |Healing Surges|2|
 
+## Attribute Modifiers
+- +2 Dexterity and Intelligence
+- -2 Constitution
+
 ## Passive Ability: Burning Spirit
 
-**Burning Spirit**
-
-Whenever you complete an Awakening or Essence Development Tier, increase your maximum Mana by 1.
+**Burning Spirit** Whenever you complete an Awakening or Essence Development Tier, increase your maximum Mana by 1. 
 
 Additionally, whenever you gain a Character Rank, increase your maximum Hit Points by 1.
 

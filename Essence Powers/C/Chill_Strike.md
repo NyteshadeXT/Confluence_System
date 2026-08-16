@@ -32,6 +32,7 @@ A bolt of killing frost crashes into your foe, numbing mind and body.
 > [!Hit|background-color-green]
 > - 2d8 + Intelligence modifier cold damage. The target is dazed until the end of your next turn.
 
+> [!column]-
 >> [!info] ### RANK EXPRESSIONS (IRON TIER)
 >> - **Rank 3 — Deepening Frost** Increase the damage to 2d10 + Intelligence modifier.
 >> - **Rank 6 — Numbing Chill** After the daze ends, the target is slowed until the end of its next turn. (Note: This is sequential, not overlapping.)

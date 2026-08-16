@@ -6,7 +6,7 @@
       {
         "id": "461b3ec2aa2283a9",
         "type": "tabs",
-        "dimension": 75.67324955116696,
+        "dimension": 75.61253561253561,
         "children": [
           {
             "id": "c5ef35b672e71eb1",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Training Manuals/Codex of the Untamed Path.md",
-                "mode": "source",
+                "file": "Rules/Conditions.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Codex of the Untamed Path"
+              "title": "Conditions"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons/Current Map Status.md",
+                "file": "Dungeons/Deep Wilds.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Current Map Status"
+              "title": "Deep Wilds"
             }
           },
           {
@@ -42,18 +42,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essence Powers/E/Eldritch_Blast.md",
-                "mode": "preview",
+                "file": "Bestiary/Homebrew/Untitled.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eldritch_Blast"
+              "title": "Untitled"
             }
           },
           {
             "id": "77afcd9b7476181e",
             "type": "leaf",
-            "dimension": 20,
             "state": {
               "type": "ttrpg-tools-screen-controller",
               "state": {
@@ -78,21 +77,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Rules for Dungeons.md",
-                "mode": "preview",
+                "file": "Essence Powers/S/Skittering_Sneak.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rules for Dungeons"
+              "title": "Skittering_Sneak"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0e4bb27f21d3879f",
         "type": "tabs",
-        "dimension": 24.326750448833035,
+        "dimension": 24.387464387464387,
         "children": [
           {
             "id": "b9f47a9621923c16",
@@ -128,7 +127,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -285,8 +286,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_389bfb59c84b",
-                "creatureName": "Blood Hawk"
+                "creatureId": "ID_68faf9fb28ea",
+                "creatureName": "Bloodthorn Vine"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -344,10 +345,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2917,
-        "y": -199,
-        "width": 1920,
-        "height": 2005,
+        "x": 1,
+        "y": 0,
+        "width": 2558,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       },
@@ -373,8 +374,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 4096,
-        "y": -216,
+        "x": 3840,
+        "y": 0,
         "width": 640,
         "height": 672,
         "maximize": false,
@@ -413,62 +414,62 @@
           }
         ],
         "direction": "vertical",
-        "x": 2337,
-        "y": -218,
-        "width": 1536,
-        "height": 1612,
-        "maximize": true,
+        "x": 1,
+        "y": 0,
+        "width": 2558,
+        "height": 1392,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e83ab1ce5b6b1607",
+  "active": "e71718158c46d2f0",
   "lastOpenFiles": [
-    "zz_attachments/Pasted image 20260809200144.png",
+    "Bestiary/Homebrew",
+    "Equipment/Dungeon Ingredients/Bloodberry.md",
+    "Bestiary/Homebrew/Untitled.md",
     "Dungeons/Deep Wilds.md",
-    "Dungeons/Current Map Status.md",
-    "Essences/Common/Elemental & Environmental/Lightning.md",
-    "Essence Powers/E/Eldritch_Blast.md",
-    "Rules/Rules for Dungeons.md",
-    "Equipment/Training Manuals/Codex of Arcane Principles.md",
-    "Rules/Important Charts.md",
-    "Templete - Item.md",
-    "Essence Powers/Powers Query.md",
-    "Bestiary/Monster Manual 2/Blood Hawk.md",
+    "Equipment/Training Manuals/Treatise of the Iron Wall.md",
+    "Equipment/Training Manuals/Treatise of the Hidebound.md",
+    "Equipment/Training Manuals/Treatise of the Flowing Weave.md",
+    "Equipment/Training Manuals/Treatise of Living Hide.md",
+    "Equipment/Training Manuals/Treatise of Iron Links.md",
     "Equipment/Training Manuals/The Woodsman First Lessons.md",
-    "Ancestry/Auran.md",
-    "Ancestry/Runic.md",
-    "Ancestry/Smoulder.md",
-    "Ancestry/Leonid.md",
-    "ZoomMap/PlayerScreen/Fog/image-zz_attachments-deep-wilds-dungeon.png.png",
+    "Equipment/Training Manuals/The Archers Measure.md",
+    "Equipment/Training Manuals/Manual of the Unyielding Body.md",
+    "Equipment/Training Manuals/Manual of the Scaled Guard.md",
+    "Equipment/Training Manuals/Manual of the Bulwark.md",
+    "Equipment/Training Manuals/Codex of the Untamed Path.md",
+    "Equipment/Training Manuals/Codex of the Open Eye.md",
+    "Equipment/Training Manuals/Codex of Arcane Principles.md",
+    "zz_attachments/training-manual.png",
+    "Equipment/Training Manuals/1) Training Manuals.md",
+    "Equipment/Dungeon Ingredients/Stonebloom.md",
+    "Essence Powers/S/Skittering_Sneak.md",
+    "zz_attachments/bloodberry.png",
+    "zz_attachments/stonebloom.png",
+    "Equipment/Dungeon Ingredients/Corpse Flower.md",
+    "Equipment/Dungeon Ingredients/Ironroot.md",
+    "zz_attachments/Pasted image 20260816112234.png",
+    "Equipment/Dungeon Ingredients/Ghostcap.md",
+    "zz_attachments/ghostcap.png",
+    "Equipment/Dungeon Ingredients/Fleetfern.md",
+    "zz_attachments/fleetfern.png",
+    "Equipment/Dungeon Ingredients/Aetherbell.md",
+    "zz_attachments/aetherbell.png",
+    "Equipment/Dungeon Ingredients/Heartleaf.md",
+    "zz_attachments/heartleaf.png",
+    "zz_attachments/crystal-water.png",
+    "zz_attachments/Pasted image 20260726175947.png",
+    "Essences/Rare/Multiplicity & Division",
+    "Essences/Rare/Malice & Spiritual Corruption",
+    "Essences/Uncommon/Corruption & Taint",
+    "Essences/Uncommon/Resonance & Expression",
+    "Essences/Uncommon/Arcane Forces",
+    "Essences/Uncommon/Refined Materials",
     "ZoomMap/PlayerScreen/Fog",
     "ZoomMap/PlayerScreen",
     "ZoomMap",
-    "Equipment/Training Manuals/Codex of the Untamed Path.md",
-    "Equipment/Training Manuals/Manual of the Unyielding Body.md",
-    "Equipment/Training Manuals/Manual of the Scaled Guard.md",
-    "Equipment/Training Manuals/Treatise of Iron Links.md",
-    "Equipment/Training Manuals/1) Training Manuals.md",
-    "zz_attachments/deep-wilds-watching-thicket.png",
-    "zz_attachments/deep-wilds-forgotten-expedition.png",
-    "zz_attachments/deep-wilds-living-grove.png",
-    "Equipment/Dungeon Ingredients/Corpse Flower.md",
-    "Essences/Common/Elemental & Environmental/Stone.md",
-    "Essences/Common/Elemental & Environmental/Sound.md",
-    "Bestiary/Monster Manual/Needlefang Drake Swarm.md",
-    "Bestiary/Monster Manual 2/Ankheg Broodling.md",
-    "zz_attachments/needlefang-drake-swarm.png",
-    "Bestiary/Monster Manual",
-    "zz_attachments/gray-ooze.png",
-    "zz_attachments/crystal-water.png",
-    "zz_attachments/corpseflower.png",
-    "zz_attachments/corpseflower.png",
-    "zz_attachments/corpse-flower.png",
-    "Bestiary/Monster Manual 3",
-    "Equipment/Dungeon Ingredients",
-    "Equipment/Dungeon Equipment",
-    "Equipment/Training Manuals",
-    "zz_attachments/deep-wilds-verdant-crossing.mp4",
-    "Rules"
+    "Bestiary/Monster Manual"
   ]
 }

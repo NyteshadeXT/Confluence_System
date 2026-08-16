@@ -21,12 +21,12 @@ Attack ✦ Core Concept
 You strike through one foe and let the momentum of the blow spill into another nearby enemy.
 
 **Dungeon Resonance:** Neutral
-**Action Type:** Standard Action
+**Action Type:** Single Action
 **Attack Type and Range:** Melee weapon
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Attack vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage, and one enemy adjacent to you takes damage equal to your Essence ability modifier.

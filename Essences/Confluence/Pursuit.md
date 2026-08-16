@@ -1,9 +1,7 @@
 **Nature:** Relentless engagement
 **Core Concept** Tracking, pressure, refusal to disengage
 
-Pursuit defines conflict as something that cannot be escaped. It transforms awareness and movement into inevitability, closing distance through persistence rather than speed. Pursuit rewards patience, observation, and sustained pressure over sudden aggression.
-
-Pursuit does not rush. It arrives eventually.
+Pursuit defines conflict as something that cannot be escaped. It transforms awareness and movement into inevitability, closing distance through persistence rather than speed. Pursuit rewards patience, observation, and sustained pressure over sudden aggression. Pursuit does not rush. It arrives eventually.
 
 **Associated Ability Score:** Wisdom or Dexterity (choose at acquisition)
 

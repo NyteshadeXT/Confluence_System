@@ -28,12 +28,10 @@ A concussive wave explodes outward, scattering your foes.
 **Target:** Each creature in blast
 
 > [!Attack|background-color-red]
-> - Intelligence vs. Fortitude
+> - Power Attack vs. Fortitude
 
 > [!Hit|background-color-green]
-> - 2d8 + Intelligence modifier acid damage, and ongoing 5 acid damage (save ends).
-> 
-> - **Secondary Attack:** 1d6 + Intelligence modifier thunder damage. You push the target a number of squares equal to your Wisdom modifier.
+> - 1d6 + Intelligence modifier thunder damage. You push the target a number of squares equal to your Wisdom modifier.
 
 > [!column]-
 >> [!info] ### RANK EXPRESSIONS (IRON TIER)

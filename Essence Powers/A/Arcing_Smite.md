@@ -6,9 +6,10 @@ essences:
 - Zeal
 - Blade
 - Order
-- Dominion
+- Bludgeon
 - Momentum
-- Storm
+- Polearm
+- Light
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,8 +17,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER DIVINE WEAPON**
 
-**Eligible Essences:** Oath, Light, Zeal, Blade, Order, Dominion, Momentum, Storm
-
+**Eligible Essences:** Oath, Order, Zeal, Reckoning, Blade, Bludgeon, Polearm, Light, Momentum
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
 

@@ -31,7 +31,7 @@ You hurl a blazing bolt of flame that erupts outward, scorching all who stand to
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Constitution-based)
+> - Essence Attack vs. Reflex
 
 > [!Hit|background-color-green]
 > - 3d6 + your Essence ability modifier fire damage. Creatures adjacent to the target take 1d6 + your Essence ability modifier fire damage.

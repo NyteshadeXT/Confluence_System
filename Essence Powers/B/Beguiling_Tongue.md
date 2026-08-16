@@ -16,7 +16,7 @@ Utility ✦ Social Influence
 **ENCOUNTER ARCANE**
 
 **Eligible Essences:** Light, Eye, Oath, Zeal, Revelation, Mind
-
+Sound, Magic, Mind, Dominion, Bond, Subjugation, Echo, Veil, Moon, Shadow, Mirror, Reflection, Fox, Adept, Knowledge, Venom, Ambush
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter
 

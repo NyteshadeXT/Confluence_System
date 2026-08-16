@@ -23,15 +23,15 @@ Attack ✦ Core Concept
 Your gaze fractures a single mind’s perception while you slip from its sight.
 
 **Dungeon Resonance:** Subtle
-**Action Type:** Standard Action  
+**Action Type:** Single Action  
 **Range:** Ranged 10
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will
+> - Power Attack vs. Will
 
 > [!Hit|background-color-green]
-> - 1d6 + your Charisma modifier psychic damage, and you are invisible to the target until the start of your next turn.
+> - 1d6 + your Charisma modifier mental damage, and you are invisible to the target until the start of your next turn.
 
 > [!Miss|background-color-yellow]
 > - No damage.

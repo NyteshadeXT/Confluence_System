@@ -13,11 +13,13 @@ No true Auran have walked Aetheria for countless ages. Only within the deepest D
 |Stamina|5|
 |Healing Surges|3|
 
+## Attribute Modifiers
+- +2 Dexterity and +1 Intelligence and Wisdom
+- -2 Constitution
+
 ## Passive Ability: Windborne
 
-**Windborne**
-
-Whenever you complete an Awakening or Essence Development Tier, increase either your maximum Mana or Stamina by 1.
+**Windborne** Whenever you complete an Awakening or Essence Development Tier, increase either your maximum Mana or Stamina by 1.
 
 Additionally, your movement ignores difficult terrain created by non-magical effects.
 

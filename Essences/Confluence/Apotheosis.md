@@ -1,9 +1,7 @@
 **Nature:** Self-deification
 **Core Concept** Supremacy, transcendence through domination, stolen divinity
 
-Apotheosis defines power as the right to rise above all constraint. It seeks godhood not through harmony or sponsorship, but through accumulation and imposition. Apotheosis reshapes identity around supremacy and inevitability.
-
-Apotheosis does not ask permission—from gods or reality.
+Apotheosis defines power as the right to rise above all constraint. It seeks godhood not through harmony or sponsorship, but through accumulation and imposition. Apotheosis reshapes identity around supremacy and inevitability. Apotheosis does not ask permission—from gods or reality.
 
 **Associated Ability Score:** Charisma or Constitution (choose at acquisition)
 

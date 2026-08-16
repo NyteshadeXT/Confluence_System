@@ -1,9 +1,7 @@
 **Nature:** Awareness / Truth Pressure
 **Core Concept** Exposure, certainty, the impossibility of hiding
 
-Revelation defines power as awareness made unavoidable. It strips away secrecy, misdirection, and ambiguity, forcing truth into the open simply by existing. Revelation does not judge, punish, or act—it ensures that nothing remains unseen or unknown.
-
-Revelation changes outcomes by removing uncertainty, not by applying force.
+Revelation defines power as awareness made unavoidable. It strips away secrecy, misdirection, and ambiguity, forcing truth into the open simply by existing. Revelation does not judge, punish, or act—it ensures that nothing remains unseen or unknown. Revelation changes outcomes by removing uncertainty, not by applying force.
 
 **Associated Ability Score:** Wisdom or Intelligence (choose at acquisition)
 

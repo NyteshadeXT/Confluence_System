@@ -1,0 +1,2 @@
+**Core Concept:** Destiny, consequence, inevitable outcome  
+Fate turns present choices into future certainty. It rewards marking outcomes, delayed consequence, and making the path toward victory—or ruin—feel impossible to escape.

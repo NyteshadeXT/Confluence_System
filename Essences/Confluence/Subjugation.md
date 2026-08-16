@@ -1,9 +1,7 @@
 **Nature:** Agency destruction
 **Core Concept** Domination, erasure of will, imposed obedience
 
-Subjugation defines power as the right to decide for others. It does not negotiate or persuade—it overwrites. Identity, choice, and resistance are reduced to obstacles to be removed. Power gained through Subjugation corrodes both victim and wielder.
-
-Subjugation leaves nothing voluntary behind.
+Subjugation defines power as the right to decide for others. It does not negotiate or persuade—it overwrites. Identity, choice, and resistance are reduced to obstacles to be removed. Power gained through Subjugation corrodes both victim and wielder. Subjugation leaves nothing voluntary behind.
 
 All essence combinations resulting in the Subjugation Essence are considered forbidden by the Seekers guild.
 

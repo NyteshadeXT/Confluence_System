@@ -4,10 +4,12 @@ slot: 3
 essences: 
 - Blade
 - Polearm
-- Snake
+- Eye
 - Hunt
 - Adept
-- Steel
+- Might
+- Force
+- Momentum
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,8 +17,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Blade, Polearm, Snake, Hunt, Adept, Steel
-
+**Eligible Essences:** Blade, Polearm, Adept, Eye, Might, Force, Hunt, Momentum
 **Slot:** 3 – Signature Strike
 **Tier:** Encounter
 

@@ -1,9 +1,7 @@
 **Nature:** Relationship / Mutual obligation
 **Core Concept** Connection, loyalty, shared burden
 
-Bond defines power as commitment freely given. It enforces responsibility through relationship rather than authority, coercion, or fear. Bond strengthens through trust, shared purpose, and mutual reliance.
-
-Bond binds by choice, not force.
+Bond defines power as commitment freely given. It enforces responsibility through relationship rather than authority, coercion, or fear. Bond strengthens through trust, shared purpose, and mutual reliance. Bond binds by choice, not force.
 
 **Associated Ability Score:** Charisma or Constitution (choose at acquisition)
 

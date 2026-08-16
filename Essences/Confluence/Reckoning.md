@@ -1,9 +1,7 @@
 **Nature:** Accumulated consequence
 **Core Concept:** Delayed judgment, stored consequence, inevitable release
 
-Reckoning gathers unresolved actions and defers their resolution until balance must be paid. It rewards patience and foresight, but once released, consequence cannot be avoided or mitigated.
-
-Reckoning is never sudden. It is overdue.
+Reckoning gathers unresolved actions and defers their resolution until balance must be paid. It rewards patience and foresight, but once released, consequence cannot be avoided or mitigated. Reckoning is never sudden. It is overdue.
 
 **Associated Ability Score:** Wisdom or Charisma (choose at acquisition)
 

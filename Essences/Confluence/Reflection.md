@@ -1,9 +1,7 @@
 **Nature:** Reactive consequence
 **Core Concept** Response, inversion, earned consequence
 
-Reflection defines power as something returned rather than initiated. It turns aggression, force, or intent back upon its source, enforcing consequence through response. Reflection rewards awareness, restraint, and timing over initiative.
-
-Reflection does nothing—until it does everything.
+Reflection defines power as something returned rather than initiated. It turns aggression, force, or intent back upon its source, enforcing consequence through response. Reflection rewards awareness, restraint, and timing over initiative. Reflection does nothing—until it does everything.
 
 **Associated Ability Score:** Wisdom or Intelligence (choose at acquisition)
 

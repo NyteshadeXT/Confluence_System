@@ -1,9 +1,7 @@
 **Nature:** Predatory / Escalatory
 **Core Concept:** Consumption, escalation, identity erosion
 
-Devouring is need without limit. It defines the self through what is taken and what is erased. Power gained through Devouring accelerates its own demand, reshaping identity around absence rather than purpose.
-
-Devouring does not end. It only grows.
+Devouring is need without limit. It defines the self through what is taken and what is erased. Power gained through Devouring accelerates its own demand, reshaping identity around absence rather than purpose. Devouring does not end. It only grows.
 
 All essence combinations resulting in the Devouring Essence are considered forbidden by the Seekers guild.
 

@@ -5,7 +5,10 @@ essences:
 - Venom
 - Water
 - Alchemy
-- Reckoning
+- Entropy
+- Ruin
+- Magic
+- Elemental
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,15 +16,14 @@ Attack ✦ Apex Ability
 
 **DAILY ARCANE ACID IMPLEMENT**
 
-**Eligible Essences:** Venom, Water, Alchemy, Reckoning  
-
+**Eligible Essences:** Alchemy, Entropy, Venom, Ruin, Magic, Water, Elemental
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 
 A lance of corrosive power detonates in searing ruin.
 
 **Dungeon Resonance:** Escalating
-**Action Type:** Standard Action  
+**Action Type:** Single Action  
 **Range:** Ranged 20
 **Cost:** 2 Mana
 **Primary Target:** One creature

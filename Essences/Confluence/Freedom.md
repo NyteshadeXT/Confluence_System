@@ -1,9 +1,7 @@
 **Nature:** Movement / Autonomy
 **Core Concept** Unbound movement, disengagement, refusal to be contained
 
-Freedom defines power as the ability to move without obligation. It prioritizes repositioning, escape, and autonomy over pursuit, pressure, or escalation. Freedom does not chase, trap, or overwhelm—it simply cannot be held.
-
-Freedom is motion without intent to dominate.
+Freedom defines power as the ability to move without obligation. It prioritizes repositioning, escape, and autonomy over pursuit, pressure, or escalation. Freedom does not chase, trap, or overwhelm—it simply cannot be held. Freedom is motion without intent to dominate.
 
 **Associated Ability Score:** Dexterity or Wisdom (choose at acquisition)
 

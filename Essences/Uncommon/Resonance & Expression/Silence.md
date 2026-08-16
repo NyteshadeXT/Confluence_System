@@ -1,0 +1,2 @@
+**Core Concept:** Absence, suppression, isolating stillness  
+Silence denies the rhythm through which sound, speech, and power are expressed. It rewards interruption, concealment, and creating spaces where cries for aid and magic alike fail to carry.

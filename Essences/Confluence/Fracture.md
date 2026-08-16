@@ -1,9 +1,7 @@
 **Nature:** Structural instability
 **Core Concept** Breakage, cascading failure, loss of cohesion
 
-Fracture weakens systems until collapse becomes self-propagating. It undermines structure, certainty, and integrity, often spreading faster than it can be contained. Fracture is powerful—but rarely precise.
-
-Fracture never breaks only one thing.
+Fracture weakens systems until collapse becomes self-propagating. It undermines structure, certainty, and integrity, often spreading faster than it can be contained. Fracture is powerful—but rarely precise. Fracture never breaks only one thing.
 
 **Associated Ability Score:** Intelligence or Strength (choose at acquisition)
 

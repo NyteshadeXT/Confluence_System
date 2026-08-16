@@ -13,11 +13,13 @@ Ancient inscriptions describe the Celestines as vessels through which divine pur
 |Stamina|3|
 |Healing Surges|4|
 
+## Attribute Modifiers
+- +2 Wisdom and Charisma
+- -2 Strength
+
 ## Passive Ability: Inner Radiance
 
-**Inner Radiance**
-
-Whenever you complete an Awakening or Essence Development Tier, increase your maximum Mana by 1 or Healing Surges by 1.
+**Inner Radiance** Whenever you complete an Awakening or Essence Development Tier, increase your maximum Mana by 1 or Healing Surges by 1.
 
 ## Activated Ability: Soul's Grace
 

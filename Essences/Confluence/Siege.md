@@ -1,9 +1,7 @@
 **Nature:** Attrition / Structural pressure
 **Core Concept** Endurance, erosion, victory through exhaustion
 
-Siege reframes conflict as a test of time rather than force. It applies steady, unavoidable pressure, eroding defenses, morale, and structure until collapse becomes inevitable. Siege favors patience, resource denial, and inevitability over decisive strikes.
-
-Siege wins by lasting longer than resistance.
+Siege reframes conflict as a test of time rather than force. It applies steady, unavoidable pressure, eroding defenses, morale, and structure until collapse becomes inevitable. Siege favors patience, resource denial, and inevitability over decisive strikes. Siege wins by lasting longer than resistance.
 
 **Associated Ability Score:** Constitution or Strength (choose at acquisition)
 

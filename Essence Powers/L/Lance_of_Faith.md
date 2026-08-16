@@ -23,12 +23,12 @@ At-Will Implement Radiant Psychic Sonic Force
 You hurl a focused lance of power that pierces certainty itself, leaving your target exposed to what follows.
 
 **Dungeon Resonance:** Neutral
-**Action Type:** Standard Action
+**Action Type:** Single Action
 **Range:** Ranged 5
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex
+> - Power Attack vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d6 + your Essence ability modifier damage. The damage type is determined by the Essence that unlocked this power:

@@ -3,9 +3,20 @@ alias: "Aegis of the Relentless"
 slot: 5
 essences: 
 - Shield
+- Armor
 - Steel
-- Oath
 - Stone
+- Resolute
+- Iron
+- Earth
+- Turtle
+- Might
+- Oath
+- Force
+- Rune
+- Siege
+- Suppression
+- Tree
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,8 +24,7 @@ Utility ✦ Apex Ability
 
 **DAILY MARTIAL FORCE**
 
-**Eligible Essences:** Shield, Steel, Oath, Stone  
-
+**Eligible Essences:** Shield, Armor, Steel, Stone, Resolute, Iron, Earth, Turtle, Might, Oath, Force, Rune, Siege, Suppression, Tree
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 

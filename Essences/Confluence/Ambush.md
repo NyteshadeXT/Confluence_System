@@ -1,9 +1,7 @@
 **Nature:** Tactical / Preparatory
 **Core Concept:** Preparation, inevitability, first strike
 
-Ambush resolves conflict before it begins. It transforms space, timing, and expectation into weapons, ensuring that when violence occurs, it does so on predetermined terms. Ambush favors foresight, patience, and positioning over reaction or endurance.
-
-Ambush does not seek prolonged conflict. It seeks decisive advantage.
+Ambush resolves conflict before it begins. It transforms space, timing, and expectation into weapons, ensuring that when violence occurs, it does so on predetermined terms. Ambush favors foresight, patience, and positioning over reaction or endurance. Ambush does not seek prolonged conflict. It seeks decisive advantage.
 
 **Associated Ability Score:** Dexterity
 

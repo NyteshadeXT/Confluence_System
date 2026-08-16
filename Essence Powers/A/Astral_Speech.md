@@ -2,12 +2,18 @@
 alias: "Astral Speech"
 slot: 2
 essences: 
-- Light
-- Revelation
+- Sound
+- Knowledge
 - Oath
 - Zeal
 - Order
-- Equilibrium
+- Pure
+- Mind
+- Resolute
+- Magic
+- Domination
+- Subjugation
+- Apotheosis
 - Mind
 ---
 
@@ -16,10 +22,9 @@ Utility ✦ Utility / Passive
 
 **DAILY DIVINE MIND**
 
-**Eligible Essences:** Oath, Light, Revelation, Zeal, Order, Equilibrium, Mind
-
+**Eligible Essences:** Sound, Knowledge, Oath, Order, Pure, Zeal, Resolute, Magic, Dominion, Subjugation, Apotheosis, Mind
 **Slot:** 2 – Utility / Passive  
-**Tier:** Daily
+**Frequency:** Daily
 
 Your words carry the weight of divine truth, bending doubt into belief.
 

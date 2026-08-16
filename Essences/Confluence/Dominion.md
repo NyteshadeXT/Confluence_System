@@ -1,9 +1,7 @@
 **Nature:** Authority / Control
 **Core Concept** Territorial authority, imposed order, ownership of space
 
-Dominion asserts the right to decide what may exist within a defined boundary. It transforms presence into authority, enforcing structure through occupation rather than motion. Dominion favors control, fortification, and inevitability over flexibility or pursuit.
-
-Dominion does not chase opposition. It waits for opposition to submit or break.
+Dominion asserts the right to decide what may exist within a defined boundary. It transforms presence into authority, enforcing structure through occupation rather than motion. Dominion favors control, fortification, and inevitability over flexibility or pursuit. Dominion does not chase opposition. It waits for opposition to submit or break.
 
 **Associated Ability Score** Constitution or Strength (choose at acquisition)
 

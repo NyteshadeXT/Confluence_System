@@ -51,9 +51,7 @@ Essences come in four rarities; common, uncommon, rare and mythic. The rarity of
 
 **Uncommon Essences** require exposure, training, and narrative justification. Typically there is some form of “narrative driven cost” to the character. Fewer options exist for Awakening Stones but are still available under the right circumstances.
 
-**Rare Essences** are extremely limited and it can be difficult to find compatible Awakening Stones.  They may require the expenditure of Quintessence in order to unlock power slots and may have built-in tradeoffs.
-
-A character with a **Mythic Essence** will often be the central focus of an adventure if not an entire campaign.  Awakening stones will be extremely difficult to find.  Quintessence costs will be required to absorb the Essence as well as to unlock any power and will be extreme.
+**Rare Essences** are extremely limited and it can be difficult to find compatible Awakening Stones.  
 
 ## Essence Rank
 
@@ -208,7 +206,7 @@ Each of these resource fuel the character’s new powers.  Stamina those that r
 |Martial Encounter power|1 Stamina|
 |Magical Encounter power|1 Mana|
 |Hybrid power|1 of either|
-|Daily power|1 Mana + Quintessence|
+|Daily power|1 Mana or Stamina depending on the power |
 
 ### Strained State
 
@@ -315,10 +313,9 @@ Daily powers typically cost Mana and/or Stamina. They most often originate from 
 Using a Daily power is a declaration, “This matters enough to accept what follows.”
 
 ## Short Rests
-
 Short Rests represent a 10 minute break and serves as a sort of reset for powers.  This serves a moment to let Essences settle back into harmony.
 
-During a Short Rest, a character regains a combined total of two Mana and/or Stamina boxes, divided as they choose. Consecutive Short Rests are possible, but do not result in additional Mana or Stamina gain as the body needs to to all these energies to replenish before allowing them to be focused into their useable forms.
+During a Short Rest, a character regains Mana equal to their Intelligence modifier, Stamina equal to their Constitution modifier and 2 additional points, divided between Mana and Stamina however the player chooses. You can't exceed maximum Mana or Stamina. Consecutive Short Rests are possible, but do not result in additional Mana or Stamina gain as the body needs to to all these energies to replenish before allowing them to be focused into their useable forms.
 
 ### Essence Rebalancing
 

@@ -13,11 +13,13 @@ Some scholars speculate the gods created the Runics not as warriors, but as livi
 |Stamina|3|
 |Healing Surges|3|
 
+## Attribute Modifiers
+- +2 Intelligence and Wisdom
+- -2 Strength
+
 ## Passive Ability: Runic Matrix
 
-**Runic Matrix**
-
-Whenever you complete an Awakening or Essence Development Tier, choose one:
+**Runic Matrix** Whenever you complete an Awakening or Essence Development Tier, choose one:
 - Increase your maximum **Mana by 1**, or
 - Increase your maximum **Stamina by 1**.
 

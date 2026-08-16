@@ -1,9 +1,7 @@
 **Nature:** Denial / Control
 **Core Concept** Restriction, exhaustion, enforced limitation
 
-Suppression reduces conflict by removing options. It limits movement, expression, and escalation, forcing opponents into constrained, inefficient choices. Suppression favors control through denial rather than damage or dominance.
-
-Suppression wins by leaving nothing left to do.
+Suppression reduces conflict by removing options. It limits movement, expression, and escalation, forcing opponents into constrained, inefficient choices. Suppression favors control through denial rather than damage or dominance. Suppression wins by leaving nothing left to do.
 
 **Associated Ability Score** Wisdom or Constitution (choose at acquisition)
 

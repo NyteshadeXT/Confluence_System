@@ -33,7 +33,7 @@ Mind dominates through superior perception, foresight, and control of thought. I
 > **Rank 5 — Disciplined Intellect**  Increase Intelligence **OR** Wisdom by +1.
 
 > [!???|Rank 9]-
-> **Rank 9 — Master of Thought**  Choose one, gain a +1 bonus to Initiative, **OR** gain a +1 bonus to attack rolls against creatures suffering a mental condition (such as Charmed, Confused, Dazed, Dominated, Frightened, or Stunned).
+> **Rank 9 — Master of Thought**  Choose one, gain a +1 bonus to Initiative, **OR** gain a +1 bonus to Will.
 
 ---
 

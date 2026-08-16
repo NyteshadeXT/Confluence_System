@@ -1,9 +1,7 @@
 **Nature:** Self-transcendence
 **Core Concept** Elevation, self-exceeding, loss of mortal limits
 
-Ascendance seeks to move beyond imposed boundaries—physical, conceptual, or metaphysical. It replaces limitation with expansion, often at the cost of coherence or grounding. Ascendance is powerful, but difficult to contain.
-
-Ascendance rarely ends where it begins.
+Ascendance seeks to move beyond imposed boundaries—physical, conceptual, or metaphysical. It replaces limitation with expansion, often at the cost of coherence or grounding. Ascendance is powerful, but difficult to contain. Ascendance rarely ends where it begins.
 
 All essence combinations resulting in the Ascendance Essence are considered forbidden by the Seekers guild, however may be divinely sanctioned under certain conditions.
 

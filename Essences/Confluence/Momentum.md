@@ -1,9 +1,7 @@
 **Nature:** Escalation / Flow
 **Core Concept** Continuation, carried force, unstoppable progression
 
-Momentum transforms action into inevitability. Each success reinforces the next, rewarding commitment and follow-through. Momentum favors sustained motion, chaining actions, and refusing disengagement over precision or patience.
-
-Momentum ends only when forcibly stopped.
+Momentum transforms action into inevitability. Each success reinforces the next, rewarding commitment and follow-through. Momentum favors sustained motion, chaining actions, and refusing disengagement over precision or patience. Momentum ends only when forcibly stopped.
 
 **Associated Ability Score** Dexterity or Strength (choose at acquisition)
 

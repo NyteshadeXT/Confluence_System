@@ -1,0 +1,2 @@
+**Core Concept:** Refraction, uncertainty, elusive presence  
+Shimmer makes what is seen unreliable. It rewards misdirection, partial concealment, and constant repositioning between visibility and absence.

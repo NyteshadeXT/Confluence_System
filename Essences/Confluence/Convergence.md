@@ -1,9 +1,7 @@
 **Nature:** Unity / Fusion  
 **Core Concept:** Merging, shared identity, many becoming one
 
-Convergence defines power as the dissolution of boundaries between separate forces. It does not consume or dominate. Instead, it merges distinct elements into unified expression. Identity is not erased — it is harmonized into something greater than the sum of its parts.
-
-Convergence is not cooperation. It is singularity through union.
+Convergence defines power as the dissolution of boundaries between separate forces. It does not consume or dominate. Instead, it merges distinct elements into unified expression. Identity is not erased — it is harmonized into something greater than the sum of its parts. Convergence is not cooperation. It is singularity through union.
 
 **Associated Ability Score:** Wisdom or Charisma (choose at acquisition)
 

@@ -6,6 +6,14 @@ essences:
 - Zeal
 - Oath
 - Reckoning
+- Fire
+- Rune
+- Dominion
+- Sun
+- Light
+- Apotheosis
+- Suppression
+- Subjugation
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,8 +21,7 @@ Attack ✦ Apex Ability
 
 **DAILY DIVINE FIRE WEAPON**
 
-**Eligible Essences:** Light, Oath, Zeal, Reckoning  
-
+**Eligible Essences:** Fire, Reckoning, Rune, Dominion, Oath, Zeal, Sun, Light, Apotheosis, Suppression, Subjugation
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 

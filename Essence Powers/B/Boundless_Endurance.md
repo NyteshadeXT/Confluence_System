@@ -1,6 +1,6 @@
 ---
 alias: "Boundless Endurance"
-slot: 3
+slot: 2
 essences: 
 - Bear
 - Iron

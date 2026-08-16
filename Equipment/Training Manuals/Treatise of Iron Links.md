@@ -1,22 +1,28 @@
 ---
 cssclasses:
   - dnd4e-item
-art: 
-rank: 
+art: training-manual.png
+rank: iron
 rarity: common
 type: consumable
 alias: "Training Manual - Chainmail"
 ---
 
-```dataviewjs
-const art = dv.current().art;
-if (art) {
-	dv.container.classList.add("item-card-art");
-	dv.paragraph(`![[${art}]]`); 
-} 
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - if(this.art, art == this.art, false)
+    order: []
+    image: note.art
+  - type: table
+    name: Table
+
 ```
 
-# `=this.file.name`
+# Treatise of Iron Links
 
 > [!metadata]
 > **Training Manual** • **??? gp**

@@ -8,15 +8,21 @@ type: consumable
 alias: 
 ---
 
-```dataviewjs
-const art = dv.current().art;
-if (art) {
-	dv.container.classList.add("item-card-art");
-	dv.paragraph(`![[${art}]]`); 
-} 
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - if(this.art, art == this.art, false)
+    order: []
+    image: note.art
+  - type: table
+    name: Table
+
 ```
 
-# `=this.file.name`
+# Battleaxe
 
 > [!metadata]
 > **Iron** • **Marital** • **Melee** • **Common** • **15 gp**

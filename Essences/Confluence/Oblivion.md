@@ -1,9 +1,7 @@
 **Nature:** Erasure / Finality
 **Core Concept** Negation, loss of consequence, annihilation of meaning
 
-Oblivion does not destroy—it removes. Actions, identities, and outcomes cease to matter once claimed by Oblivion. Power expressed through Oblivion leaves nothing behind to react, remember, or resist.
-
-Oblivion ends stories.
+Oblivion does not destroy—it removes. Actions, identities, and outcomes cease to matter once claimed by Oblivion. Power expressed through Oblivion leaves nothing behind to react, remember, or resist. Oblivion ends stories.
 
 All essence combinations resulting in the Oblivion Essence are considered forbidden by the Seekers guild.
 

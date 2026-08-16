@@ -1,0 +1,2 @@
+**Core Concept:** Dissonance, disruption, incompatible action  
+Discord breaks the rhythm that allows creatures and powers to act as one. It rewards interruption, misalignment, and forcing enemies to hinder one another.

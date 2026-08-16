@@ -1,9 +1,7 @@
 **Nature:** Dynamic balance / self-correction
 **Core Concept** Balance, correction, opposition held in tension
 
-Equilibrium defines power as the ability to maintain balance in the presence of opposing forces. It does not suppress extremes, nor does it allow them to dominate. Instead, it corrects deviation, redistributing pressure until stability is restored.
-
-Equilibrium does not prevent change. It prevents collapse.
+Equilibrium defines power as the ability to maintain balance in the presence of opposing forces. It does not suppress extremes, nor does it allow them to dominate. Instead, it corrects deviation, redistributing pressure until stability is restored. Equilibrium does not prevent change. It prevents collapse.
 
 **Associated Ability Score:** Wisdom or Constitution (choose at acquisition)
 

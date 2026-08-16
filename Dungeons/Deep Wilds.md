@@ -15,9 +15,10 @@
 >> [[Deep Wilds#Location 8 – Forgotten Expedition\|Location 8 - Forgotten Expedition]]
 >> [[Deep Wilds#Location 9 – The Watching Thicket\|Location 9 - The Watching Thicket]]
 >> [[Deep Wilds#Location 10 – The Living Grove\|Location 10 - The Living Grove]]
->> 11
->> 12
+>> [[Deep Wilds#Location 11 – The Strangling Garden\|Location 11 - The Strangling Garden]]
+>> [[Deep Wilds#Location 12 – The Sporekin Enclave\|Location 12 - The Sporekin Enclave]]
 >> 13
+>> 14
 >
 >> [!blank]
 >> 1
@@ -31,7 +32,6 @@
 >> 9
 >> 10
 >> 11
->> 12
 
 # Location 1 - The Threshold Grove
 
@@ -350,14 +350,14 @@ Characters may attempt the following before crossing.
 > ### Entangling Roots
 > A creature in the basin must succeed on a DC 15 Athletics check.
 > - **Success** The creature suffers no negative effects.
-> - **Failure** [[Immobilized]] until the end of its next turn.
-> - **Critical Failure** [[Restrained]] instead.
+> - **Failure** [[Conditions#Immobilized|Immobilized]] until the end of its next turn.
+> - **Critical Failure** [[Conditions#Restrained|Restrained]] instead.
 >
 > ### Spore Burst
 > Whenever a creature falls into the basin: All creatures within 2 squares must succeed on a DC 15 Fortitude save.
 > - **Success** The creature suffers no negative effects.
-> - **Failure** Take minor poison damage. Become [[Slowed]] until the end of their next turn.
-> - **Critical Failure** Also become [[Dazzled]] by glowing spores.
+> - **Failure** Take minor poison damage. Become [[Conditions#Slowed|Slowed]] until the end of their next turn.
+> - **Critical Failure** Also become [[Conditions#Dazzled|Dazzled]] by glowing spores.
 
 ## Development
 Once the first character reaches the opposite side, the roots slowly come to rest. The fungi cease releasing spores. For the first time since entering the basin everything becomes still.
@@ -965,186 +965,355 @@ If the party struggles, don't leave them guessing forever. Every incorrect activ
 
 [[Deep Wilds#Map|Return to Map]]
 
-
-
-
-
-
-
-
-
-
-
-I want Location 11 to return to **combat**, but not just another ambush. Locations 9 and 10 already cover the Hunt attunement and an attunement puzzle respectively, so this is a good place to make **Growth** dangerous.
-
-I also wouldn't make 11 another "lesson about how Dungeons work." By this point, the introductory section should increasingly feel like the Dungeon simply doing what it does. The existing rooms establish that the Deep Wilds uses terrain and manifestations together, and that non-creature challenges are legitimate encounters.
-
-My concept would be a **battlefield that progressively becomes overgrown during the fight**.
-
 # Location 11 – The Strangling Garden
+**Encounter Difficulty:** Level 3 (20 XP)
 
-**Encounter Difficulty:** Level 4 (80 XP)
+![[deep-wilds-strangling-garden.png|right hmed]]
 
 > [!note]+ Read Aloud  
-> The trail descends beneath a curtain of hanging vines into a low, humid grove. Here, the forest floor disappears beneath enormous overlapping leaves, some broad enough to serve as tables. Pale flowers hang from vines overhead, their petals opening and closing in slow rhythm.
-> 
-> Near the center of the grove, several thick roots have broken through the earth. They twist around one another in a tangled mound beneath a cluster of brilliant emerald crystals.
-> 
-> Something moves beneath the leaves.
-> 
-> Not through them.
-> 
-> **Beneath them.**
-> 
-> A root rises from the soil like a serpent tasting the air.
-> 
-> Then another.
-> 
-> All across the clearing, the garden begins to move.
+> The trail descends beneath a curtain of hanging vines into a low, humid grove. Here, the forest floor disappears beneath enormous overlapping leaves, some broad enough to serve as tables. Pale flowers hang from vines overhead, their petals opening and closing in slow rhythm. Near the center of the grove, several thick roots have broken through the earth, twisting around one another beneath a cluster of brilliant emerald crystals.
 
 ## Description
+The Strangling Garden is an aggressively overgrown pocket of the Deep Wilds dominated by a massive **Bloodthorn Vine**. What initially appears to be a tangled mound of roots at the center of the clearing is the manifestation itself, its sprawling network of thorn-covered tendrils nearly indistinguishable from the surrounding vegetation.
 
-The Strangling Garden is an aggressively overgrown pocket of the Deep Wilds where the **Growth Attunement has become dominant**.
+The Bloodthorn Vine remains motionless when the Seekers first enter, allowing its tendrils to blend into the leaves and roots covering the grove. It does not immediately reveal itself. Instead, it waits until intruders move farther into the clearing before its vines begin rising from the undergrowth around them.
 
-The plants themselves are real Dungeon flora rather than manifestations, but their growth has been accelerated to an unnatural degree. The creatures dwelling among them exploit that environment rather than merely occupying it.
+When the vine begins to reveal itself, read the following
 
-For this encounter, I'd use **creatures appropriate to the Growth theme rather than reuse Blood Hawks, Ankhegs, or Needlefangs**. I don't want to lock those in until we choose from your available 4e creatures, because the encounter's creature selection should determine the exact Level 4 XP budget.
-
-The important part is that the creatures are **not the entire encounter**.
-
-The garden is changing around them.
-
-## The Growing Battlefield
-
-At the end of each round, the Dungeon causes one previously clear patch of the battlefield to erupt with vegetation.
-
-Mark a **2×2 area** that isn't currently occupied by another Overgrowth patch.
-
-That area becomes **Overgrowth** for the remainder of the encounter.
-
-> [!callout|bg-c-green]+ Overgrowth  
-> **Terrain:** Difficult terrain.
+> [!note]+ Read Aloud  
+> Something moves beneath the leaves. Not through them. **Beneath them.**
 > 
-> A creature that enters an Overgrowth square must spend 1 additional square of movement as vines catch at its legs.
+> A thick vine slowly rises from the foliage, its surface lined with wicked thorns. Another follows, then another, unfurling from the tangled vegetation like serpents awakening from sleep.
 > 
-> Overgrowth does not block line of sight.
+> At the center of the grove, the mass of roots shifts.
+> 
+> The entire garden begins to move.
 
-I would **not** require a saving throw every round or have the plants constantly attack. That's too much bookkeeping.
+The surrounding plants are real Dungeon flora rather than manifestations, but the Bloodthorn Vine's presence has driven them into rampant growth. Its roots have spread throughout the clearing, drawing upon the emerald crystal formations and intertwining with the existing vegetation.
 
-The danger is much simpler:
+As the Bloodthorn Vine awakens, that network awakens with it. Vines tighten around tree trunks. Roots push through the soil. Leaves and thorny runners begin spreading across previously open ground. The Seekers are not simply fighting a creature occupying the garden. They are fighting the garden itself.
 
-**the battlefield is getting smaller.**
+```encounter
+name: The Watching Thicket
+party: Deep Wilds
+creatures:
+  - 1: Bloodthorn Vine
+```
 
-Round 1, it's barely noticeable.
+## Tactics
+The **Bloodthorn Vine** remains motionless until the Seekers move far enough into the clearing to place themselves within reach of its spreading tendrils. Once it reveals itself, it fights as a patient predator, attempting to control the clearing rather than pursue individual targets.
 
-Round 3, movement is becoming awkward.
+The Bloodthorn Vine uses its attacks to restrain and isolate creatures, prioritizing Seekers who have become separated from their allies or whose movement has already been hindered by the surrounding vegetation. It attempts to keep captured prey close while the spreading Overgrowth makes it increasingly difficult for allies to reach them.
 
-Round 5, the characters are fighting through a garden that has nearly swallowed the clearing.
+As the encounter continues, the Bloodthorn Vine's influence spreads through the garden. New growth erupts around its existing root network, gradually turning open ground into difficult terrain and restricting safe approaches to the manifestation. 
 
-That feels very Growth.
+The Bloodthorn Vine is affected by the Overgrowth normally. It does not magically ignore the surrounding vegetation; instead, its advantage comes from being a largely stationary predator whose tendrils allow it to threaten prey without needing to cross the increasingly tangled battlefield.
 
-## Cutting Back the Growth
+The Bloodthorn Vine does not retreat. If badly wounded, its behavior becomes increasingly aggressive, concentrating its attacks on restrained or wounded prey as it attempts to feed before being destroyed.
 
-The important part is that the players can interact with it.
+### The Growing Battlefield
+At the end of the Bloodthorn Vine's turn, choose a 2×2 area within 5 squares of it that does not already contain Overgrowth. That area becomes difficult terrain until the Bloodthorn Vine is destroyed.
 
-A character adjacent to an Overgrowth patch can use a **standard action** to clear one 2×2 patch using an appropriate weapon or power.
+#### Cutting Back the Growth
+The important part is that the players can interact with it. A character adjacent to an Overgrowth patch can use a single action to clear one 2×2 patch using an appropriate weapon or power.
 
 A character may instead attempt:
-
 **Nature DC 15:** Identify the central vine feeding a patch. On success, clear the patch as a minor action.
-
 **Arcana DC 16:** Disrupt the Dungeon Essence accelerating the plants. On success, suppress one patch until the end of the encounter.
 
 Fire or other obviously destructive area effects could also clear vegetation at your discretion.
 
-That creates a real decision:
-
-> _Do I spend my action attacking the monster, or do I keep the battlefield under control?_
-
-That's much more interesting to me than the vegetation simply inflicting damage.
-
-## Tactics
-
-Whatever creatures we choose should **benefit indirectly from the changing battlefield rather than be immune to everything**.
-
-I'd look for creatures that:
-
-- Have good mobility.
-    
-- Pull, push, slide, or knock prone.
-    
-- Attack at short range.
-    
-- Can exploit characters separated by difficult terrain.
-    
-
-The manifestations know exactly where the new growth will appear. They deliberately pressure characters toward areas that are about to become difficult to traverse.
-
-They do **not**, however, ignore the Overgrowth. The plants are part of the Dungeon environment, not conveniently selective terrain.
-
-That distinction matters because it makes the encounter feel ecological rather than gamey.
-
 ## Features of the Area
-
 **Emerald Crystals:** Several large Growth-aspected crystal formations protrude from the center of the grove. They provide cover but do not block line of sight.
-
 **Giant Leaves:** Broad leaves stand three to five feet high. Squares containing them provide concealment until they become Overgrowth.
-
 **Hanging Flowers:** The enormous pale blossoms are harmless. Their petals slowly turn toward nearby movement.
-
 **Root Mound:** The central tangle of roots is difficult terrain and provides cover. It cannot become Overgrowth.
-
 **Dense Forest:** As elsewhere in the Dungeon, forcing a path beyond the encounter boundaries eventually redirects the character toward an established trail. The earlier rooms establish this behavior for the Deep Wilds.
 
 ## Investigation
-
 **Nature DC 15:** The vegetation isn't simply growing quickly. Individual plants are completing weeks of growth in seconds.
-
 **Arcana DC 16:** Magical energy flows from the central crystal formation into the surrounding root network. The crystals aren't creating the plants; they're accelerating what is already alive.
-
 **Perception DC 15:** Several patches of leaves shift independently of the wind. Something is concealed beneath them.
-
-**Dungeoneering DC 16:** The growth isn't random. New vegetation consistently erupts near movement and disturbances in the clearing. The Dungeon appears to be responding to the battle itself.
-
-A character succeeding on the Dungeoneering check realizes **before combat begins** that remaining stationary will probably allow the vegetation to close around them.
+**Dungeoneering DC 16:** The growth isn't random. New vegetation consistently erupts near movement and disturbances in the clearing. The Dungeon appears to be responding to the battle itself. Additionally, a character succeeding on the Dungeoneering check realizes **before combat begins** that remaining stationary will probably allow the vegetation to close around them.
 
 ## Development
-
 Once the final manifestation is destroyed, don't have the plants immediately disappear.
 
 Instead:
+> [!note]+ Read Aloud  
+> The last manifestation dissolves into twisting strands of purple and gold. 
+> 
+> The vines continue to grow. For several seconds they crawl across roots, stones, and fallen leaves, swallowing the battlefield beneath a thick carpet of green.
+> 
+> Then every plant stops at once. New leaves unfurl. Pale flowers bloom across the clearing. What moments ago was a strangling mass of vegetation has become a strangely beautiful garden. Among the flowers, several motes of purple-gold light begin to gather.
+
+> [!tip]+ Treasure
+> Successfully completing the puzzle causes a pair of violet Dungeon Orbs to appear
+> - consumable::[[Treatise of the Iron Wall]] [rank::iron] [qty::001]
+> - consumable::[[The Archers Measure]] [rank::iron] [qty::001]
+> 
+> The section of the Dungeon becomes an herb garden upon defeat of the Bloodthorn Vine.  The following herbs can be gathered.
+> - consumable::[[Heartleaf]] [rank::iron] [qty::003]
+> - consumable::[[Aetherbell]] [rank::iron] [qty::001]
+> - consumable::[[Fleetfern]] [rank::iron] [qty::002]
+> - consumable::[[Ghostcap]] [rank::iron] [qty::001]
+> - consumable::[[Ironroot]] [rank::iron] [qty::003]
+> - consumable::[[Stonebloom]] [rank::iron] [qty::001]
+> - consumable::[[Bloodberry]] [rank::iron] [qty::002]
+
+[[Deep Wilds#Map|Return to Map]]
+
+# Location 12 – The Sporekin Enclave
+**Encounter Difficulty:** Level 4 (20 XP)
 
 > [!note]+ Read Aloud  
-> The last manifestation dissolves into twisting strands of purple and gold.
+> The trail opens into a quiet grove unlike any you have encountered so far. Shelves of enormous mushrooms rise between the trees, their broad caps forming natural awnings over clusters of smaller fungi. Strange bundles hang from woven vines, shallow stone bowls collect droplets of crystal-clear water, and carefully arranged beds of pale mushrooms grow in neat rows beneath the emerald light.
 > 
-> The vines continue to grow.
+> Then one of the mushrooms moves.
 > 
-> For several seconds they crawl across roots, stones, and fallen leaves, swallowing the battlefield beneath a thick carpet of green.
+> A squat, broad-shouldered figure steps out from beneath a towering cap. Its body is formed from layers of fibrous fungal flesh, with a wide mushroom cap spreading above a face that is almost—but not quite—humanoid. Another emerges behind it. Then another.
 > 
-> Then every plant stops at once.
+> None raise weapons. They simply watch you. After several moments, the largest tilts its head. 
 > 
-> New leaves unfurl. Pale flowers bloom across the clearing. What moments ago was a strangling mass of vegetation has become a strangely beautiful garden.
-> 
-> Among the flowers, several motes of purple-gold light begin to gather.
+> "Seekers?"
 
-That reinforces an important distinction: **Growth isn't hostile. Uncontrolled Growth is hostile.**
+## Description
+The Sporekin Enclave is home to a small group of Myconid manifestations that have established what appears to be a permanent settlement within the Deep Wilds.
+
+Unlike the manifestations encountered elsewhere in the Dungeon, the Myconids are sentient, capable of communication, and not immediately hostile. They possess individual personalities, perform different tasks within the enclave, recognize one another, and respond intelligently to the Seekers.
+
+Nothing about this behavior is an illusion. The Myconids genuinely possess the intelligence and personalities they display. They are also fully manifestations.
+
+Their bodies, possessions, tools, and the objects they carry were formed from Dungeon mana just as surely as the Blood Hawks, Gray Oozes, and Bloodthorn Vine encountered elsewhere.
+
+### The Sporekin
+The enclave contains a small community of approximately five Myconids. Their exact stat blocks can be selected from the available 4e Myconids once the encounter's potential combat difficulty is determined.
+
+Each should have a simple identity rather than functioning as five interchangeable monsters.
+**The Speaker** is the largest and most articulate of the group. It handles interactions with outsiders and is cautiously receptive to peaceful Seekers.
+
+**The Tender** cares for the fungal beds throughout the clearing. It becomes agitated if anyone damages or attempts to harvest them without permission.
+
+**The Watcher** distrusts outsiders and remains near the edge of the enclave throughout any conversation. It expects violence but will not initiate it without cause.
+
+**The Gatherer** sorts mushrooms, water, and other materials collected from the surrounding grove. It is willing to barter some of these resources.
+
+**The Young One** is smaller than the others and openly curious about the Seekers. It examines their equipment, asks simple questions, and may approach far closer than the Watcher considers appropriate.
+
+Give each Myconid a name appropriate to their manner of communication once their specific stat blocks are selected.
+
+Do not place the foes here immediately.  Wait for the players to engage with the location and then place the following foes:
+- 1: [[Myconid Rotpriest]]
+- 2: [[Myconid Guard]]
+- 2: [[Myconid ]]
+
+```encounter
+name: The Watching Thicket
+party: Deep Wilds
+creatures:
+  - 1: Bloodthorn Vine
+```
+
+## Interaction
+
+The Myconids do not attack unless threatened.
+
+When the Seekers enter, the Speaker asks why they have come to the enclave. The Myconids permit travelers to cross their territory provided they obey one rule:
+
+**Do not harm the nursery.**
+
+The nursery is a carefully cultivated bed of small mushrooms near the center of the enclave. The Myconids protect it fiercely.
+
+The Seekers may speak with the inhabitants, trade with them, investigate the enclave, or simply continue onward.
+
+The Myconids know the nearby portions of the Deep Wilds from the perspective of creatures that live within it. They recognize locations, manifestations, environmental dangers, and changes in the Dungeon, but they possess **no special understanding of the Dungeon's greater purpose or nature**.
+
+Their answers should reflect experience rather than exposition.
+
+They might know that a Bloodthorn Vine grows nearby.
+
+They might know when it was last destroyed.
+
+They might recognize when a sanctuary has been used.
+
+They might know that certain manifestations eventually return.
+
+They do not know _why_ any of those things happen.
+
+## Conversation
+
+The Myconids should feel sufficiently like people that the players naturally begin treating them as such.
+
+They can express curiosity, irritation, amusement, concern, fear, and disagreement.
+
+If asked whether they live here:
+
+> "Yes."
+
+If asked how long:
+
+> "Long enough."
+
+If asked whether there are others:
+
+> "Sometimes."
+
+If asked what happens to manifestations that are killed:
+
+> "They return."
+
+If asked whether they themselves can die, the Myconids find the question strange.
+
+> "Of course."
+
+If asked how they can return after dying:
+
+> "The Deep Wilds remembers us."
+
+Do not elaborate beyond what the Myconids could reasonably understand.
+
+Whether a returned manifestation is the same individual, whether its memories persist perfectly, and whether Dungeon manifestations possess genuine souls are questions **this encounter does not answer**.
+
+## The Reveal
+
+Do not deliberately kill a Myconid simply to demonstrate that it is a manifestation.
+
+Allow the realization to emerge naturally.
+
+If a Myconid is reduced to 0 hit points:
+
+> [!note]+ Read Aloud  
+> The myconid staggers backward.
+> 
+> For an instant, its expression is unmistakable—pain and confusion crossing its strange features.
+> 
+> Then purple-and-gold light appears beneath its flesh.
+> 
+> Its body begins to unravel.
+> 
+> Fungal flesh, clothing, tools, and everything it carried dissolve together into twisting strands of luminous Essence. Within moments, nothing remains.
+> 
+> The other myconids watch in silence.
+> 
+> None appear surprised.
+
+If the Seekers react with confusion, one of the surviving Myconids simply explains:
+
+> "It will grow again."
+
+This is the central discovery of Location 12:
+
+**Intelligence and sentience do not distinguish a Dungeon manifestation from any other creature created by the Dungeon.**
+
+## Manifested Possessions
+
+Everything worn or carried by a Myconid is part of that manifestation.
+
+Their crude tools, containers, clothing, weapons, ornaments, and other apparent possessions dissolve with them when they are destroyed.
+
+These objects cannot normally be taken from the Dungeon as treasure.
+
+Materials growing independently within the enclave are different. Mushrooms cultivated in the soil, water collected from natural sources, Dungeon crystals, and other persistent environmental resources remain behind.
+
+Any **Dungeon Orbs** produced following combat are likewise separate from the destroyed manifestations.
+
+This distinction may become increasingly important as the Seekers encounter more sophisticated manifestations elsewhere.
+
+## If Combat Occurs
+
+Violence is possible, but it should result from the Seekers' decisions rather than being the default resolution.
+
+Attacking a Myconid causes the others to defend the enclave.
+
+Damaging the nursery after being warned also turns the Myconids hostile.
+
+The Myconids fight cooperatively and defensively. Their priority is protecting the nursery rather than pursuing intruders. If the Seekers withdraw from the enclave, the Myconids generally allow them to leave rather than chase them.
+
+If the Seekers surrender or clearly cease hostilities, the Speaker may attempt to end the fight.
+
+Combat does **not** reveal that the friendly Myconids were secretly monsters.
+
+They were exactly what they appeared to be.
+
+## Features of the Area
+
+**The Nursery:** A carefully maintained bed of young fungi occupies the center of the enclave. The Myconids fiercely protect it.
+
+**Fungal Beds:** Several patches of cultivated mushrooms surround the clearing. These are ordinary Dungeon flora rather than manifestations.
+
+**Mushroom Shelters:** Enormous mushroom caps have been incorporated into crude shelters. They provide cover and block line of sight where appropriate.
+
+**Water Basins:** Natural stone depressions have been positioned beneath dripping roots and leaves to collect water.
+
+**Emerald Crystals:** Several small crystal formations provide the familiar illumination of the Deep Wilds.
+
+**Woven Storage:** Vines and fungal fibers have been woven into baskets, racks, and hanging containers. These structures are part of the enclave rather than manifested possessions and remain if their creators are destroyed.
+
+## Investigation
+
+**Insight DC 15:** The Myconids' emotions and reactions appear genuine. There is no indication that their personalities are an act intended to deceive intruders.
+
+**Nature DC 15:** The cultivated fungal beds have been deliberately planted, tended, and harvested over time. Whatever their origin, the Myconids are genuinely maintaining an ecosystem here.
+
+**Arcana DC 16:** The Myconids radiate the same underlying Dungeon magic as the hostile manifestations encountered elsewhere.
+
+**Dungeoneering DC 16:** There is no fundamental magical distinction between these creatures and other manifestations. Their intelligence and social behavior make them more sophisticated, but they appear to have been created through the same process.
+
+A successful check should reveal **what the Seekers can observe**, not explain the metaphysics behind it.
+
+## Trade
+
+If relations remain peaceful, the Gatherer is willing to exchange small quantities of harvested Dungeon flora.
+
+I'd make this the first opportunity for the party to obtain ingredients through something other than harvesting or Dungeon Orbs.
+
+The Myconids have little interest in coins. Instead, they prefer **useful physical objects that they cannot easily produce themselves**: simple tools, containers, worked metal, unusual food, or other materials brought from outside the Dungeon.
+
+This creates an interesting wrinkle because anything traded _to_ the Myconids remains a normal physical object.
+
+If a Myconid carrying that object is subsequently destroyed, **the traded item does not dissolve with it**.
+
+That gives the players another observable way to distinguish manifested material from persistent physical matter.
+
+Potential goods include:
+
+- [[Ghostcap]]
+    
+- [[Aetherbell]]
+    
+- [[Fleetfern]]
+    
+- [[Ironroot]]
+    
+- Other common Dungeon ingredients appropriate to the Deep Wilds
+    
+
+I would keep quantities small. Location 11 remains the superior herb-gathering location; the enclave provides **access and interaction**, not an unlimited ingredient shop.
 
 ## Treasure
 
-I'd make this another place where **investigation produces something in addition to the normal Dungeon Orbs**.
+There should be **no automatic treasure simply for peacefully entering and leaving the enclave**.
 
-The central crystal formation has caused a rare plant to mature during the encounter. After combat, a successful **Nature DC 15** check identifies it as harvestable without damaging it.
+The interaction itself is the location's reward, along with whatever information or trade the Seekers obtain.
 
-That gives us an opportunity to introduce **another crafting ingredient**, rather than every room's reward being an Essence/manual/equipment orb.
+If the party establishes friendly relations, however, the Speaker could give them a small gift before they leave—perhaps **Ghostcap ×1** or another locally appropriate ingredient.
 
-Then the Dungeon itself can still produce 2–3 orbs appropriate to where we are in the loot progression.
+If the Myconids are defeated, normal Dungeon Orbs may form after the encounter. Those rewards should be based on the eventual combat difficulty and the Deep Wilds' existing loot progression.
 
----
+Importantly, defeating the Myconids should **not produce substantially better rewards than befriending them**. I don't want the mechanics quietly teaching the players that intelligent manifestations are just treasure containers.
 
-I particularly like this for **11** because it changes the nature of the battlefield without adding another complicated hazard stat block. The GM's entire environmental procedure is basically:
+## Respawning
 
-> **End of round → add one 2×2 patch.**
+If one or more Myconids are destroyed but others survive, the survivors expect their companions to eventually return.
 
-That's easy to remember at the table, visually obvious with terrain markers, and it makes **Growth** feel fundamentally different from the Fungus and Hunt expressions they've already encountered.
+When the Dungeon respawns the destroyed Myconids, they reform within or near the enclave in the same purple-and-gold manifestation process seen elsewhere.
 
-The next thing I'd settle is the **actual Level 4 creature package**. I'd prefer to choose that from the 4e monsters you already have available rather than inventing manifestations that don't correspond to your source material.
+Whether a returned Myconid remembers **exactly** what happened before its destruction is something I'd deliberately leave ambiguous for now.
+
+That gives you a potentially excellent future moment if the party revisits Location 12 and meets someone they previously watched die.
+
+The Myconid recognizes them.
+
+Probably.
+
+And then you move on without explaining it.

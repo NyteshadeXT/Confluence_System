@@ -13,14 +13,15 @@ Many scholars believe this was the first form the gods perfected—a vessel capa
 |Stamina|4|
 |Healing Surges|3|
 
-This assumes Mana and Stamina are deliberately scarce: a starting character can use several abilities, but cannot repeatedly spend resources without considering recovery.
+## Attribute Modifiers
+- +3 select one
+- -2 select one
 
 ## Passive Ability: Adaptable
 
-**Adaptable**  
-When you complete an awakening or Essence development-tier advancement, choose Mana or Stamina. Increase the chosen maximum by 1.
+**Adaptable**  When you complete an awakening or Essence development-tier advancement, choose Mana or Stamina. Increase the chosen maximum by 1.
 
-### Activated Ability: Push Beyond
+## Activated Ability: Push Beyond
 
 **Push Beyond** — Free Action  
 **Frequency:** Once per encounter

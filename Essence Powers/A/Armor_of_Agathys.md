@@ -3,9 +3,12 @@ alias: "Armor of Agathys"
 slot: 5
 essences: 
 - Ice
-- Blood
-- Zeal
-- Omen
+- Armor
+- Water
+- Shield
+- Force
+- Elemental
+- Shadow
 - Reckoning
 ---
 
@@ -14,8 +17,7 @@ Attack ✦ Apex Ability
 
 **DAILY ARCANE COLD**
 
-**Eligible Essences:** Ice, Blood, Zeal, Omen, Reckoning
-
+**Eligible Essences:** Ice, Armor, Water, Shield, Force, Elemental, Shadow, Reckoning
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 
@@ -29,8 +31,7 @@ Black ice encases you in a sheath of merciless cold, punishing those who dare ap
 > [!Effect|background-color-blue]
 > You gain temporary hit points equal to 10 + your Intelligence modifier.
 > 
-> Until the end of the encounter, an enemy that starts its turn adjacent to you takes  
-1d6 + your Constitution modifier cold damage.
+> Until the end of the encounter, an enemy that starts its turn adjacent to you takes 1d6 + your Constitution modifier cold damage.
 
 > [!column]-
 >> [!info] ### RANK EXPRESSIONS (IRON TIER)

@@ -13,11 +13,13 @@ Some believe the gods designed the Elven form to teach patience—that mastery c
 |Stamina|3|
 |Healing Surges|3|
 
+## Attribute Modifiers
+- +2 Dexterity and Intelligence
+- -2 Strength
+
 ## Passive Ability: Arcane Affinity
 
-**Arcane Affinity**
-
-Whenever you complete an Awakening or Essence Development Tier, increase your maximum Mana by 1.
+**Arcane Affinity** Whenever you complete an Awakening or Essence Development Tier, increase your maximum Mana by 1.
 
 ## Activated Ability: Elven Focus
 

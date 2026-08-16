@@ -1,0 +1,2 @@
+**Core Concept:** Identity, spiritual endurance, unseen connection  
+Soul is the self that remains when flesh and thought are stripped away. It rewards spiritual resilience, communion, and the power to protect, strengthen, or unsettle the essence within another creature.

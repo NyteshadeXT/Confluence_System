@@ -1,11 +1,7 @@
 **Nature:** Incorporation / Adaptive Expansion  
 **Core Concept:** Absorption, integration, identity through inclusion
 
-Assimilation defines power as the ability to incorporate external forces into the self. It does not destroy opposition outright, nor does it dominate it through coercion. Instead, it absorbs, adapts, and expands, reshaping identity through what it incorporates.
-
-Assimilation grows stronger by making what resists it part of itself.
-
-Assimilation does not erase. It integrates.
+Assimilation defines power as the ability to incorporate external forces into the self. It does not destroy opposition outright, nor does it dominate it through coercion. Instead, it absorbs, adapts, and expands, reshaping identity through what it incorporates. Assimilation grows stronger by making what resists it part of itself. Assimilation does not erase. It integrates.
 
 **Associated Ability Score:** Constitution or Intelligence (choose at acquisition)
 

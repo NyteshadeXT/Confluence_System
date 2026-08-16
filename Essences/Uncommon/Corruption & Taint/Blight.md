@@ -1,0 +1,2 @@
+**Core Concept:** Withering, spread, hostile decay  
+Blight turns life and landscape against those who depend on them. It rewards spreading harm, exhausting recovery, and leaving corruption that persists after the battle ends.

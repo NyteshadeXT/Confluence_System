@@ -1,4 +1,3 @@
-
 ---
 alias: "Bond of Pursuit"
 slot: 1

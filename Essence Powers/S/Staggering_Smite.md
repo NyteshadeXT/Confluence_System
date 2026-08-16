@@ -31,9 +31,7 @@ You deliver a crushing blow that drives your enemy backward under the force of d
 > - Essence Attack vs. AC (Strength-based)
 
 > [!Hit|background-color-green]
-> - 2d8 + Intelligence modifier acid damage, and ongoing 5 acid damage (save ends).
-> 
-> - **Secondary Attack:** 2[W] + your Essence ability modifier damage, and you push the target a number of squares equal to your Wisdom modifier.
+> - 2[W] + your Essence ability modifier damage, and you push the target a number of squares equal to your Wisdom modifier.
 
 > [!Miss|background-color-yellow]
 > - Half damage. No push.

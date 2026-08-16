@@ -1,6 +1,6 @@
 ---
 alias: "Crushing Blow"
-slot: 5
+slot: 3
 essences: 
 - Bludgeon
 - Steel

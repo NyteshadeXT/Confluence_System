@@ -1,10 +1,23 @@
-```dataview
-TABLE slot,
-  rows.file.link AS Powers,
-  length(rows) AS Power_Count
-FROM "Essence Powers"
-WHERE any(essences, (e) => e = "Lightning")
-WHERE typeof(essences) = "array"
-GROUP BY slot
-SORT slot
+```base
+and:
+  - file.hasTag("Mind")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Essence Powers")
+        - essences.contains("Sound")
+    groupBy:
+      property: slot
+      direction: ASC
+    order:
+      - file.name
+      - slot
+      - essences
+    summaries:
+      file.name: Filled
+  - type: cards
+    name: View
+
 ```

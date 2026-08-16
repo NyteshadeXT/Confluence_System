@@ -1,9 +1,7 @@
 **Nature:** Process / Transformation
 **Core Concept:** Conversion, leverage, dangerous refinement
 
-Alchemy turns one state into another through intent and process. It values preparation, experimentation, and transformation, but demands cost, risk, and control. Power gained through Alchemy is never free—it is delayed, conditional, and often volatile.
-
-Alchemy rewards those who understand what they are sacrificing.
+Alchemy turns one state into another through intent and process. It values preparation, experimentation, and transformation, but demands cost, risk, and control. Power gained through Alchemy is never free—it is delayed, conditional, and often volatile. Alchemy rewards those who understand what they are sacrificing.
 
 **Associated Ability Score:** Intelligence
 

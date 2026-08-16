@@ -1,22 +1,27 @@
 ---
 cssclasses:
   - dnd4e-item
-art: 
-rank: 
+art: training-manual.png
+rank: iron
 rarity: common
 type: consumable
 alias: "Training Manual - Axe Weapon Group"
 ---
 
-```dataviewjs
-const art = dv.current().art;
-if (art) {
-	dv.container.classList.add("item-card-art");
-	dv.paragraph(`![[${art}]]`); 
-} 
-```
+```base
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - if(this.art, art == this.art, false)
+    order: []
+    image: note.art
+  - type: table
+    name: Table
 
-# `=this.file.name`
+```
+# The Woodsman First Lessons
 
 > [!metadata]
 > **Training Manual** • **??? gp**
