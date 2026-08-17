@@ -1,9 +1,9 @@
 {
   "autoOpenOnSend": true,
-  "savedWindowX": 1,
-  "savedWindowY": 0,
-  "savedWindowWidth": 2558,
-  "savedWindowHeight": 1392,
+  "savedWindowX": 3456,
+  "savedWindowY": -216,
+  "savedWindowWidth": 640,
+  "savedWindowHeight": 672,
   "fogMaskFolder": "ZoomMap/PlayerScreen/Fog",
   "fogMaskFiles": {
     "image:zz_attachments/deep-wilds-dungeon.png": "ZoomMap/PlayerScreen/Fog/image-zz_attachments-deep-wilds-dungeon.png.png"

@@ -46,7 +46,7 @@ views:
 **Batch Size** 1 potion
 
 **Supplies**
-- Healing Herbs ×3
+- [[Heartleaf]]×3
 - [[Crystal Water]] ×1
 - [[Quintessence]] x1
 - Gold 15 gp
