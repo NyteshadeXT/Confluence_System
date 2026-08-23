@@ -4,7 +4,8 @@ cssclasses:
 noteType: creature
 tags:
   - creature/type/beast
-  - creature/role/skirmisher
+  - creature/role/encounter/skirmisher
+  - creature/role/standard
   - creature/size/small
   - creature/rank/iron
   - creature/level/1
@@ -15,6 +16,10 @@ level: 1
 > [!creature-description] Description
 > Blood hawks are aggressive hunters that rake exposed prey with razor-sharp claws, circling overhead until they spot an isolated or wounded target.
 
+> [!creature-lore] Blood Hawk Lore
+> A character knows the following information with a successful Nature check.
+> - **DC 10:** Blood hawks are deadly raptors trained as hunters by many races. Their lethal claws deal wounds that continue to bleed, and their flying attacks make them difficult to engage.
+
 ```statblock
 layout: Basic Dungeon Layout
 image: blood-hawk.png
@@ -22,6 +27,7 @@ name: Blood Hawk
 size: Small
 rank: Iron
 level: 1
+encounter_role: Standard
 type: Beast
 subtype: Natural
 prim_essence: Hunt
@@ -45,7 +51,7 @@ damage_resistances:
 damage_immunities: 
 condition_immunities: 
 senses: Perception +1
-languages: string
+languages: -
 spells:
   - 
   - 
@@ -57,7 +63,7 @@ traits:
     desc: 
 actions:
   - name: Claw Raker (single; at-will)
-    desc: "`dice: 1d20+6|form` +6 vs. AC ; `dice: 1d6+5|form` damage, and the target takes ongoing 2 damage, or ongoing 5 damage if the blood hawk is bloodied (save ends)."
+    desc: "`dice: 1d20+6|form` +6 vs. AC ; `dice: 1d6+5|form` damage, and the target takes 2 persistent bleeding damage, or 5 persistent bleeding damage if the blood hawk is bloodied."
   - name: "Flyby Attack (double; at-will)"
     desc: "The blood hawk flies 6 squares and makes a claw rake attack at any point during that movement. The blood hawk does not provoke opportunity attacks when moving away from the target"
 legendary_actions:

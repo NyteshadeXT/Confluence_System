@@ -17,6 +17,7 @@ views:
         - if(this.art, art == this.art, false)
     order: []
     image: note.art
+    limit: 1
   - type: table
     name: Table
 

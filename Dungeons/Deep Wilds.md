@@ -17,8 +17,8 @@
 >> [[Deep Wilds#Location 10 – The Living Grove\|Location 10 - The Living Grove]]
 >> [[Deep Wilds#Location 11 – The Strangling Garden\|Location 11 - The Strangling Garden]]
 >> [[Deep Wilds#Location 12 – The Sporekin Enclave\|Location 12 - The Sporekin Enclave]]
->> 13
->> 14
+>> [[Deep Wilds#Location 13 – The Webbed Hollow\|Location 13 - The Webbed Hollow]]
+>> [[Deep Wilds#Location 14 – The Emerald Proving Ground\|Location 14 - The Emerald Proving Ground]]
 >
 >> [!blank]
 >> 1
@@ -34,7 +34,6 @@
 >> 11
 
 # Location 1 - The Threshold Grove
-
 **Encounter Difficulty:** None (Exploration)
 
 ![[deep-wilds-threshold-grove.png|hmed right]]
@@ -794,7 +793,7 @@ The ooze instinctively engulfs unattended equipment before pursuing living creat
 >
 > The axe embedded into the log and the tattered remains of a journal are all that are still worth salvaging from the previous groups remains.
 > - journal::Forgotten Expedition Journal
-> - permenant::[[Battleaxe|Dungeon-born Battleaxe]] [rank::iron] [qty::001]
+> - permenant::[[Battleaxe (Dungeon-Born)|Dungeon-born Battleaxe]] [rank::iron] [qty::001]
 
 ## Journal
 Most of the pages in the journal have dissolved into brittle fragments, but several entries remain legible.
@@ -816,49 +815,6 @@ The final surviving page has been badly damaged by acid.
 The remainder of the journal has been completely dissolved.
 
 [[Deep Wilds#Map|Return to Map]]
-
-# Location 9 – The Watching Thicket
-**Encounter Difficulty:** Level 3 (40 XP)
-
-> [!note]+ Read Aloud  
-> The narrow trail disappears beneath an archway of twisted roots and hanging vines. Towering mushrooms crowd the edges of a broad clearing, their broad caps blotting out much of the emerald light filtering from the crystals above. An uneasy silence hangs over the grove.
-> 
-> Then you notice them... eyes.
-> 
-> Dozens of tiny amber lights stare from the undergrowth before vanishing as quickly as they appeared. Somewhere deeper in the thicket, something shifts through the leaves without making a sound.
-
-## Description
-The Dungeon has deliberately cultivated this grove as a hunting ground. Dense vegetation creates numerous pockets of concealment while crystal growths refract light into confusing shadows. The manifestations here do not immediately attack. Instead, they observe, waiting for intruders to overextend before striking from multiple directions. Unlike earlier encounters, the enemies here attempt to isolate weaker targets.
-
-Do not place the foes here immediately.  Wait for the players to engage with the location and then place the following foes:
-- 2: [[Blood Hawk]]
-- 2: [[Needlefang Drake Swarm]]
-
-```encounter
-name: The Watching Thicket
-party: Deep Wilds
-creatures:
-  - 2: Blood Hawk
-  - 2: [[Needlefang Drake Swarm, Thornfang Stalker Swarm]]
-```
-
-## Tactics
-The Blood Hawks remain hidden among the mushroom caps and crystal formations, circling above the clearing before diving at isolated creatures.
-
-The Thornfang Stalkers remain concealed within thick undergrowth until a character moves several squares into the clearing. They attempt to flank rather than fight head-on.
-
-All the manifestations instinctively focus on wounded prey. 
-
-If reduced below one-third of their numbers, surviving manifestations retreat deeper into the vegetation before making one final coordinated attack from a different direction.
-
-## Features of the Area
-**Dense Undergrowth** Squares containing thick ferns and tangled roots are difficult terrain.
-**Crystal Outcroppings** Jagged emerald crystals provide cover.
-**Giant Mushrooms** The towering mushroom caps block line of sight. A Small creature can move beneath them normally. Medium creatures treat them as partial cover.
-
-## Investigation
-**Perception DC 15**  The tiny amber eyes were never creatures at all. Small nodules of condensed Dungeon Essence embedded throughout the vegetation briefly awaken whenever living creatures enter the grove before fading once danger passes. These "eyes" appear to function as sensory organs for the Dungeon itself.
-**Nature DC 15** The surrounding plants show no signs of natural growth. Every vine, root, and mushroom appears to have been cultivated specifically to provide concealment for predators.
 
 # Location 9 – The Watching Thicket
 **Encounter Difficulty:** Level 3 (40 XP)
@@ -1049,7 +1005,7 @@ Instead:
 
 > [!tip]+ Treasure
 > Successfully completing the puzzle causes a pair of violet Dungeon Orbs to appear
-> - consumable::[[Treatise of the Iron Wall]] [rank::iron] [qty::001]
+> - consumable::[[Treatise of the Long Reach]] [rank::iron] [qty::001]
 > - consumable::[[The Archers Measure]] [rank::iron] [qty::001]
 > 
 > The section of the Dungeon becomes an herb garden upon defeat of the Bloodthorn Vine.  The following herbs can be gathered.
@@ -1065,6 +1021,8 @@ Instead:
 
 # Location 12 – The Sporekin Enclave
 **Encounter Difficulty:** Level 4 (20 XP)
+
+![[deep-wilds-sporekin-enclave.png|right hmed]]
 
 > [!note]+ Read Aloud  
 > The trail opens into a quiet grove unlike any you have encountered so far. Shelves of enormous mushrooms rise between the trees, their broad caps forming natural awnings over clusters of smaller fungi. Strange bundles hang from woven vines, shallow stone bowls collect droplets of crystal-clear water, and carefully arranged beds of pale mushrooms grow in neat rows beneath the emerald light.
@@ -1090,230 +1048,351 @@ Their bodies, possessions, tools, and the objects they carry were formed from Du
 The enclave contains a small community of approximately five Myconids. Their exact stat blocks can be selected from the available 4e Myconids once the encounter's potential combat difficulty is determined.
 
 Each should have a simple identity rather than functioning as five interchangeable monsters.
-**The Speaker** is the largest and most articulate of the group. It handles interactions with outsiders and is cautiously receptive to peaceful Seekers.
+- **The Speaker** is the largest and most articulate of the group. It handles interactions with outsiders and is cautiously receptive to peaceful Seekers.
+- **The Tender** cares for the fungal beds throughout the clearing. It becomes agitated if anyone damages or attempts to harvest them without permission.
+- **The Watcher** distrusts outsiders and remains near the edge of the enclave throughout any conversation. It expects violence but will not initiate it without cause.
+- **The Gatherer** sorts mushrooms, water, and other materials collected from the surrounding grove. It is willing to barter some of these resources.
+- **The Young One** is smaller than the others and openly curious about the Seekers. It examines their equipment, asks simple questions, and may approach far closer than the Watcher considers appropriate.
 
-**The Tender** cares for the fungal beds throughout the clearing. It becomes agitated if anyone damages or attempts to harvest them without permission.
-
-**The Watcher** distrusts outsiders and remains near the edge of the enclave throughout any conversation. It expects violence but will not initiate it without cause.
-
-**The Gatherer** sorts mushrooms, water, and other materials collected from the surrounding grove. It is willing to barter some of these resources.
-
-**The Young One** is smaller than the others and openly curious about the Seekers. It examines their equipment, asks simple questions, and may approach far closer than the Watcher considers appropriate.
-
-Give each Myconid a name appropriate to their manner of communication once their specific stat blocks are selected.
-
-Do not place the foes here immediately.  Wait for the players to engage with the location and then place the following foes:
-- 1: [[Myconid Rotpriest]]
-- 2: [[Myconid Guard]]
-- 2: [[Myconid ]]
-
-```encounter
-name: The Watching Thicket
-party: Deep Wilds
-creatures:
-  - 1: Bloodthorn Vine
-```
-
-## Interaction
-
-The Myconids do not attack unless threatened.
-
-When the Seekers enter, the Speaker asks why they have come to the enclave. The Myconids permit travelers to cross their territory provided they obey one rule:
+The Myconids do not attack unless threatened. When the Seekers enter, the Speaker asks why they have come to the enclave. The Myconids permit travelers to cross their territory provided they obey one rule:
 
 **Do not harm the nursery.**
 
-The nursery is a carefully cultivated bed of small mushrooms near the center of the enclave. The Myconids protect it fiercely.
+The nursery is a carefully cultivated bed of small mushrooms near the center of the enclave. The Myconids protect it fiercely. The Seekers may speak with the inhabitants, trade with them, investigate the enclave, or simply continue onward. The Myconids know nothing about the rest of the Dungeon or the creatures that live within it. They recognize locations, manifestations, environmental dangers, and changes in the Dungeon, but they possess no special understanding of the Dungeon's greater purpose or nature.
 
-The Seekers may speak with the inhabitants, trade with them, investigate the enclave, or simply continue onward.
-
-The Myconids know the nearby portions of the Deep Wilds from the perspective of creatures that live within it. They recognize locations, manifestations, environmental dangers, and changes in the Dungeon, but they possess **no special understanding of the Dungeon's greater purpose or nature**.
-
-Their answers should reflect experience rather than exposition.
-
-They might know that a Bloodthorn Vine grows nearby.
-
-They might know when it was last destroyed.
-
-They might recognize when a sanctuary has been used.
-
-They might know that certain manifestations eventually return.
-
-They do not know _why_ any of those things happen.
-
-## Conversation
-
-The Myconids should feel sufficiently like people that the players naturally begin treating them as such.
-
-They can express curiosity, irritation, amusement, concern, fear, and disagreement.
-
-If asked whether they live here:
-
+The Myconids should feel sufficiently like people that the players naturally begin treating them as such. They can express curiosity, irritation, amusement, concern, fear, and disagreement. If asked whether they live here:
 > "Yes."
 
 If asked how long:
-
 > "Long enough."
 
 If asked whether there are others:
-
 > "Sometimes."
 
 If asked what happens to manifestations that are killed:
-
 > "They return."
 
 If asked whether they themselves can die, the Myconids find the question strange.
-
 > "Of course."
 
 If asked how they can return after dying:
-
 > "The Deep Wilds remembers us."
 
-Do not elaborate beyond what the Myconids could reasonably understand.
+Do not elaborate beyond what the Myconids could reasonably understand. Whether a returned manifestation is the same individual, whether its memories persist perfectly, and whether Dungeon manifestations possess genuine souls are questions **this encounter does not answer**.
 
-Whether a returned manifestation is the same individual, whether its memories persist perfectly, and whether Dungeon manifestations possess genuine souls are questions **this encounter does not answer**.
-
-## The Reveal
-
-Do not deliberately kill a Myconid simply to demonstrate that it is a manifestation.
-
-Allow the realization to emerge naturally.
-
-If a Myconid is reduced to 0 hit points:
+#### The Reveal
+Do not deliberately kill a Myconid simply to demonstrate that it is a manifestation. Allow the realization to emerge naturally. If a Myconid is reduced to 0 hit points:
 
 > [!note]+ Read Aloud  
-> The myconid staggers backward.
-> 
-> For an instant, its expression is unmistakable—pain and confusion crossing its strange features.
-> 
-> Then purple-and-gold light appears beneath its flesh.
-> 
-> Its body begins to unravel.
-> 
-> Fungal flesh, clothing, tools, and everything it carried dissolve together into twisting strands of luminous Essence. Within moments, nothing remains.
+> The myconid staggers backward. For an instant, its expression is unmistakable—pain and confusion crossing its strange features. Then purple-and-gold light appears beneath its flesh. body begins to unravel. Fungal flesh, clothing, tools, and everything it carried dissolve together into twisting strands of luminous Essence. Within moments, nothing remains.
 > 
 > The other myconids watch in silence.
 > 
 > None appear surprised.
 
 If the Seekers react with confusion, one of the surviving Myconids simply explains:
-
 > "It will grow again."
 
-This is the central discovery of Location 12:
-
-**Intelligence and sentience do not distinguish a Dungeon manifestation from any other creature created by the Dungeon.**
-
-## Manifested Possessions
-
-Everything worn or carried by a Myconid is part of that manifestation.
-
-Their crude tools, containers, clothing, weapons, ornaments, and other apparent possessions dissolve with them when they are destroyed.
+#### Manifested Possessions
+Everything worn or carried by a Myconid is part of that manifestation. Their crude tools, containers, clothing, weapons, ornaments, and other apparent possessions dissolve with them when they are destroyed. 
 
 These objects cannot normally be taken from the Dungeon as treasure.
 
-Materials growing independently within the enclave are different. Mushrooms cultivated in the soil, water collected from natural sources, Dungeon crystals, and other persistent environmental resources remain behind.
-
-Any **Dungeon Orbs** produced following combat are likewise separate from the destroyed manifestations.
+Materials growing independently within the enclave are different. Mushrooms cultivated in the soil, water collected from natural sources, Dungeon crystals, and other persistent environmental resources remain behind. Any Dungeon Orbs produced following combat are likewise separate from the destroyed manifestations.
 
 This distinction may become increasingly important as the Seekers encounter more sophisticated manifestations elsewhere.
 
-## If Combat Occurs
+If combat begins place the following foes:
+- 1: [[Myconid Rotpriest]]
+- 2: [[Myconid Guard]]
+- 2: [[Myconid Sporekin]]
+
+```encounter
+name: The Watching Thicket
+party: Deep Wilds
+creatures:
+  - 1: [[Myconid Rotpriest]]
+  - 2: [[Myconid Sporekin]]
+  - 2: [[Myconid Guard]]
+```
 
 Violence is possible, but it should result from the Seekers' decisions rather than being the default resolution.
 
-Attacking a Myconid causes the others to defend the enclave.
+Attacking a Myconid causes the others to defend the enclave. Damaging the nursery after being warned also turns the Myconids hostile.
 
-Damaging the nursery after being warned also turns the Myconids hostile.
+The Myconids fight cooperatively and defensively. Their priority is protecting the nursery rather than pursuing intruders. If the Seekers withdraw from the enclave, the Myconids generally allow them to leave rather than chase them. If the Seekers surrender or clearly cease hostilities, the Speaker may attempt to end the fight.
 
-The Myconids fight cooperatively and defensively. Their priority is protecting the nursery rather than pursuing intruders. If the Seekers withdraw from the enclave, the Myconids generally allow them to leave rather than chase them.
-
-If the Seekers surrender or clearly cease hostilities, the Speaker may attempt to end the fight.
-
-Combat does **not** reveal that the friendly Myconids were secretly monsters.
-
-They were exactly what they appeared to be.
+Combat does **not** reveal that the friendly Myconids were secretly monsters. They were exactly what they appeared to be.
 
 ## Features of the Area
-
 **The Nursery:** A carefully maintained bed of young fungi occupies the center of the enclave. The Myconids fiercely protect it.
-
 **Fungal Beds:** Several patches of cultivated mushrooms surround the clearing. These are ordinary Dungeon flora rather than manifestations.
-
 **Mushroom Shelters:** Enormous mushroom caps have been incorporated into crude shelters. They provide cover and block line of sight where appropriate.
-
 **Water Basins:** Natural stone depressions have been positioned beneath dripping roots and leaves to collect water.
-
 **Emerald Crystals:** Several small crystal formations provide the familiar illumination of the Deep Wilds.
-
 **Woven Storage:** Vines and fungal fibers have been woven into baskets, racks, and hanging containers. These structures are part of the enclave rather than manifested possessions and remain if their creators are destroyed.
 
 ## Investigation
-
 **Insight DC 15:** The Myconids' emotions and reactions appear genuine. There is no indication that their personalities are an act intended to deceive intruders.
-
 **Nature DC 15:** The cultivated fungal beds have been deliberately planted, tended, and harvested over time. Whatever their origin, the Myconids are genuinely maintaining an ecosystem here.
-
 **Arcana DC 16:** The Myconids radiate the same underlying Dungeon magic as the hostile manifestations encountered elsewhere.
-
 **Dungeoneering DC 16:** There is no fundamental magical distinction between these creatures and other manifestations. Their intelligence and social behavior make them more sophisticated, but they appear to have been created through the same process.
 
-A successful check should reveal **what the Seekers can observe**, not explain the metaphysics behind it.
-
 ## Trade
+If relations remain peaceful, the Gatherer is willing to exchange small quantities of harvested Dungeon flora. The Myconids have little interest in coins. Instead, they prefer useful physical objects that they cannot easily produce themselves: simple tools, containers, worked metal, unusual food, or other materials brought from outside the Dungeon.
 
-If relations remain peaceful, the Gatherer is willing to exchange small quantities of harvested Dungeon flora.
+This creates an interesting wrinkle because anything traded _to_ the Myconids remains a normal physical object. If a Myconid carrying that object is subsequently destroyed, the traded item does not dissolve with it. That gives the players another observable way to distinguish manifested material from persistent physical matter.
 
-I'd make this the first opportunity for the party to obtain ingredients through something other than harvesting or Dungeon Orbs.
-
-The Myconids have little interest in coins. Instead, they prefer **useful physical objects that they cannot easily produce themselves**: simple tools, containers, worked metal, unusual food, or other materials brought from outside the Dungeon.
-
-This creates an interesting wrinkle because anything traded _to_ the Myconids remains a normal physical object.
-
-If a Myconid carrying that object is subsequently destroyed, **the traded item does not dissolve with it**.
-
-That gives the players another observable way to distinguish manifested material from persistent physical matter.
-
-Potential goods include:
-
+Potential goods include the following in small quantities. The enclave provides access and interaction, not an unlimited ingredient shop.
 - [[Ghostcap]]
-    
 - [[Aetherbell]]
-    
 - [[Fleetfern]]
-    
 - [[Ironroot]]
-    
-- Other common Dungeon ingredients appropriate to the Deep Wilds
-    
 
-I would keep quantities small. Location 11 remains the superior herb-gathering location; the enclave provides **access and interaction**, not an unlimited ingredient shop.
+> [!tip]+ Treasure
+> There is no treasure simply for peacefully entering and leaving the enclave. If the party establishes friendly relations, however, the Speaker could give them a small gift before they leave—perhaps [[Ghostcap]] ×1 or another locally appropriate ingredient. If the Myconids are defeated, a single Bronze Dungon Orb manifests containing fungus covered [[Leather Armor (Dungeon-Born)]].
+> 
+> - permanent::[[Leather Armor (Dungeon-Born)]] [rank::iron] [qty::001]
+> - consumable::[[Ghostcap]] [rank::iron] [qty::001]
 
-## Treasure
+[[Deep Wilds#Map|Return to Map]]
 
-There should be **no automatic treasure simply for peacefully entering and leaving the enclave**.
+# Location 13 – The Webbed Hollow
+**Encounter Difficulty:** Level 4 (40 XP)
 
-The interaction itself is the location's reward, along with whatever information or trade the Seekers obtain.
+![[deep-wilds-webbed-hollow.png|right hmed]]
 
-If the party establishes friendly relations, however, the Speaker could give them a small gift before they leave—perhaps **Ghostcap ×1** or another locally appropriate ingredient.
+> [!note]+ Read Aloud  
+> The trail descends into a shallow hollow surrounded by immense trees. Their exposed roots twist across the earth in great ridges, while high overhead their branches intertwine beneath the emerald glow of scattered crystal growths. The forest feels strangely open here. Few mushrooms grow beneath the trees, and the curtains of vines that have crowded so much of the Deep Wilds are almost entirely absent.
+> 
+> Pale strands stretch between the trunks, occasionally catching the crystal light before disappearing against the canopy. 
+> 
+> Near the center of the hollow, something pale lies crumpled between two enormous roots. It looks almost like a bundle of discarded leather.
 
-If the Myconids are defeated, normal Dungeon Orbs may form after the encounter. Those rewards should be based on the eventual combat difficulty and the Deep Wilds' existing loot progression.
+## Description
+The Webbed Hollow is the hunting ground of a colony of predatory spiders that has transformed the trees above the clearing into an interconnected network of webs.
 
-Importantly, defeating the Myconids should **not produce substantially better rewards than befriending them**. I don't want the mechanics quietly teaching the players that intelligent manifestations are just treasure containers.
+The apparent bundle near the center of the hollow is the shed carapace of a large spider, partially wrapped in webbing. It has been deliberately left in the open, drawing attention toward the forest floor while the living manifestations wait among the branches overhead.
 
-## Respawning
+The webbing is initially difficult to recognize. Individual strands stretch between trees, roots, and crystal formations, while much larger sheets and pathways have been constructed high in the canopy.
 
-If one or more Myconids are destroyed but others survive, the survivors expect their companions to eventually return.
+The Deathjump Spiders begin among the branches approximately 20 feet above the clearing. The Spiderlings occupy lower webs, hollow spaces beneath roots, and other concealed positions around the battlefield.
 
-When the Dungeon respawns the destroyed Myconids, they reform within or near the enclave in the same purple-and-gold manifestation process seen elsewhere.
+The spiders wait until the Seekers move well into the hollow before attacking.
 
-Whether a returned Myconid remembers **exactly** what happened before its destruction is something I'd deliberately leave ambiguous for now.
+If a Seeker discovers one of the hidden manifestations or clearly identifies the danger before the ambush begins, the party is not surprised. Otherwise, the attack begins when someone approaches or investigates the shed carapace. The first Deathjump Spider drops from above. Only then should the manifestations be placed on the battlefield.
+- 2: [[Deathjump Spider]]
+- 4: [[Spiderling]]
 
-That gives you a potentially excellent future moment if the party revisits Location 12 and meets someone they previously watched die.
+```encounter
+name: The Webbed Hollow
+party: Deep Wilds
+creatures:
+  - 2: Deathjump Spider
+  - 4: Spiderling
+```
 
-The Myconid recognizes them.
+## Tactics
+The Deathjump Spiders use the elevated web network to approach from above, dropping or leaping onto isolated Seekers before retreating toward the trees whenever their abilities allow. They favor characters separated from their companions and attempt to force the party to divide its attention between threats at ground level and predators moving through the canopy.
 
-Probably.
+The Spiderlings remain closer to the forest floor. They emerge from beneath roots and low webbing once the Deathjump Spiders attack, harrying characters who attempt to reposition or attack the larger spiders. The manifestations instinctively understand the web network and use it as part of their hunting territory. They do not, however, possess any supernatural protection from falling.
 
-And then you move on without explaining it.
+## Features of the Area
+**Ancient Roots** Massive exposed roots cross portions of the clearing. Crossing a root costs 1 additional square of movement. Creatures adjacent to particularly large roots may gain cover from attacks originating on the opposite side.
+**Emerald Crystals** Jagged crystal formations provide cover and illuminate the hollow with the familiar emerald light of the Deep Wilds.
+**Shed Carapace** The pale object near the center of the clearing is the discarded exoskeleton of a Deathjump Spider. It has no value but provides an obvious clue to what inhabits the hollow.
+**Low Webbing** Squares containing dense webbing are difficult terrain for creatures other than the spiders inhabiting the hollow.
+**Canopy Webs** Large sheets of webbing stretch between the trees approximately 15–25 feet above the forest floor. The spiders use these as elevated pathways.
+
+### Web Anchors
+The canopy webs are supported by several thick anchor strands attached to trees, roots, and crystal formations. These strands are visible once a character recognizes that the material throughout the hollow is webbing.
+
+> [!warning]+ Web Anchor  
+> **AC** 10; **Fortitude** 10; **Reflex** 10  
+> **HP** 10  
+> **Vulnerable** 5 fire
+> 
+> Destroying a Web Anchor causes the section of canopy web attached to it to collapse.
+> 
+> A creature standing on the collapsing section must make a saving throw. On a failure, it falls to the forest floor. On a success, it catches an adjacent stable section of web or branch if one is available.
+
+A collapsing web should affect **only a clearly identifiable section**, not cause the entire canopy to come down at once. The thick anchor strands make those sections obvious once discovered. This gives the Seekers a choice between spending attacks against the manifestations and dismantling the battlefield advantage those manifestations are using.
+
+## Investigation
+**Perception DC 15** A character who specifically examines the canopy after discovering the webbing gains a +2 bonus to the Perception check to locate the hidden spiders.  The pale strands throughout the clearing aren't vines. They are webs. Some disappear high into the canopy and appear thick enough to support considerable weight.
+**Nature DC 15** The unusual lack of insects, birds, and other small creatures suggests that a highly effective predator has established this hollow as its feeding ground.
+**Nature DC 15 – Shed Carapace** The object among the roots is not a corpse. It is the intact shed exoskeleton of an enormous spider.
+**Perception DC 17** One of the dark shapes among the branches just moved independently of the canopy. Something large is directly overhead.
+**Dungeoneering or Nature DC 16** Several exceptionally thick strands anchor much larger sections of the web network. Severing one would likely collapse the webbing it supports.
+
+## Development
+Once the manifestations are destroyed, the oppressive stillness of the hollow begins to lift.
+
+> [!note]+ Read Aloud  
+> The final spider collapses against the forest floor.
+> 
+> Purple-and-gold light spills through its body before consuming it, the manifestation unraveling into luminous strands that drift upward through the trees.
+> 
+> Above you, the abandoned webs sway gently between the branches. Then the first sound you have heard since entering the hollow returns. Somewhere beyond the clearing, a small creature begins to chirp. Slowly, the forest comes alive again.
+
+The webs themselves are persistent Dungeon material rather than part of the manifestations and remain after the spiders are destroyed. They gradually deteriorate unless the manifestations respawn and begin maintaining them again.
+
+## Investigation After the Encounter
+Once the spiders are gone, the Seekers can safely examine the web network.
+
+**Nature DC 15** Several portions of web contain empty cocoons from small Dungeon creatures. Whatever was caught here has already been consumed.
+**Perception DC 16** High among the canopy webs hangs a cocoon considerably larger than the others. Its shape is roughly humanoid, though layers of old webbing make it impossible to see what remains inside. 
+
+Reaching the cocoon requires climbing into the lower canopy or bringing the section of webbing down. Cutting it open reveals the remains of a long-dead Seeker. The body itself is be nearly gone. Clothing has decomposed. Bone is entwined with roots and webbing. But a few pieces of equipment remain.
+
+**Arcana DC 16:** The equipment radiates the same underlying magical signature as equipment produced by the Dungeon.
+**Dungeoneering DC 17:** These objects don't appear to have originally been created here. Traces of ordinary materials remain beneath layers of Dungeon Essence, suggesting that the Dungeon has somehow incorporated them into itself.
+
+> [!tip]+ Treasure  
+> As the final manifestation dissolves, some of its purple-and-gold light gathers rather than fading. Two Dungeon Orbs slowly condense among the fallen webs.
+> 
+> The violet orb dissolves into:
+> - consumable::[[Manual of the Dancing Blade]] [rank::iron] [qty::001]
+> 
+> The azure orb dissolves into:
+> - consumable::[[Quintessence]] [rank::iron] [qty::001]
+> 
+> Salvageable from the remains within the cocoon are:
+> - permanent::[[Shortbow (Dungeon-Born)]] [rank::iron] [qty::001]
+> - permanent::[[Light Shield (Dungeon-Born)]] [rank::iron] [qty::001]
+
+[[Deep Wilds#Map|Return to Map]]
+
+# Location 14 – The Emerald Proving Ground
+**Encounter Difficulty:** Level 5 Boss (25 xp)
+
+![[deep-wilds-emerald-proving-ground.png|right hmed]]
+
+> [!note]+ Read Aloud  
+> The trail climbs steadily between immense roots before passing beneath a natural arch of intertwined branches. Beyond it, the forest opens.
+> 
+> The clearing before you is enormous—larger than any you have encountered since entering the Dungeon. Ancient trees form a near-perfect circle around its edge, their trunks disappearing into the canopy hundreds of feet overhead. Great formations of emerald crystal thrust from the earth between broken stone, tangled roots, and patches of towering fungus.
+> 
+> There is no undergrowth choking the path. No hidden movement in the shadows. No strange puzzle waiting to be understood. For the first time, the Dungeon has given you room to fight.
+> 
+> At the far end of the clearing rests an enormous reptilian shape. Four clawed limbs lie beneath a body covered in overlapping green scales. Vast wings are folded against its back, and a long tail curls around the base of an emerald crystal formation. Its eyes are already open. It has been waiting for you.
+> 
+> The creature slowly rises.
+> 
+> Somewhere within Xavious's chest, the Shard clicks.
+> 
+> "...Guardian." A pause. "...Proving."
+
+## Description
+The Emerald Proving Ground marks the end of the Dungeon's introductory section. Everything the Seekers have encountered so far has taught them something: manifestations, ambushes, coordinated enemies, environmental hazards, resource management, battlefield manipulation, intelligent manifestations, exploration, and the value of understanding the terrain before committing to a fight. Location 14 asks them to use those lessons without introducing another trick.
+
+The creature waiting here is a Young Green Dragon, a powerful manifestation deliberately constructed by the Dungeon to serve as the first true boss the Seekers have encountered. It is not the master of the Deep Wilds. It does not control the Dungeon. It does not guard the Dungeon Core. It is simply the strongest challenge the Dungeon has placed before them so far.
+
+The dragon does **not** attack immediately. Allow the Seekers to enter the clearing, examine the terrain, recognize the creature, and prepare themselves. 
+
+It watches them openly. If they retreat, it does not pursue beyond the clearing. If they attempt to pass through the location without confronting it, the dragon moves to block their path. If they attack, approach too closely, or clearly commit to crossing the clearing, roll initiative.
+
+This is important because the final lesson of the training section shouldn't be another ambush. The Dungeon has effectively told them: **There is the threat. There is the battlefield. Decide how you are going to deal with it.**
+
+```encounter
+name: The Emerald Proving Ground
+party: Deep Wilds
+creatures:
+  - 1: [[Green Dragon (Young), Green Dragon]]
+```
+
+## Tactics
+The Young Green Dragon should demonstrate why a powerful manifestation is fundamentally different from the creatures the Seekers have fought previously. It uses the **entire battlefield**.
+
+Rather than choosing one target and remaining engaged with it, the dragon continually changes position, forcing the Seekers to adapt. It uses its mobility to attack vulnerable characters, withdraw from unfavorable positions, and force the party to spread out when clustering would make them vulnerable.
+
+Most importantly, play it intelligently.
+
+The Dungeon has been progressively demonstrating increasingly sophisticated behavior. The final manifestation of the training section should appear to understand everything the Dungeon has learned about the Seekers during their expedition.
+
+The dragon:
+- Recognizes heavily armored Seekers as difficult targets and attacks around them when possible.
+- Pressures wounded characters when doing so doesn't expose it unnecessarily.
+- Uses terrain to interfere with ranged attacks.
+- Moves away from positions where several Seekers can surround it.
+- Recognizes characters who have repeatedly demonstrated healing or support abilities.
+- Changes tactics if something repeatedly fails.
+
+But it should **not specifically know the characters' powers before seeing them used**.
+
+### The Boss Is Not Suicidal
+Unlike the simpler manifestations encountered earlier, the dragon displays a powerful instinct for self-preservation. 
+
+When bloodied, its behavior changes. It becomes more mobile and aggressive, attempting to break the Seekers' formation rather than simply trading attacks.
+
+When reduced to approximately one-quarter of its hit points, it briefly retreats toward the far side of the clearing.
+
+It does not surrender. It does not flee the location. Instead, it circles the battlefield, searching for one final opportunity to turn the fight around. That makes the creature feel intelligent without undermining the fact that it ultimately exists to challenge the Seekers.
+
+## Features of the Area
+**Emerald Crystal Formations** Large crystal outcroppings provide cover and block line of sight through their spaces. A creature can climb a sufficiently large formation with an Athletics DC 15 check.
+**Ancient Roots** Massive roots cross portions of the battlefield. Crossing one costs 1 additional square of movement. Some are large enough to provide cover.
+**Towering Mushrooms** Several clusters of giant mushrooms provide concealment and break sight lines across the otherwise open clearing.
+**Fallen Tree** An enormous fallen trunk lies across one portion of the battlefield. It provides cover and can be climbed. Characters standing atop it have a slightly elevated position but are completely exposed.
+**Open Ground** Much of the central clearing is intentionally unobstructed. The Dungeon has created enough terrain to reward positioning without turning the encounter into another environmental puzzle.
+**Forest Boundary** Dense vegetation surrounds the arena. Characters can enter it, but it is greater difficult terrain. After approximately 20 feet, the vegetation becomes effectively impassable.
+
+## Investigation
+Before combat begins, the Seekers have an opportunity to study both the manifestation and the battlefield.
+
+**Arcana DC 16** An extraordinary amount of Dungeon Essence has been concentrated into this single manifestation. The magical energy contained within it greatly exceeds anything encountered previously.
+**Dungeoneering DC 15** The arrangement of roots, crystals, mushrooms, and open ground seems deliberate. This isn't simply another grove where a manifestation happens to live. The entire location has been constructed as an arena.
+**Perception DC 15** Several crystal formations and massive roots provide positions from which the Seekers could break line of sight with the dragon.
+**Insight DC 16** The creature isn't behaving like an animal defending territory. It is watching the Seekers and waiting for them to act.
+**Dungeoneering DC 17** There is something different about the structure of this location. Every previous challenge tested a particular behavior or introduced some new aspect of the Dungeon. This place feels less like another lesson and more like an examination.
+
+## Defeating the Guardian
+When the Young Green Dragon reaches 0 hit points, I would make its dissolution noticeably different from an ordinary manifestation.
+
+> [!note]+ Read Aloud  
+> The dragon staggers.
+> 
+> One massive claw digs into the earth as its wings spread instinctively for balance. For a moment, it looks as though the creature might somehow remain standing. > Then the first crack of violet-and-gold light appears between its scales.
+> 
+> Soon brilliant radiance spills through hundreds of fractures spreading across its body. The dragon raises its head and releases one final roar after which its body erupts. Purple-and-gold light sweeps across the clearing like a storm, tearing the enormous manifestation apart from within. Wings, claws, scales, and bone unravel into thousands of luminous strands that spiral upward through the canopy.
+> 
+> For several seconds, the entire clearing shines. Then the light begins to fall.
+> 
+> It gathers before you.
+> 
+> One orb soon becomes five.
+> 
+> The forest falls completely silent. The Shard speaks.
+> 
+> "...Trial complete."
+> 
+> A long pause.
+> 
+> "...Threshold passed."
+> 
+> Then, unexpectedly:
+> 
+> "...Preparation complete."
+> 
+> Beyond the clearing, something enormous shifts deep within the forest. The Shard speaks once more.
+> "...Dungeon begins."
+
+> [!tip]+ Treasure  
+> As the last remnants of the guardian dissolve, five Dungeon Orbs remain suspended above the clearing.
+> 
+> The crimson orb dissolves into:
+> - consumable::[[Bear|Bear Essence]] [rank::iron] [gp::???] [qty::001]
+> 
+> The gold orb dissolves into:
+> - crafting::[[Creature Core - Hunt]] [rank::iron] [gp::???] [qty::001]
+> 
+> The azure orb dissolves into:
+> - consumable::[[Quintessence]] [rank::iron] [gp::???] [qty::003]
+> 
+> The silver orb dissolves into:
+> - currency::75 gp
+> 
+> The bronze orb dissolves into:
+> - permenant::[[Wyrmtooth]] [[Dagger (Dungeon-Born)]] [rank::iron] [gp::???] [qty::001]
+
+[[Deep Wilds#Map|Return to Map]]

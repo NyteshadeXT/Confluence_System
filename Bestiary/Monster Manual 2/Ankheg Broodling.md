@@ -4,6 +4,7 @@ cssclasses:
 noteType: creature
 tags:
   - creature/type/beast
+  - creature/role/encounter/brute
   - creature/role/minion
   - creature/size/small
   - creature/rank/iron
@@ -37,7 +38,7 @@ assoc_essence: Trap, Devouring, Ambush, Hunger
 ac: 15
 hp: 1
 speed: 6, burrow 2 (tunneling)
-modifier: 3
+modifier: 1
 stats: [10, 16, 12, 13, 1, 2]
 fage_stats: 
 saves:
@@ -52,7 +53,7 @@ damage_resistances: 5 acid
 damage_immunities: 
 condition_immunities: 
 senses: Perception +1; tremorsense 5
-languages: string
+languages: -
 spells:
   - 
   - 
@@ -65,7 +66,7 @@ traits:
 actions:
   - name: Claw (single; at-will)
     desc: "`dice: 1d20+5|form` +5 vs. AC; 4 damage"
-  - name: Mandible Rip (double; at-will) [[acid]]
+  - name: Mandible Rip (double; at-will) ✦ Acid
     desc: "`dice: 1d20+4|form` +4 vs. AC; 6 damage. If the ankheg broodling makes a critical hit against a target, each creature adjacent to that target takes 3 acid damage."
 legendary_actions:
   - name: 

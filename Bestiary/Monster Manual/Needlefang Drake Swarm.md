@@ -4,19 +4,20 @@ cssclasses:
 noteType: creature
 tags:
   - creature/type/beast
-  - creature/role/soldier
+  - creature/role/encounter/soldier
+  - creature/role/standard
   - creature/size/medium
   - creature/rank/iron
-  - creature/level/1
+  - creature/level/2
 statblock: inline
 name: Needlefang Drake Swarm
-level: 1
+level: 2
 ---
 
 > [!creature-description] Description
 > Savage marauders the size of cats, needlefang drakes swarm over their victims, pull them to ground, and strip them to the bone in seconds.
 
-> [!creature-lore] Ankheg Lore
+> [!creature-lore] Needlefang Drake Lore
 > A character knows the following information with a successful Nature check.
 > - **DC 15:** Humanoids keep needlefang drakes as exotic pets or as living traps—sometimes both.
 
@@ -51,7 +52,7 @@ damage_resistances: slashing 5, bludgeoning 5, piercing 5
 damage_immunities: 
 condition_immunities: fear, prone
 senses: Perception +7
-languages: string
+languages: -
 spells:
   - 
   - 
@@ -65,7 +66,7 @@ actions:
   - name: Swarm of Teeth (single; at-will)
     desc: "`dice: 1d20+8|form` +8 vs. AC; `dice: 2d4+4|form` damage, or `dice: 4d4+4|form` damage against a prone target."
   - name: Pull Down (single; at-will)
-    desc: "`dice: 1d20+7|form` +7 vs. Fortitude; the target is knocked prone."
+    desc: "`dice: 1d20+7|form` +7 vs. Fortitude; the target is knocked [[Conditions#Prone|Prone]]."
 legendary_actions:
   - name: 
     desc: 

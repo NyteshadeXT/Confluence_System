@@ -1,1 +1,0 @@
-Common Essences appear frequently in Dungeons, and form the baseline of most characters.

@@ -6,7 +6,8 @@ tags:
   - creature/type/beast
   - creature/type/blind
   - creature/type/ooze  
-  - creature/role/skirmisher
+  - creature/role/encounter/skirmisher
+  - creature/role/standard
   - creature/size/small
   - creature/rank/iron
   - creature/level/2
@@ -18,6 +19,10 @@ level: 2
 > [!creature-description] Description
 > Wretched piles of stinking pus, gray oozes seek to dissolve the bones of other creatures into slime, which they use to increase their bulk.
 
+> [!creature-lore] Gray Ooze Lore
+> A character knows the following information with a successful Nature check.
+> - **DC 15:** Gray oozes are especially dangerous in numbers or in close proximity to monsters that can take advantage of their bone-softening threat. 
+
 ```statblock
 layout: Basic Dungeon Layout
 image: gray-ooze.png
@@ -25,6 +30,7 @@ name: Gray Ooze
 size: Small
 rank: Iron
 level: 2
+encounter_role: Standard
 type: Beast (blind, ooze)
 subtype: Natural
 prim_essence: Devouring
@@ -48,7 +54,7 @@ damage_resistances: acid 5
 damage_immunities: 
 condition_immunities: gaze attacks
 senses: Perception +2; blindsight 10, tremorsense 10
-languages: string
+languages: -
 spells:
   - 
   - 
@@ -59,7 +65,7 @@ traits:
   - name: 
     desc: 
 actions:
-  - name: Bone Melt (single; at-will; acid)
+  - name: Bone Melt (single; at-will) ✦ Acid
     desc: "*Attack* melee (one creature); `dice: 1d20+5|form` +5 vs. Fortitude; *Hit* `dice: 1d6+5|form` acid damage, and the target takes a cumulative -2 penalty ot Fortitude each time it hits (save ends)."
   - name: Slimy (single; at-will)
     desc: "The gray ooze is able to shift two squares instead of the normal one."

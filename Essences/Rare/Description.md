@@ -1,1 +1,0 @@
-These Essences embody inevitability, permanence, or resistance to change, and their expression leaves marks that persist beyond the moment. Rare Essences are not how physics bends, but how it pushes back.

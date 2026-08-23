@@ -6,6 +6,7 @@
       {
         "id": "461b3ec2aa2283a9",
         "type": "tabs",
+        "dimension": 78.32287507130633,
         "children": [
           {
             "id": "c5ef35b672e71eb1",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Conditions.md",
-                "mode": "preview",
+                "file": "Equipment/Weapons/Dagger (Dungeon-Born).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Conditions"
+              "title": "Dagger (Dungeon-Born)"
             }
           },
           {
@@ -27,18 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essences/Common/Elemental & Environmental/Lightning.md",
-                "mode": "preview",
+                "file": "Dungeons/Deep Wilds.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lightning"
+              "title": "Deep Wilds"
             }
           },
           {
             "id": "e77a3a6e4279b3eb",
             "type": "leaf",
-            "dimension": 25,
             "state": {
               "type": "ttrpg-tools-screen-controller",
               "state": {
@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Homebrew/Untitled.md",
-                "mode": "source",
+                "file": "Bestiary/Monster Manual/Deathjump Spider.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Deathjump Spider"
             }
           },
           {
@@ -77,16 +77,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essence Powers/E/Eldritch_Blast.md",
+                "file": "Equipment/Wyrmtooth.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eldritch_Blast"
+              "title": "Wyrmtooth"
+            }
+          },
+          {
+            "id": "dd6ec33bca1c7f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-templates/Templete - Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Templete - Item"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "271154eece98b65a",
+        "type": "tabs",
+        "dimension": 21.677124928693665,
+        "children": [
+          {
+            "id": "a73c349413a85271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Important Charts.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Important Charts"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,8 +300,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_7919a969ea3b",
-                "creatureName": "Blood Hawk"
+                "creatureId": "ID_495948d8189b",
+                "creatureName": "Green Dragon (Young)"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -289,53 +324,14 @@
       "bases:Create new base": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "randomness:Open Randomness generator browser": false
+      "randomness:Open Randomness generator browser": false,
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
     "id": "0f623366edc4e808",
     "type": "floating",
     "children": [
-      {
-        "id": "33435284a5dacad1",
-        "type": "window",
-        "children": [
-          {
-            "id": "22dd4a37c9d1adad",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "596cc01bdb4f618d",
-                "type": "leaf",
-                "state": {
-                  "type": "ttrpg-tools-screen-view",
-                  "state": {
-                    "payload": {
-                      "kind": "image",
-                      "source": "app://ba0ceeaf0e80e7bb5c92ec8eabd0659a503c/C:/Users/kkroe/Documents/Obsidian/Confluence_System/zz_attachments/deep-wilds-dungeon.png?1785104539261",
-                      "filePath": "zz_attachments/deep-wilds-dungeon.png",
-                      "fog": {
-                        "enabled": true,
-                        "key": "image:zz_attachments/deep-wilds-dungeon.png",
-                        "label": "deep-wilds-dungeon"
-                      }
-                    }
-                  },
-                  "icon": "monitor-up",
-                  "title": "Screen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
       {
         "id": "391ec71e1b5edb79",
         "type": "window",
@@ -358,8 +354,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 4096,
-        "y": -216,
+        "x": 3840,
+        "y": 0,
         "width": 640,
         "height": 672,
         "maximize": false,
@@ -367,53 +363,53 @@
       }
     ]
   },
-  "active": "e83ab1ce5b6b1607",
+  "active": "df7460233a5f8a77",
   "lastOpenFiles": [
-    "Essences/Common/Elemental & Environmental/Ice.md",
-    "Dungeons/Deep Wilds.md",
-    "Essence Powers/L/Lance_of_Faith.md",
-    "Essences/Common/Elemental & Environmental/Sound.md",
-    "Essence Powers/E/Eldritch_Blast.md",
-    "Essence Powers/S/Skittering_Sneak.md",
-    "Bestiary/Homebrew/Untitled.md",
-    "Ancestry/Auran.md",
-    "Equipment/Dungeon Ingredients/Crystal Water.md",
-    "Equipment/Potion of Healing.md",
-    "Rules/Important Charts.md",
-    "Equipment/Battleaxe.md",
-    "Equipment/Dungeon Equipment/Quintessence.md",
-    "Bestiary/Homebrew",
-    "Equipment/Dungeon Ingredients/Bloodberry.md",
+    "Bestiary/Monster Manual/Green Dragon (Young).md",
+    "Equipment/Weapons/Dagger (Dungeon-Born).md",
+    "Equipment/Weapons/Battleaxe (Dungeon-Born).md",
+    "Equipment/Wyrmtooth.md",
+    "Equipment/Consumables/Potion of Healing.md",
+    "Equipment/Armor & Shields/Light Shield (Dungeon-Born).md",
+    "Equipment/Armor & Shields/Leather Armor (Dungeon-Born).md",
+    "Equipment/Crafting Resources/Aetherbell.md",
+    "Equipment/Training Manuals/Treatise of the Long Reach.md",
     "Equipment/Training Manuals/Treatise of the Iron Wall.md",
-    "Equipment/Training Manuals/Treatise of the Hidebound.md",
-    "Equipment/Training Manuals/Treatise of the Flowing Weave.md",
-    "Equipment/Training Manuals/Treatise of Living Hide.md",
     "Equipment/Training Manuals/Treatise of Iron Links.md",
     "Equipment/Training Manuals/The Woodsman First Lessons.md",
-    "Equipment/Training Manuals/The Archers Measure.md",
-    "Equipment/Training Manuals/Manual of the Unyielding Body.md",
-    "Equipment/Training Manuals/Manual of the Scaled Guard.md",
-    "Equipment/Training Manuals/Manual of the Bulwark.md",
-    "Equipment/Training Manuals/Codex of the Untamed Path.md",
-    "Equipment/Training Manuals/Codex of the Open Eye.md",
-    "zz_attachments/training-manual.png",
-    "zz_attachments/bloodberry.png",
-    "zz_attachments/stonebloom.png",
-    "zz_attachments/Pasted image 20260816112234.png",
-    "zz_attachments/ghostcap.png",
-    "zz_attachments/fleetfern.png",
+    "Equipment/Training Manuals/Codex of Arcane Principles.md",
+    "Equipment/Temp Potency Note.md",
+    "Equipment/Weapons/Shortbow (Dungeon-Born).md",
+    "Equipment/Foundation Sigil.md",
+    "zz-templates/Templete - Item.md",
+    "zz-templates/Template - Power.md",
+    "zz-templates/Template - Creature.md",
+    "Rules/Rules for Dungeons.md",
+    "Essences/Confluence/1) Additional Confluence Identities.md",
+    "Essences/Description.md",
+    "Essences/Uncommon/Description.md",
+    "ZoomMap/PlayerScreen/Fog/image-zz_attachments-deep-wilds-dungeon.png.png",
+    "Essences/Common/Beast/Ape.md",
+    "Equipment/Consumables",
+    "Equipment/Crafting Resources/Quintessence.md",
+    "Equipment/Crafting Resources/Creature Core - Hunt.md",
+    "Equipment/Crafting Resources",
+    "Equipment/Armor & Shields",
+    "Equipment/Weapons",
+    "zz_attachments/deep-wilds-emerald-proving-ground.png.crdownload",
+    "zz_attachments/green-dragon.png",
+    "zz_attachments/deep-wilds-emerald-proving-ground.png",
+    "zz_attachments/deep-wilds-webbed-hollow.png",
+    "zz_attachments/deep-wilds-sporekin-enclave.png",
+    "zz_attachments/healing-potion.png",
+    "zz_attachments/deathjump-spider.png",
+    "zz_attachments/spiderling.png",
+    "zz-templates",
+    "zz_attachments/myconid-rotpriest.png",
     "zz_attachments/aetherbell.png",
-    "zz_attachments/heartleaf.png",
-    "zz_attachments/crystal-water.png",
-    "zz_attachments/Pasted image 20260726175947.png",
+    "Bestiary/Homebrew",
     "Essences/Rare/Multiplicity & Division",
     "Essences/Rare/Malice & Spiritual Corruption",
-    "Essences/Uncommon/Corruption & Taint",
-    "Essences/Uncommon/Resonance & Expression",
-    "Essences/Uncommon/Arcane Forces",
-    "Essences/Uncommon/Refined Materials",
-    "ZoomMap/PlayerScreen/Fog",
-    "ZoomMap/PlayerScreen",
-    "ZoomMap"
+    "Essences/Uncommon/Corruption & Taint"
   ]
 }

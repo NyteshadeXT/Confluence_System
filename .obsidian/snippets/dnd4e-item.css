@@ -250,6 +250,439 @@ p:first-child {
     }
 }
 
+/* =========================================================
+   COLLAPSIBLE ARCANE PATTERN
+
+   Expected Markdown structure:
+
+   > ## Arcane Pattern
+   > ...crafting details...
+   >
+   > **Notes**
+   > Pattern-specific guidance.
+
+   Wrapping the recipe in a blockquote lets Obsidian fold the whole section.
+   These rules mirror the standard Arcane Pattern card above while keeping the
+   Notes block inside the same visual container.
+   ========================================================= */
+
+body .markdown-rendered.dnd4e-item blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern)) {
+    margin: 1.35rem 0 0 !important;
+    padding: 0 !important;
+    background: var(--dnd4e-crafting-bg) !important;
+    border: 1px solid var(--dnd4e-crafting-border) !important;
+    border-radius: 2px !important;
+}
+
+/* Arcane Pattern header within the collapsible blockquote */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> h2 {
+    margin: 0 !important;
+    padding: 0.48rem 0.85rem !important;
+    color: #fff8f2 !important;
+    background: linear-gradient(
+        90deg,
+        var(--dnd4e-crafting-dark),
+        var(--dnd4e-crafting-mid)
+    ) !important;
+    border: none !important;
+    border-radius: 1px 1px 0 0 !important;
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1.35rem !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    letter-spacing: 0.012em !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55) !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> h2::before,
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> h2::after {
+    display: none !important;
+}
+
+/* Standard field rows */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p {
+    margin: 0 !important;
+    padding: 0.62rem 0.85rem !important;
+    border: none !important;
+    line-height: 1.58 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p + p {
+    border-top: 1px solid rgba(223, 138, 74, 0.22) !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p strong {
+    display: inline-block;
+    min-width: 9.25rem;
+    color: var(--dnd4e-crafting-pale) !important;
+    font-weight: 750 !important;
+}
+
+/* Supplies heading and list */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p:has(> strong:only-child) {
+    padding-top: 0.68rem !important;
+    padding-bottom: 0.38rem !important;
+    background: var(--dnd4e-crafting-row) !important;
+    border-top: 1px solid var(--dnd4e-crafting-border) !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p:has(> strong:only-child) strong {
+    min-width: 0;
+    color: #fff3e9 !important;
+    font-size: 0.84rem !important;
+    font-weight: 750 !important;
+    letter-spacing: 0.045em !important;
+    text-transform: uppercase !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> ul {
+    margin: 0 !important;
+    padding: 0.35rem 0.85rem 0.75rem 2.1rem !important;
+    border: none !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> ul li {
+    margin: 0.2rem 0 !important;
+    padding-left: 0.15rem !important;
+    line-height: 1.5 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> ul li::marker {
+    color: var(--dnd4e-crafting-light) !important;
+}
+
+/* The Notes label begins a distinct final panel; its following paragraphs
+   remain part of that panel rather than being treated as additional fields. */
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p:has(> strong:only-child):has(+ p) {
+    margin-top: 0 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p:has(> strong:only-child) + p {
+    padding-top: 0.55rem !important;
+    padding-bottom: 0.2rem !important;
+    background: var(--dnd4e-crafting-row) !important;
+    border-top: none !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p:has(> strong:only-child) + p,
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p:has(> strong:only-child) + p ~ p {
+    color: var(--text-normal) !important;
+    font-size: 0.94rem !important;
+    line-height: 1.55 !important;
+}
+
+body .markdown-rendered.dnd4e-item
+blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+> p:has(> strong:only-child) + p ~ p {
+    padding-top: 0.2rem !important;
+    padding-bottom: 0.55rem !important;
+    border-top: none !important;
+}
+
+@media (max-width: 600px) {
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+    > h2 {
+        padding: 0.44rem 0.7rem !important;
+        font-size: 1.2rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+    > p {
+        padding-left: 0.7rem !important;
+        padding-right: 0.7rem !important;
+    }
+
+    body .markdown-rendered.dnd4e-item
+    blockquote:has(> h2:is([data-heading="Arcane Pattern"], #arcane-pattern))
+    > p strong {
+        min-width: 7.3rem;
+    }
+}
+
+/* =========================================================
+   COLLAPSIBLE ARCANE PATTERN CALLOUT
+
+   > [!Info|Arcane Pattern]-
+   > ...recipe fields, Supplies list, and Notes...
+   ========================================================= */
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) {
+    --callout-color: 164, 82, 40;
+
+    margin: 1.35rem 0 0 !important;
+    padding: 0 !important;
+    background: var(--dnd4e-crafting-bg) !important;
+    border: 1px solid var(--dnd4e-crafting-border) !important;
+    border-radius: 2px !important;
+    box-shadow: none !important;
+    overflow: hidden;
+}
+
+/* Callout title supplies the section heading and fold control. */
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-title {
+    min-height: unset;
+    padding: 0.42rem 0.75rem !important;
+    color: #fff8f2 !important;
+    background: linear-gradient(
+        90deg,
+        var(--dnd4e-crafting-dark),
+        var(--dnd4e-crafting-mid)
+    ) !important;
+    border-bottom: 1px solid var(--dnd4e-crafting-border) !important;
+    border-radius: 0 !important;
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    letter-spacing: 0.018em !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55) !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) .callout-title-inner {
+    font-size: 0 !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) .callout-title-inner::before {
+    content: "Arcane Pattern";
+    font-family: Georgia, "Times New Roman", serif !important;
+    font-size: 1rem !important;
+    font-weight: 750 !important;
+    letter-spacing: 0.015em !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) .callout-icon {
+    display: none !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) .callout-title {
+    gap: 0.35rem !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content {
+    padding: 0 !important;
+}
+
+/* Recipe field rows */
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > p {
+    margin: 0 !important;
+    padding: 0.62rem 0.85rem !important;
+    line-height: 1.58 !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > p + p {
+    border-top: 1px solid rgba(223, 138, 74, 0.22) !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > p strong {
+    display: inline-block;
+    min-width: 9.25rem;
+    color: var(--dnd4e-crafting-pale) !important;
+    font-weight: 750 !important;
+}
+
+/* Supplies */
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > p:has(+ ul) {
+    padding-top: 0.68rem !important;
+    padding-bottom: 0.38rem !important;
+    background: var(--dnd4e-crafting-row) !important;
+    border-top: 1px solid var(--dnd4e-crafting-border) !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > p:has(+ ul) strong,
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul + p strong {
+    min-width: 0;
+    color: #fff3e9 !important;
+    font-size: 0.84rem !important;
+    letter-spacing: 0.045em !important;
+    text-transform: uppercase !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul {
+    margin: 0 !important;
+    padding: 0.35rem 0.85rem 0.75rem 2.1rem !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul li {
+    margin: 0.2rem 0 !important;
+    padding-left: 0.15rem !important;
+    line-height: 1.5 !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul li::marker {
+    color: var(--dnd4e-crafting-light) !important;
+}
+
+/* Notes is the final panel, after Supplies. */
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul + p {
+    padding-top: 0.68rem !important;
+    padding-bottom: 0.38rem !important;
+    background: var(--dnd4e-crafting-row) !important;
+    border-top: 1px solid var(--dnd4e-crafting-border) !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul + p + p,
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul + p ~ p {
+    color: var(--text-normal) !important;
+    font-size: 0.94rem !important;
+    line-height: 1.55 !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul + p + p {
+    padding-top: 0.55rem !important;
+    padding-bottom: 0.2rem !important;
+    border-top: none !important;
+}
+
+body .dnd4e-item
+.callout[data-callout="info"]:is(
+    [data-callout-metadata*="arcane pattern" i],
+    [data-callout-metadata*="arcane-pattern" i]
+) > .callout-content > ul + p + p ~ p {
+    padding-top: 0.2rem !important;
+    padding-bottom: 0.55rem !important;
+    border-top: none !important;
+}
+
+@media (max-width: 600px) {
+    body .dnd4e-item
+    .callout[data-callout="info"]:is(
+        [data-callout-metadata*="arcane pattern" i],
+        [data-callout-metadata*="arcane-pattern" i]
+    ) > .callout-title {
+        padding: 0.44rem 0.7rem !important;
+        font-size: 1.1rem !important;
+    }
+
+    body .dnd4e-item
+    .callout[data-callout="info"]:is(
+        [data-callout-metadata*="arcane pattern" i],
+        [data-callout-metadata*="arcane-pattern" i]
+    ) > .callout-content > p {
+        padding-left: 0.7rem !important;
+        padding-right: 0.7rem !important;
+    }
+
+    body .dnd4e-item
+    .callout[data-callout="info"]:is(
+        [data-callout-metadata*="arcane pattern" i],
+        [data-callout-metadata*="arcane-pattern" i]
+    ) > .callout-content > p strong {
+        min-width: 7.3rem;
+    }
+}
+
 /* ---------------------------------------------------------
    Metadata strip
    Visually attaches directly to the title.
@@ -401,6 +834,47 @@ body .dnd4e-item
    4E ITEM HEADER — OBSIDIAN READING VIEW
    Handles Obsidian's .el-h1 heading wrapper.
    ========================================================= */
+
+/* =========================================================
+   CONNECTED POWER SECTIONS
+   Use ## Power Name inside a single [!power] callout. Each heading becomes
+   the same compact power-name band, allowing passive, encounter, and daily
+   abilities to share one visually connected panel.
+   ========================================================= */
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="power"]
+> .callout-content h2 {
+    margin: 0.8rem -0.85rem 0.65rem !important;
+    padding: 0.32rem 0.85rem !important;
+    color: var(--text-normal) !important;
+    background: rgba(36, 96, 93, 0.18) !important;
+    border-top: 1px solid rgba(77, 140, 134, 0.55) !important;
+    border-bottom: 1px solid rgba(77, 140, 134, 0.55) !important;
+    font-family: inherit !important;
+    font-size: 0.78rem !important;
+    font-weight: 800 !important;
+    line-height: 1.35 !important;
+    letter-spacing: 0.045em !important;
+    text-transform: uppercase !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="power"]
+> .callout-content h2:first-child {
+    margin-top: -0.7rem !important;
+    border-top: none !important;
+}
+
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="power"]
+> .callout-content h2::before,
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="power"]
+> .callout-content h2::after {
+    display: none !important;
+}
+
 
 /* Remove spacing from the wrapper around the first H1 */
 body .dnd4e-item .el-h1:has(> h1:first-child) {
@@ -1213,7 +1687,15 @@ body .markdown-rendered.dnd4e-item
 .callout[data-callout="info"][data-callout-metadata*="notes"]
 .callout-content p {
     margin: 0 !important;
-    line-height: 1.58 !important;
+    line-height: 1.65 !important;
+}
+
+/* Keep each note paragraph visually distinct without adding excess space
+   above the first or below the final paragraph. */
+body .markdown-rendered.dnd4e-item
+.callout[data-callout="info"][data-callout-metadata*="notes"]
+.callout-content p + p {
+    margin-top: 0.62rem !important;
 }
 
 /* Passive power metadata used by Dungeon Ingredients */
