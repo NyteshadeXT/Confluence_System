@@ -23,7 +23,7 @@ views:
 
 ```
 
-# Battleaxe
+# Light Shield
 
 > [!metadata]
 > **Iron** • **Common** • **5 gp**

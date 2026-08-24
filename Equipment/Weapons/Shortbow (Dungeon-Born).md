@@ -23,7 +23,7 @@ views:
 
 ```
 
-# Battleaxe
+# Shortbow
 
 > [!metadata]
 > **Iron** • **Marital** • **Ranged** • **Common** • **25 gp**

@@ -464,6 +464,8 @@ Xavious hears the Shard speak again.
 > The gold orb contains:
 > - crafting::[[Creature Core - Hunt]] [rank::iron] [gp::???] [qty::001]
 
+[[Deep Wilds#Map|Return to Map]]
+
 # Location 6 – The Stillroot Sanctuary
 **Encounter Difficulty:** None (Sanctuary)
 
@@ -560,8 +562,6 @@ When the party begins leaving the location after consuming the Sanctuary, read:
 > A character who examines the dormant basin after the Sanctuary has been expended finds a shallow geometric impression beneath the water. Its shape resembles the outer ring of a [[Foundation Sigil]], suggesting that the Sanctuary and Dungeon equipment rely upon the same underlying magical architecture.
 
 [[Deep Wilds#Map|Return to Map]]
-
-Location 7’s position on the map suggests a **large, deliberate destination rather than a passage room**. It is reached only through Location 6, has no onward exits, and is one of the largest chambers in the first section; that makes it ideal for an optional, self-contained encounter with a worthwhile reward. Since Locations 2–5 have emphasized Growth and Hunt more heavily, I would make Location 7 the party’s first major **Fungus-attuned ecosystem**.
 
 # Location 7 – The Corpseflower Garden
 **Encounter Difficulty:** Level 3 (40 XP)
