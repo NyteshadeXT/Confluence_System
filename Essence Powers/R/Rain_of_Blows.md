@@ -30,12 +30,12 @@ You become a blur of motion, striking in rapid succession before your foe can re
 **Primary Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (make two attacks)
+> - Power Rank vs. AC (make two attacks)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage per hit. If you are wielding a light blade, spear, or flail and have Dexterity 15 or higher, you may make a third attack.
 > 
-> - **Secondary Targets:** May be the same target or a different creature within reach.  Make a second (or third) attack Essence Attack vs. AC.  On hit, 1[W] + your Essence ability modifier damage.
+> - **Secondary Targets:** May be the same target or a different creature within reach.  Make a second (or third) attack Power Rank vs. AC.  On hit, 1[W] + your Essence ability modifier damage.
 
 > [!column]-
 >> [!info] ### RANK EXPRESSIONS (IRON TIER)

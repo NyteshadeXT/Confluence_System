@@ -2,12 +2,11 @@
 alias: "Hunter’s Quarry"
 slot: 4
 essences: 
-- Oath
-- Zeal
-- Blade
-- Order
-- Dominion
+- Pursuit
 - Momentum
+- Eye
+- Swift
+- Hunt
 ---
 
 # `VIEW[{alias}][text]`

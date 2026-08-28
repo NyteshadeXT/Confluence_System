@@ -5,7 +5,6 @@ essences:
 - Hunt
 - Eye
 - Knowledge
-- Wolf
 - Mind
 - Harmony
 ---
@@ -15,7 +14,7 @@ Utility ✦ Tactical
 
 **Encounter Martial**
 
-**Eligible Essences:** Hunt, Eye, Knowledge, Wolf, Mind, Harmony
+**Eligible Essences:** Hunt, Eye, Knowledge, Mind, Harmony
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

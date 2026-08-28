@@ -4,8 +4,6 @@ slot: 3
 essences: 
 - Ice
 - Water
-- Omen
-- Balance
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +11,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER ARCANE COLD IMPLEMENT**
 
-**Eligible Essences:** Ice, Water, Omen, Balance  
+**Eligible Essences:** Ice, Water
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

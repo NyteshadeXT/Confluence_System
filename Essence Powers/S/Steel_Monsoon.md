@@ -7,9 +7,6 @@ essences:
 - Swift
 - Momentum
 - Order
-- Sound
-- Gathering
-- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -17,7 +14,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Blade, Steel, Swift, Momentum, Order, Sound, Gathering, Storm
+**Eligible Essences:** Blade, Steel, Swift, Momentum, Order
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -31,7 +28,7 @@ You plunge into the fray in a whirling storm of steel, your motions drawing enem
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Strength-based)
+> - Power Rank vs. AC (Strength-based)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. One ally within 5 squares may shift 1 square.

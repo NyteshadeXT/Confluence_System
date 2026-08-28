@@ -27,7 +27,7 @@ You drive your foe backward with steel and shield, claiming the ground they aban
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > -1[W] + Strength modifier damage, and you push the target 1 square if it is your size, smaller, or one size larger. You may shift into the space the target vacated.

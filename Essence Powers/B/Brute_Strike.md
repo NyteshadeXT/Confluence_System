@@ -29,7 +29,7 @@ You commit to a single, devastating blow, shattering defenses through sheer forc
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 3[W] + your Essence ability modifier damage.

@@ -10,6 +10,7 @@ essences:
 - Freedom
 - Paradox
 - Storm
+- Dimension
 ---
 
 # `VIEW[{alias}][text]`
@@ -17,7 +18,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER ARCANE IMPLEMENT TELEPORTATION**
 
-**Eligible Essences:** Air, Wind, Swift, Magic, Wing, Freedom, Paradox, Storm
+**Eligible Essences:** Air, Wind, Swift, Magic, Wing, Freedom, Paradox, Storm, Dimension
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -31,7 +32,7 @@ You unleash a violent, unseen current that lashes your enemies as you step throu
 **Target:** Each creature in burst
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Fortitude (Charisma-based)
+> - Power Rank vs. Fortitude (Charisma-based)
 
 > [!Hit|background-color-green]
 > - 1d8 + your Essence ability modifier damage, and the target is immobilized until the end of your next turn. You teleport 5 squares.

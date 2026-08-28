@@ -6,13 +6,9 @@ essences:
 - Order
 - Suppression
 - Revelation
-- Force
-- Pure
 - Life
 - Sun
-- Reckoning
 - Death
-- Veil
 ---
 
 # `VIEW[{alias}][text]`
@@ -20,7 +16,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER DIVINE RADIANT IMPLEMENT**
 
-**Eligible Essences:** Sun, Light, Life, Order, Pure, Suppression, Reckoning, Death, Veil, Revelation, Force
+**Eligible Essences:** Sun, Light, Life, Order, Suppression, Death, Revelation
 **Slot:** 4 – Tactical Strike
 **Tier:** Encounter
 
@@ -33,7 +29,7 @@ You unleash a searing beam of radiant authority, dragging the undead into your j
 **Target:** One undead creature in burst
 
 > [!Attack|background-color-red]
-> - Power Attack vs Will
+> - Power Rank vs Will
 
 > [!Hit|background-color-green]
 > - 2d10 + your Essence ability modifier radiant damage. You pull the target a number of squares equal to 1 + your Essence ability modifier The target is immobilized until the end of your next turn.

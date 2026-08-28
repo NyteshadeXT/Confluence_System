@@ -29,8 +29,8 @@ You strike through one foe and carry your momentum forward, flowing seamlessly i
 **Cost:** Cost: 1 Stamina
 
 > [!Attack|background-color-red]
-> - **Primary Target** Essence Attack vs. AC
-> - **Secondary Target** Essence Attack +2 vs. AC
+> - **Primary Target** Power Rank vs. AC
+> - **Secondary Target** Power Rank +2 vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage. You may shift 1 square and make a secondary attack doing 1[W] + your Essence ability modifier damage to the secondary target.

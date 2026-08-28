@@ -6,7 +6,6 @@ essences:
 - Order
 - Oath
 - Reckoning
-- Judgement
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +13,7 @@ Attack ✦ Core Concept
 
 **AT-WILL DIVINE WEAPON**
 
-**Eligible Essences:** Light, Order, Oath, Reckoning, Judgment
+**Eligible Essences:** Light, Order, Oath, Reckoning
 
 **Slot:** 1 – Core Concept
 **Tier:** At-Will
@@ -28,7 +27,7 @@ You mark a foe with divine consequence—others who strike you invite its punish
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs AC
+> - Power Rank vs AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage.

@@ -28,7 +28,7 @@ You flow through your enemy’s space, displacing them with precise momentum.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs AC
+> - Power Rank vs AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage**. You shift 1 square. You slide the target 1 square into the space you occupied

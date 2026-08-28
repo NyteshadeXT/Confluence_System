@@ -28,7 +28,7 @@ You drive your weapon into a joint, tendon, or pressure point, crippling your fo
 **Cost:** Cost: 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. The target is slowed and cannot shift until the end of your next turn.

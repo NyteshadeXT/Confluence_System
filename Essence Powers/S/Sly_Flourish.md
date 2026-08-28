@@ -28,7 +28,7 @@ A flourish, a feint, and a smile—your foe never notices the real strike until 
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity)
+> - Power Rank vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Dexterity modifier + your secondary ability modifier damage  

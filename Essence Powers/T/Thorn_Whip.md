@@ -3,18 +3,13 @@
 alias: "Thorn Whip"  
 slot: 1  
 essences:
-
 - Plant
-    
 - Tree
-    
 - Growth
-    
 - Hunt
-    
 - Trap
-    
-
+- Wood
+- Tentacle
 ---
 
 # `VIEW[{alias}][text]`
@@ -23,12 +18,12 @@ Attack ✦ Verdant Control
 
 **AT-WILL PLANT**
 
-**Eligible Essences:** Plant, Tree, Growth, Hunt, Trap
-
+**Eligible Essences:** Plant, Tree, Growth, Hunt, Trap, Wood, Tentacle
+o
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
 
-A length of barbed vegetation erupts into being, lashing around your prey before contracting and dragging it toward you.
+A length of barbed vegetation or flesh erupts into being, lashing around your prey before contracting and dragging it toward you.
 
 **Dungeon Resonance:** Stable  
 **Action Type:** Standard Action  
@@ -37,7 +32,7 @@ A length of barbed vegetation erupts into being, lashing around your prey before
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Fortitude
+> - Power Rank vs. Fortitude
 
 > [!Hit|background-color-green]
 > - 1d8 + Wisdom modifier damage, and you pull the target 2 squares.

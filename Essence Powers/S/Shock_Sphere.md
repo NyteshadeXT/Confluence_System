@@ -30,7 +30,7 @@ You hurl a crackling sphere of lightning that detonates in a violent surge, elec
 **Target:** Each creature in burst
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Intelligence-based)
+> - Power Rank vs. Reflex (Intelligence-based)
 
 > [!Hit|background-color-green]
 > - 2d6 + your Essence ability modifier lightning damage.

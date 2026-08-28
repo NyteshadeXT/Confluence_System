@@ -27,7 +27,7 @@ You weave past danger, striking while constantly adjusting your position.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity)
+> - Power Rank vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage. You may shift 1 square before or after making this attack.

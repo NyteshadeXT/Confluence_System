@@ -29,7 +29,7 @@ You unleash a relentless flurry of strikes, forcing your enemy to focus entirely
 **Cost:** Cost: 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. One ally adjacent to the target may shift up to 2 squares as a free action. This movement does not provoke opportunity attacks from the target.

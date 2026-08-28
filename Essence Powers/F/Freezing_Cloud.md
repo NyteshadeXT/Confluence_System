@@ -4,8 +4,6 @@ slot: 5
 essences: 
 - Ice
 - Water
-- Balance
-- Omen
 - Storm
 ---
 
@@ -14,7 +12,7 @@ Attack ✦ Apex Ability
 
 **DAILY ARCANE COLD IMPLEMENT**
 
-**Eligible Essences:** Ice, Water, Balance, Omen, Storm  
+**Eligible Essences:** Ice, Water, Storm  
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

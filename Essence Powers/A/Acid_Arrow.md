@@ -9,6 +9,7 @@ essences:
 - Ruin
 - Magic
 - Elemental
+- Acid
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Apex Ability
 
 **DAILY ARCANE ACID IMPLEMENT**
 
-**Eligible Essences:** Alchemy, Entropy, Venom, Ruin, Magic, Water, Elemental
+**Eligible Essences:** Alchemy, Entropy, Venom, Ruin, Magic, Water, Elemental, Acid
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 

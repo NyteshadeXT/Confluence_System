@@ -26,7 +26,7 @@ You sacrifice raw power to ensure your blow lands where it must.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack +2 vs. AC
+> - Power Rank +2 vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] damage. This power cannot gain additional weapon damage dice beyond its listed [W] value. Flat modifiers, penalties to the target, and vulnerability still apply.

@@ -29,7 +29,7 @@ You whisper a fragment of cosmic truth, and your foe’s certainty fractures.
 **Cost:** 1 Mana
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - 2d8 + Intelligence modifier acid damage, and ongoing 5 acid damage (save ends).

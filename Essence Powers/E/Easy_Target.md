@@ -28,7 +28,7 @@ A brutal, disorienting strike leaves your enemy reeling—perfectly positioned f
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 2[W] + your Dexterity modifier damage.  The target is slowed and grants combat advantage to you (save ends both).

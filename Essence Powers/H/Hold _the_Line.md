@@ -31,7 +31,7 @@ With sharp commands and disciplined presence, you anchor your allies in place an
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Strength-based)
+> - Power Rank vs. AC (Strength-based)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage. Until the end of your next turn allies adjacent to you gain a +2 bonus to AC and those allies cannot be pulled, pushed, or slid.

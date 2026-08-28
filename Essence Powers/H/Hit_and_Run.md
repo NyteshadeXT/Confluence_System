@@ -7,7 +7,6 @@ essences:
 - Blade
 - Cat
 - Wolf
-- Blade
 ---
 
 # `VIEW[{alias}][text]`
@@ -28,7 +27,7 @@ You strike and immediately disengage, refusing to be pinned down.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage. If you move later in the same turn, leaving the first square adjacent to the target does not provoke an opportunity attack from that target.

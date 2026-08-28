@@ -28,7 +28,7 @@ A stream of siphoning darkness feeds your strength from your enemy’s fading vi
 **Cost:** 1 Mana
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will (Constitution)
+> - Power Rank vs. Will (Constitution)
 
 > [!Hit|background-color-green]
 > - 2d8 + your Constitution modifier necrotic damage, and you gain 5 temporary hit points. If aligned with Blood or Zeal, increase temporary hit points to  5 + your Intelligence modifier.

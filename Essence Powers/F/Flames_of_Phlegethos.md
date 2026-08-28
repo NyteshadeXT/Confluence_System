@@ -29,7 +29,7 @@ Liquid flame engulfs your foe, clinging and burning long after the initial blast
 **Cost:** 2 Mana
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Constitution)
+> - Power Rank vs. Reflex (Constitution)
 
 > [!Hit|background-color-green]
 > - 3d10 + your Constitution modifier fire damage. The target takes ongoing 5 fire damage (save ends).

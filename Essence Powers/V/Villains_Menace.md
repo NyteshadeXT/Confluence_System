@@ -9,6 +9,7 @@ essences:
 - Hunt
 - Resolute
 - Zeal
+- Reckoning
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Apex Ability
 
 **Daily Martial Weapon**
 
-**Eligible Essences:** Blade, Order, Wolf, Oath, Hunt, Resolute, Zeal  
+**Eligible Essences:** Blade, Order, Wolf, Oath, Hunt, Resolute, Zeal, Reckoning
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
@@ -30,7 +31,7 @@ You single out your foe and make them your problem—pressing them relentlessly 
 **Cost:** Cost: 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. Until the end of the encounter, you gain a +2 bonus to attack rolls and a +4 bonus to damage rolls against the target.

@@ -31,7 +31,7 @@ You lunge with perfect timing, using your opponent’s movement against them to 
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity-based)
+> - Power Rank vs. AC (Dexterity-based)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage, and the target is knocked prone.

@@ -30,7 +30,7 @@ You sacrifice force for certainty, committing fully to a strike that must land.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack +4 vs. AC
+> - Power Rank +4 vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage.

@@ -6,7 +6,6 @@ essences:
 - Blood
 - Life
 - Shield
-- Shield
 - Resolute
 - Zeal
 - Renewal
@@ -31,7 +30,7 @@ You strike through pain and doubt, drawing strength from the act of defiance its
 **Cost:** Cost: 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. You may immediately spend a healing surge. If this power misses, it is not expended.

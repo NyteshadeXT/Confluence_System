@@ -28,7 +28,7 @@ A concussive wave explodes outward, scattering your foes.
 **Target:** Each creature in blast
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Fortitude
+> - Power Rank vs. Fortitude
 
 > [!Hit|background-color-green]
 > - 1d6 + Intelligence modifier thunder damage. You push the target a number of squares equal to your Wisdom modifier.

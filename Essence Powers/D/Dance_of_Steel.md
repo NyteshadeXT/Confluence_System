@@ -30,7 +30,7 @@ Your weapon flows in a fluid arc, turning motion into lethal precision before yo
 **Requirement:** You must be wielding a melee weapon.
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. If you are wielding a polearm or a heavy blade, the target is immobilized until the end of your next turn.

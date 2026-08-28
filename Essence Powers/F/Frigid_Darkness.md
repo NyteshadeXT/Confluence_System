@@ -31,7 +31,7 @@ You conjure a freezing mantle of starless darkness that clings to your foe, numb
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Fortitude (Constitution-based)
+> - Power Rank vs. Fortitude (Constitution-based)
 
 > [!Hit|background-color-green]
 > - 2d8 + your Essence ability modifier cold damage. The target grants combat advantage to you and your allies until the end of your next turn.

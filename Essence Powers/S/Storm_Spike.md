@@ -29,7 +29,7 @@ A concentrated bolt of lightning spears your foe and leaves the surrounding air 
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d8 + Wisdom modifier lightning damage. If the target does not move at least 2 squares from its current position during its next turn, it takes additional lightning damage equal to your Wisdom modifier at the end of that turn.

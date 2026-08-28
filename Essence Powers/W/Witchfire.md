@@ -7,6 +7,7 @@ essences:
 - Moon
 - Zeal
 - Suppression
+- Fire
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Signature Strike
 
 **Encounter Arcane Fire Implement**
 
-**Eligible Essences:** Light, Shadow, Moon, Zeal, Suppression
+**Eligible Essences:** Light, Shadow, Moon, Zeal, Suppression, Fire
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter
@@ -28,7 +29,7 @@ Argent flame erupts in your foe’s mind and body, searing flesh and unraveling 
 **Cost:** 1 Mana
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Charisma)
+> - Power Rank vs. Reflex (Charisma)
 
 > [!Hit|background-color-green]
 > - 2d6 + your Charisma modifier fire damage, and the target takes a –2 penalty to attack rolls until the end of your next turn. If aligned with Moon or Light, increase the penalty to  2 + your Intelligence modifier.

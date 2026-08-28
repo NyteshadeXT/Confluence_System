@@ -11,8 +11,8 @@ Shield represents the will to hold the line. It favors protection, counterpressu
 - **Bronze Tier:** +4 HP per Essence Rank
 
 **Recovery:** Shield recovers better than most defensive Essences, reflecting trained endurance and defensive rhythm.
--  **Iron Tier:** Gain **+1 Healing Surge at Rank 3 and Rank 6**
-- **Bronze Tier:** Gain **+1 Healing Surge at Bronze Rank 1**
+-  **Iron Tier:** Gain +1 Healing Surge at Rank 3 and Rank 6
+- **Bronze Tier:** Gain +1 Healing Surge at Bronze Rank 1
 
 **Exertion:** Shield supports exertion tied to bracing, blocking, and countering, but not sustained aggression.
 - **Iron Tier:** Gain +1 Stamina at Rank 3

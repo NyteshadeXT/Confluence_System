@@ -31,7 +31,7 @@ You strike in motion, repositioning fluidly between blows to keep the advantage.
 **Target:** One or two creatures
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (two attacks); Strength (melee; main-hand and off-hand)/Dexterity (ranged)
+> - Power Rank vs. AC (two attacks); Strength (melee; main-hand and off-hand)/Dexterity (ranged)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage per hit. After the first or second attack, you may shift a number of squares equal to 1 + your Wisdom modifier.

@@ -27,7 +27,7 @@ A sudden, perfectly timed strike leaves your foe reeling and unfocused.
 **Cost:** 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Dexterity modifier damage, and the target is **dazed** until the end of your next turn.

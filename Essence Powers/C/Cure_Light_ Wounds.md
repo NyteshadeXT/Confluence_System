@@ -5,7 +5,7 @@ essences:
 - Life
 - Light
 - Oath
-- Stone
+- Renewal
 ---
 
 # `VIEW[{alias}][text]`

@@ -7,7 +7,6 @@ essences:
 - Eye
 - Hunt
 - Ambush
-- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +14,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Blade, Shadow, Eye, Hunt, Ambush, Harmony
+**Eligible Essences:** Blade, Shadow, Eye, Hunt, Ambush
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter
@@ -30,7 +29,7 @@ You strike with calculated intent, opening your foe’s defenses for a decisive 
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity-based)
+> - Power Rank vs. AC (Dexterity-based)
 
 > [!Hit|background-color-green]
 > - 2d8 + Intelligence modifier acid damage, and ongoing 5 acid damage (save ends).

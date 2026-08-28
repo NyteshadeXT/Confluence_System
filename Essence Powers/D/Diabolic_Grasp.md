@@ -7,6 +7,8 @@ essences:
 - Force
 - Omen
 - Reckoning
+- Claw
+- Tentacle
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +16,7 @@ Attack ✦ Signature Strike
 
 **Encounter Arcane Implement**
 
-**Eligible Essences:** Shadow, Blood, Force, Omen, Reckoning
+**Eligible Essences:** Shadow, Blood, Force, Omen, Reckoning, Claw, Tentacle
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter
@@ -28,7 +30,7 @@ A claw of infernal force seizes your foe and drags them where you will.
 **Cost:** 1 Mana
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Fortitude
+> - Power Rank vs. Fortitude
 
 > [!Hit|background-color-green]
 > - 2d8 + your Constitution modifier damage, and you slide the target 2 squares. If aligned with Blood or Shadow, increase the slide distance to  2 + your Intelligence modifier.

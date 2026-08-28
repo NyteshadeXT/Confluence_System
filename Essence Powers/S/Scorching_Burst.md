@@ -4,8 +4,6 @@ slot: 1
 essences: 
 - Light
 - Fire
-- Omen
-- Reckoning
 - Momentum
 - Storm
 ---
@@ -15,7 +13,7 @@ Attack ✦ Core Concept
 
 **AT-WILL ARCANE FIRE IMPLEMENT**
 
-**Eligible Essences:** Fire, Light, Omen, Reckoning, Momentum, Storm
+**Eligible Essences:** Fire, Light, Momentum, Storm
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

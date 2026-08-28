@@ -10,7 +10,6 @@ essences:
 - Rune
 - Dominion
 - Sun
-- Light
 - Apotheosis
 - Suppression
 - Subjugation

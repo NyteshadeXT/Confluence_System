@@ -3,11 +3,9 @@ alias: "Positioning Strike"
 slot: 4
 essences: 
 - Fox
-- Cat
-- Snake
+- Wolf
 - Adept
 - Order
-- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +13,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon Control**
 
-**Eligible Essences:** Fox, Cat, Snake, Adept, Order, Harmony
+**Eligible Essences:** Fox, Wolf, Adept, Order
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -29,7 +27,7 @@ A feint, a shove, and a flash of steel put your enemy exactly where you want the
 **Cost:** 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will (Dexterity)
+> - Power Rank vs. Will (Dexterity)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Dexterity modifier damage, and you slide the target 1 square. 

@@ -28,7 +28,7 @@ A sudden eruption of supernatural cold engulfs your foe, freezing it in place be
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Fortitude
+> - Power Rank vs. Fortitude
 
 > [!Hit|background-color-green]
 > - 1d6 + Wisdom modifier cold damage, and the target is Immobilized until the end of your next turn.

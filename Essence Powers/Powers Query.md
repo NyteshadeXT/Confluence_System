@@ -7,7 +7,7 @@ views:
     filters:
       and:
         - file.inFolder("Essence Powers")
-        - essences.contains("Sound")
+        - essences.contains("Mind")
     groupBy:
       property: slot
       direction: ASC

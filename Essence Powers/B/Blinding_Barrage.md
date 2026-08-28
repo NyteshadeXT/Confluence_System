@@ -6,6 +6,7 @@ essences:
 - Fox
 - Adept
 - Swift
+- Light
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ essences:
 
 **Daily Martial Weapon Control**
 
-**Eligible Essences:** Ranged, Fox, Adept, Swift  
+**Eligible Essences:** Ranged, Fox, Adept, Swift, Light
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
@@ -28,7 +29,7 @@ A storm of precise strikes lashes out in every direction, leaving foes clutching
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity)
+> - Power Rank vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Dexterity modifier damage, and the target is **blinded** until the end of your next turn.

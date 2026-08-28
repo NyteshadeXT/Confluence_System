@@ -31,7 +31,7 @@ Your strike is punctuated by a commanding cry that steels the will of your allie
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Strength-based)
+> - Power Rank vs. AC (Strength-based)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. One ally within 5 squares who can hear you immediately makes a saving throw.

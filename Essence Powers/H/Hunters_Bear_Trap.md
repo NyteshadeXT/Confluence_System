@@ -30,8 +30,8 @@ A carefully placed strike cripples your foe’s movement, leaving them limping, 
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Melee: Essence Attack vs. AC (Strength)
-> - Ranged: Essence Attack vs. AC (Dexterity)
+> - Melee: Power Rank vs. AC (Strength)
+> - Ranged: Power Rank vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. The target is slowed and takes ongoing damage equal to your Tier bleed value (save ends both).

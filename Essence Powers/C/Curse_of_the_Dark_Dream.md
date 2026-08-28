@@ -29,7 +29,7 @@ You fracture your enemy’s perception, forcing waking nightmare upon them.
 **Cost:** 2 Mana
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - 3d8 + your Charisma modifier psychic damage, and you slide the target 3 squares.

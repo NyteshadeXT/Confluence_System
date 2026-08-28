@@ -8,6 +8,7 @@ essences:
 - Lizard
 - Hunt
 - Might
+- Claw
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Bestial Assault
 
 **AT-WILL BEAST**
 
-**Eligible Essences:** Bear, Cat, Ape, Lizard, Hunt, Might
+**Eligible Essences:** Bear, Cat, Ape, Lizard, Hunt, Might, Claw
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
@@ -30,7 +31,7 @@ Savage claws manifest as you rake across your foe, using the force of the attack
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d8 + Wisdom modifier damage, and you slide the target 1 square.

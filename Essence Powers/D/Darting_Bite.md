@@ -19,7 +19,7 @@ Attack ✦ Bestial Skirmish
 
 **ENCOUNTER BEAST**
 
-**Eligible Essences:** Swift, Wolf, Snake, Fox, Cat, Dog, Crocodile, Lizard, Bat
+**Eligible Essences:** Swift, Wolf, Snake, Fox, Cat
 
 **Slot:** 3 – Signature Strike
 **Tier:** Encounter
@@ -34,7 +34,7 @@ You dart between your foes with predatory speed, striking with tooth or fang bef
 
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex made separately against each target.
+> - Power Rank vs. Reflex made separately against each target.
 
 > [!Hit|background-color-green]
 > - 1d10 + Wisdom modifier damage. If at least one attack hits, you may shift 2 squares after resolving all attacks.

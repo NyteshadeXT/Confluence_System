@@ -28,7 +28,7 @@ Your strike binds your movement to your foe’s escape.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs AC
+> - Power Rank vs AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage. If the target does not end its next turn adjacent to you, you may shift a number of squares equal to 1 + your Dexterity modifier as a free action. You must end this movement closer to the target.

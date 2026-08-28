@@ -1,4 +1,4 @@
-![[essence-armor.png|right]]
+ ![[essence-armor.png|right]]
 
 **Core Concept:** Protection, absorption, defiance  
 

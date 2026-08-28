@@ -6,7 +6,7 @@ essences:
 - Hunt
 - Adept
 - Eye
-- Storm
+- Wood
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +14,7 @@ Attack ✦ Apex Ability
 
 **Daily Martial Weapon Precision**
 
-**Eligible Essences:** Ranged, Hunt, Adept, Eye, Storm
+**Eligible Essences:** Ranged, Hunt, Adept, Eye, Wood
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
@@ -28,7 +28,7 @@ You loose two arrows at once; they separate in flight and strike as if guided by
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC. Make two attack rolls, take the higher result, and apply it to both targets.
+> - Power Rank vs. AC. Make two attack rolls, take the higher result, and apply it to both targets.
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage.

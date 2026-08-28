@@ -10,6 +10,7 @@ essences:
 - Ape
 - Hunt
 - Pursuit
+- Claw
 ---
 
 # `VIEW[{alias}][text]`
@@ -18,7 +19,7 @@ Attack ✦ Predatory Assault
 
 **AT-WILL BEAST**
 
-**Eligible Essences:** Cat, Wolf, Fox, Dog, Bear, Ape, Hunt, Pursuit
+**Eligible Essences:** Cat, Wolf, Fox, Dog, Bear, Ape, Hunt, Pursuit, 
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
@@ -32,7 +33,7 @@ You spring upon your prey with sudden bestial ferocity, striking before it can r
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d8 + Wisdom modifier damage. The target grants Combat Advantage to the next creature that attacks it before the end of your next turn.

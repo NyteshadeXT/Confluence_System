@@ -28,7 +28,7 @@ A howling gust of bitter wind tears through your enemies, coating them in frost 
 **Target:** Each creature in the burst
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Fortitude
+> - Power Rank vs. Fortitude
 
 > [!Hit|background-color-green]
 > - 1d6 cold damage, and you slide the target 1 square.

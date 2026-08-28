@@ -29,7 +29,7 @@ Living flame engulfs your enemies, feeding upon them until its purpose is fulfil
 **Target:** Each enemy in the burst
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d6 + Wisdom modifier fire damage, and the target takes ongoing 5 fire damage (save ends). If the target drops to 0 Hit Points before saving against the ongoing damage, choose one creature within 5 squares of the target. That creature regains Hit Points equal to 5 + your Constitution modifier.

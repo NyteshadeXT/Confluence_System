@@ -7,14 +7,12 @@ essences:
 - Oath
 - Zeal
 - Order
-- Pure
 - Mind
 - Resolute
 - Magic
 - Domination
 - Subjugation
 - Apotheosis
-- Mind
 ---
 
 # `VIEW[{alias}][text]`
@@ -22,7 +20,7 @@ Utility ✦ Utility / Passive
 
 **DAILY DIVINE MIND**
 
-**Eligible Essences:** Sound, Knowledge, Oath, Order, Pure, Zeal, Resolute, Magic, Dominion, Subjugation, Apotheosis, Mind
+**Eligible Essences:** Sound, Knowledge, Oath, Order, Zeal, Resolute, Magic, Dominion, Subjugation, Apotheosis, Mind
 **Slot:** 2 – Utility / Passive  
 **Frequency:** Daily
 

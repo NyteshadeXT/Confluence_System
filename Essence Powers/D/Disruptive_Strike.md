@@ -7,7 +7,6 @@ essences:
 - Swift
 - Blade
 - Ranged
-- Trap
 - Insight
 ---
 
@@ -16,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Hunt, Eye, Swift, Blade, Ranged, Trap, Insight
+**Eligible Essences:** Hunt, Eye, Swift, Blade, Ranged, Insight
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -31,7 +30,7 @@ You interrupt your foe at the perfect moment, turning a deadly strike into a fai
 **Target:** The attacking creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC; Strength (melee); Dexterity (ranged)
+> - Power Rank vs. AC; Strength (melee); Dexterity (ranged)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage. The target takes a penalty to its triggering attack roll equal to 3 + your Wisdom modifier.

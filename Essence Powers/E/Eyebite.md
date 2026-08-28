@@ -5,7 +5,6 @@ essences:
 - Veil
 - Shadow
 - Eye
-- Light
 - Moon
 - Mind
 ---
@@ -15,7 +14,7 @@ Attack ✦ Core Concept
 
 **At-Will Arcane Implement**
 
-**Eligible Essences:** Veil, Shadow, Eye, Light, Moon, Mind
+**Eligible Essences:** Veil, Shadow, Eye, Moon, Mind
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
@@ -28,7 +27,7 @@ Your gaze fractures a single mind’s perception while you slip from its sight.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - 1d6 + your Charisma modifier mental damage, and you are invisible to the target until the start of your next turn.

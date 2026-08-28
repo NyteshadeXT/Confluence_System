@@ -27,7 +27,7 @@ You slip your blade through gaps in armor, striking where protection is weakest.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Dexterity)
+> - Power Rank vs. Reflex (Dexterity)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Dexterity modifier damage.

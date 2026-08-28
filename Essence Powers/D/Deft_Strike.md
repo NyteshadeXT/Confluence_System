@@ -28,7 +28,7 @@ You dart forward with perfect timing, striking as you slip into a better positio
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Dexterity modifier damage. You may move up to 2 squares before making this attack.

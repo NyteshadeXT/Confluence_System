@@ -31,7 +31,7 @@ Your predatory presence overwhelms your prey with the certainty that it has been
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - 2d8 + Wisdom modifier psychic damage, and you pull the target 3 squares.

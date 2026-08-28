@@ -6,6 +6,7 @@ essences:
 - Plant
 - Armor
 - Growth
+- Wood
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Utility ✦ Living Defense
 
 **ENCOUNTER PROTECTION**
 
-**Eligible Essences:** Tree, Plant, Armor, Growth
+**Eligible Essences:** Tree, Plant, Armor, Growth, Wood
 
 **Slot:** 2 – Utility / Passive
 **Tier:** Encounter

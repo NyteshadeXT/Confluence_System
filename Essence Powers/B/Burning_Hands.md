@@ -5,8 +5,6 @@ essences:
 - Fire
 - Light
 - Momentum
-- Reckoning
-- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +12,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER ARCANE FIRE IMPLEMENT**
 
-**Eligible Essences:** Fire, Light, Momentum, Reckoning, Storm
+**Eligible Essences:** Fire, Light, Momentum
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

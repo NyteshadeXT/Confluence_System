@@ -25,7 +25,7 @@ Even when your main blow fails, smaller cuts and jabs slip through your enemy’
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage.

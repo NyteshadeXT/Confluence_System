@@ -8,6 +8,7 @@ essences:
 - Gathering
 - Suppression
 - Mind
+- Dimension
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Apex Ability
 
 **Daily Arcane Light Implement**
 
-**Eligible Essences:** Star, Light, Omen, Gathering, Suppression, Mind
+**Eligible Essences:** Star, Light, Omen, Gathering, Suppression, Mind, Dimension
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
@@ -29,7 +30,7 @@ A burning star coalesces around your foe, hemming them in with lances of relentl
 **Cost:** 2 Mana
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - 3d6 + your Charisma modifier radiant damage, and the target is immobilized until the end of your next turn. The target takes a –2 penalty to Will defense (save ends).

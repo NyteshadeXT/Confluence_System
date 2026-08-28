@@ -8,7 +8,6 @@ essences:
 - Shield
 - Force
 - Elemental
-- Shadow
 - Reckoning
 ---
 
@@ -17,7 +16,7 @@ Attack ✦ Apex Ability
 
 **DAILY ARCANE COLD**
 
-**Eligible Essences:** Ice, Armor, Water, Shield, Force, Elemental, Shadow, Reckoning
+**Eligible Essences:** Ice, Armor, Water, Shield, Force, Elemental, Reckoning
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 

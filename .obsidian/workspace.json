@@ -38,7 +38,6 @@
           {
             "id": "1c9337e958f18fc8",
             "type": "leaf",
-            "dimension": 16.666666666666668,
             "state": {
               "type": "ttrpg-tools-screen-controller",
               "state": {
@@ -86,35 +85,21 @@
             }
           },
           {
-            "id": "ead12381ef1b43b8",
+            "id": "c00806be33ff98eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Crafting Resources/Heartleaf.md",
-                "mode": "preview",
+                "file": "Essence Powers/Cheat Sheet - Powers - System Data Library.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Heartleaf"
-            }
-          },
-          {
-            "id": "cd5a86f1d19049db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment/Crafting Resources/Heartleaf.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Heartleaf"
+              "title": "Cheat Sheet - Powers - System Data Library"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -304,7 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 468.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,109 +306,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "0f623366edc4e808",
-    "type": "floating",
-    "children": [
-      {
-        "id": "391ec71e1b5edb79",
-        "type": "window",
-        "children": [
-          {
-            "id": "d055d3f29b1907b3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df7460233a5f8a77",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "b2c31f933e2bc22f",
-        "type": "window",
-        "children": [
-          {
-            "id": "cd6c36a8aa44ca90",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2d1bcb062181e4f8",
-                "type": "leaf",
-                "state": {
-                  "type": "ttrpg-tools-screen-view",
-                  "state": {
-                    "payload": {
-                      "kind": "image",
-                      "source": "app://bed7aa5cbf78046653af2b14e92d67aee8a9/C:/Users/kkroe/Documents/Obsidian/Confluence_System/zz_attachments/deep-wilds-dungeon.png?1785104539261",
-                      "filePath": "zz_attachments/deep-wilds-dungeon.png",
-                      "fog": {
-                        "enabled": true,
-                        "key": "image:zz_attachments/deep-wilds-dungeon.png",
-                        "label": "deep-wilds-dungeon"
-                      }
-                    }
-                  },
-                  "icon": "monitor-up",
-                  "title": "Screen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 3072,
-        "height": 1613,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6bef2766af0ca576",
+  "active": "c00806be33ff98eb",
   "lastOpenFiles": [
-    "Essence Powers/E/Eldritch_Blast.md",
-    "Essence Powers/L/Lance_of_Faith.md",
-    "Dungeons/Deep Wilds.md",
-    "Equipment/Weapons/Dagger (Dungeon-Born).md",
-    "Equipment/Consumables/Potion of Healing.md",
-    "Equipment/Crafting Resources/Creature Core - Hunt.md",
-    "Bestiary/Monster Manual/Deathjump Spider.md",
-    "Equipment/Crafting Resources/Heartleaf.md",
-    "Equipment/Weapons/Shortbow (Dungeon-Born).md",
-    "Equipment/Armor & Shields/Light Shield (Dungeon-Born).md",
-    "Equipment/Weapons/Battleaxe (Dungeon-Born).md",
-    "Rules/Important Charts.md",
-    "Bestiary/Monster Manual/Green Dragon (Young).md",
-    "Equipment/Wyrmtooth.md",
-    "Equipment/Armor & Shields/Leather Armor (Dungeon-Born).md",
-    "Equipment/Crafting Resources/Aetherbell.md",
-    "Equipment/Training Manuals/Treatise of the Long Reach.md",
-    "Equipment/Training Manuals/Treatise of the Iron Wall.md",
-    "Equipment/Training Manuals/Treatise of Iron Links.md",
-    "Equipment/Training Manuals/The Woodsman First Lessons.md",
-    "Equipment/Training Manuals/Codex of Arcane Principles.md",
-    "Equipment/Temp Potency Note.md",
-    "Equipment/Foundation Sigil.md",
-    "zz-templates/Templete - Item.md",
-    "zz-templates/Template - Power.md",
-    "zz-templates/Template - Creature.md",
+    "Essence Powers/C/Cleave.md",
+    "Essence Powers/Cheat Sheet - Powers - System Data Library.md",
+    "Essence Powers/C/Chill_Wind.md",
+    "Essence Powers/C/Cause_Fear.md",
+    "Essence Powers/E/Exacting_Strike.md",
+    "Essence Powers/B/Brute_Strike.md",
+    "Essence Powers/S/Staggering_Smite.md",
+    "Essence Powers/P/Passing_Attack.md",
+    "Essence Powers/D/Deft_Strike.md",
+    "Essence Powers/S/Split_the_Sky.md",
+    "Essence Powers/D/Dance_of_Steel.md",
+    "Essence Powers/C/Command.md",
+    "Essence Powers/D/Divine_Strength.md",
+    "Essence Powers/A/Aid_the_Injured.md",
+    "Essence Powers/A/Aegis_of_the_Relentless.md",
+    "Essence Powers/A/Acid_Arrow.md",
+    "Essence Powers/A/Abjure_Undead.md",
+    "Essence Powers/B/Battle_Resilience.md",
+    "Essence Powers/N/Nimble_Strike.md",
+    "Essences/Common/Material & Structural/Armor.md",
+    "Essences/Cheat Sheet - Essences - System Data Library.md",
+    "Essences/Common/Physical Prowess & Tactics/Swift.md",
+    "Essences/Common/Physical Prowess & Tactics/Trap.md",
+    "Essences/Common/Physical Prowess & Tactics/Might.md",
+    "Essences/Common/Physical Prowess & Tactics/Hunt.md",
+    "Essences/Common/Weapons & Tools/Tentacle.md",
+    "zz_attachments/Pasted image 20260824223236.png",
     "ZoomMap/PlayerScreen/Fog/image-zz_attachments-deep-wilds-dungeon.png.png",
     "Equipment/Consumables",
     "Equipment/Crafting Resources",
@@ -439,7 +350,6 @@
     "zz_attachments/spiderling.png",
     "zz-templates",
     "zz_attachments/myconid-rotpriest.png",
-    "zz_attachments/aetherbell.png",
     "Bestiary/Homebrew",
     "Essences/Rare/Multiplicity & Division",
     "Essences/Rare/Malice & Spiritual Corruption",

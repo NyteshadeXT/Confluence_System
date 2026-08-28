@@ -31,7 +31,7 @@ You charge through your enemies with unstoppable force, battering them backward 
 **Targets:** One or two creatures
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (two attacks). 
+> - Power Rank vs. AC (two attacks). 
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage per hit. With each hit, you push the target 1 square. If both attacks hit the same target, you instead push it 1 + your Wisdom modifier squares.

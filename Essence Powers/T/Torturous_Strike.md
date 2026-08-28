@@ -28,7 +28,7 @@ You twist the blade just enough to turn pain into something far worse.
 **Cost:** 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity)
+> - Power Rank vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Dexterity modifier damage.

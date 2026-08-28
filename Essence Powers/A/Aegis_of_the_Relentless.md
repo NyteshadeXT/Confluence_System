@@ -9,14 +9,12 @@ essences:
 - Resolute
 - Iron
 - Earth
-- Turtle
 - Might
 - Oath
 - Force
 - Rune
 - Siege
 - Suppression
-- Tree
 ---
 
 # `VIEW[{alias}][text]`
@@ -24,7 +22,7 @@ Utility ✦ Apex Ability
 
 **DAILY MARTIAL FORCE**
 
-**Eligible Essences:** Shield, Armor, Steel, Stone, Resolute, Iron, Earth, Turtle, Might, Oath, Force, Rune, Siege, Suppression, Tree
+**Eligible Essences:** Shield, Armor, Steel, Stone, Resolute, Iron, Earth, Might, Oath, Force, Rune, Siege, Suppression
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily
 

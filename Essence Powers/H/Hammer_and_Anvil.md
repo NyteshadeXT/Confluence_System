@@ -4,10 +4,8 @@ slot: 4
 essences: 
 - Oath
 - Zeal
-- Hunt
 - Might
 - Momentum
-- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +13,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Zeal, Oath, Momentum, Hunt, Might, Harmony
+**Eligible Essences:** Zeal, Oath, Momentum, Might
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

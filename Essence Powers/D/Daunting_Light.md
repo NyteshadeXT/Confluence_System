@@ -6,7 +6,6 @@ essences:
 - Sun
 - Revelation
 - Eye
-- Magic
 - Equilibrium
 - Oath
 ---
@@ -16,7 +15,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE RADIANT IMPLEMENT**
 
-**Eligible Essences:** Light, Sun, Revelation, Eye, Magic, Equilibrium, Oath  
+**Eligible Essences:** Light, Sun, Revelation, Eye, Equilibrium, Oath  
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

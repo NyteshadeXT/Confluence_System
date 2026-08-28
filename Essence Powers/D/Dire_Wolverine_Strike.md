@@ -7,6 +7,7 @@ essences:
 - Blade
 - Momentum
 - Might
+- Claw
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon**
 
-**Eligible Essences:** Wolf, Bear, Blade, Momentum, Might  
+**Eligible Essences:** Wolf, Bear, Blade, Momentum, Might, Claw
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -29,7 +30,7 @@ Surrounded and bloodied, you lash out in every direction with feral savagery, pu
 **Cost:** Cost: 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage.

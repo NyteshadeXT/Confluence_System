@@ -25,13 +25,14 @@ Blade rewards decisive action and close engagement. It favors accuracy, follow-t
 ---
 
 ### Training Interaction
-Blade grants blade specialization training. At Rank 6, Blade grants one of the following **Light Blade Group Proficiency OR Heavy Blade Group**.
+
 
 Blade does NOT grant armor.
 
 ---
 
 ### Essence Mastery Milestones
+**Rank 1 — Weapon Training** Blade grants one of the following Light Blade Group Proficiency OR Heavy Blade Group Proficiency.  If the character is already Trained in the selected weapon group, increase to Expert.
 **Rank 3 — Committed Strike** Gain +1 to Attack Rolls with Blade weapons.
 **Rank 5 — Lethal Agility** Increase Dexterity by +1.
-**Rank 9 — Killing Precision** Gain +1 to Attack Rolls with Blade weapons AND +1 Reflex.
+**Rank 9 — Killing Precision** Gain +1 to Attack Rolls with the Light OR Heavy Blade weapon group AND +1 Reflex.

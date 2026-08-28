@@ -5,7 +5,8 @@ essences:
 - Order
 - Shield
 - Might
-- Wolf
+- Chain
+- Tentacle
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Tactical
 
 **Encounter Martial**
 
-**Eligible Essences:** Order, Shield, Might, Wolf  
+**Eligible Essences:** Order, Shield, Might, Chain, Tentacle
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

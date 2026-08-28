@@ -27,12 +27,12 @@ You strike in a way that dares your foe to respond—and punish them if they do.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity)
+> - Power Rank vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Dexterity modifier damage. Until the start of your next turn, if the target attacks you, you may make a riposte against it as an immediate interrupt.
 > 
-> - **Riposte Attack:** Essence Attack vs. AC (Strength or Dexterity chosen when unlocked) on hit 1[W] + your ability modifier damage.
+> - **Riposte Attack:** Power Rank vs. AC (Strength or Dexterity chosen when unlocked) on hit 1[W] + your ability modifier damage.
 
 > [!column]-
 >> [!info] ### RANK EXPRESSIONS (IRON TIER)

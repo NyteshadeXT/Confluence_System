@@ -7,6 +7,7 @@ essences:
 - Swift
 - Oath
 - Convergence
+- Harmony
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Apex Ability
 
 **DAILY MARTIAL WEAPON**
 
-**Eligible Essences:** Zeal, Momentum, Oath, Swift, Convergence  
+**Eligible Essences:** Zeal, Momentum, Oath, Swift, Convergence, Harmony
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

@@ -8,6 +8,7 @@ essences:
 - Lightning
 - Star
 - Mind
+- Dimension
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Core Concept
 
 **At-Will Arcane Implement**
 
-**Eligible Essences:** Magic, Force, Shadow, Lightning, Star, Mind
+**Eligible Essences:** Magic, Force, Shadow, Lightning, Star, Mind, Dimension
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
@@ -28,7 +29,7 @@ You channel raw energy into a focused lance of destructive power.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex. This power counts as a ranged basic attack. When you gain this power, choose whether it uses Charisma or Constitution. That choice cannot be changed.
+> - Power Rank vs. Reflex. This power counts as a ranged basic attack. When you gain this power, choose whether it uses Charisma or Constitution. That choice cannot be changed.
 
 > [!Hit|background-color-green]
 > - 1d10 + your chosen ability modifier damage.

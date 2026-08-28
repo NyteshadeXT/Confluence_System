@@ -24,14 +24,8 @@ Polearm controls distance and engagement lines. It rewards positioning, discipli
 
 ---
 
-### Training Interaction
-Polearm grants reach weapon specialization. At Rank 6, Polearm grants one of the following **Polearm Group Proficiency, Spear Group Proficiency OR Military Melee Proficiency.**
-
-Polearm does NOT grant armor.
-
----
-
 ### Essence Mastery Milestones
+**Rank 1 — Weapon Training** Polearm grants one of the following Polearm Weapon Group Proficiency OR Spear Weapon Group Proficiency.  If the character is already Trained in the selected weapon group, increase to Expert.
 **Rank 3 — Controlled Engagement** Polearm fighters rely on awareness and spacing. Gain +1 Reflex.
 **Rank 5 — Anchored Grip** Increase Strength by +1.
 **Rank 9 — Dominant Reach** Gain +1 Reflex AND +1 to Attack Rolls with Polearm weapons.

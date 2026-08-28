@@ -10,7 +10,6 @@ essences:
   - Eye
   - Order
   - Dominion
-  - Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -18,7 +17,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE RADIANT WEAPON**
 
-**Eligible Essences:** Light, Sun, Oath, Revelation, Rune, Eye, Order, Dominion, Storm
+**Eligible Essences:** Light, Sun, Oath, Revelation, Rune, Eye, Order, Dominion
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

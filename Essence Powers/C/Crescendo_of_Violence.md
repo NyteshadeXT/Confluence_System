@@ -4,8 +4,9 @@ slot: 2
 essences: 
 - Zeal
 - Momentum
-- Oath
+- Blood
 - Hunt
+- Bla
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Reactive Support
 
 **ENCOUNTER MARTIAL**
 
-Eligible Essences: Zeal, Momentum, Oath, Hunt  
+Eligible Essences: Zeal, Momentum, Blood, Hunt, Blade
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

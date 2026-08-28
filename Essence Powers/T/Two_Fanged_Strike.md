@@ -7,6 +7,7 @@ essences:
 - Momentum
 - Blade
 - Ranged
+- Snake
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +15,7 @@ Attack ✦ Signature Strike
 
 **Encounter Martial Weapon Multiattack**
 
-**Eligible Essences:** Wolf, Hunt, Momentum, Blade, Ranged  
+**Eligible Essences:** Wolf, Hunt, Momentum, Blade, Ranged, Snake
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter
@@ -30,8 +31,8 @@ You strike twice in rapid succession, driving both blades—or both shots—into
 
 > [!Attack|background-color-red]
 > Make two attacks against the target.
-> - Melee: Essence Attack vs. AC (main-hand and off-hand weapon)  
-> - Ranged: Essence Attack vs. AC (two attacks)
+> - Melee: Power Rank vs. AC (main-hand and off-hand weapon)  
+> - Ranged: Power Rank vs. AC (two attacks)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage per attack.  If both attacks hit, deal extra damage equal to your Wisdom modifier.

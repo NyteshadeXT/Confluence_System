@@ -2,7 +2,7 @@
 alias: "Fire Shroud"
 slot: 3
 essences: 
-- Venom
+- Fire
 - Ash
 - Smoke
 - Magic
@@ -30,7 +30,7 @@ You cloak your enemies in a mantle of flame that clings and burns long after the
 **Target:** Each enemy in burst
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Fortitude (Intelligence-based)
+> - Power Rank vs. Fortitude (Intelligence-based)
 
 > [!Hit|background-color-green]
 > - 1d8 + your Essence ability modifier fire damage, and ongoing 5 fire damage (save ends).

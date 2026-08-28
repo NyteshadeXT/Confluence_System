@@ -9,6 +9,7 @@ essences:
 - Cage
 - Trap
 - Elemental
+- Suppression
 ---
 
 # `VIEW[{alias}][text]`
@@ -17,7 +18,7 @@ Attack ✦ Elemental Containment
 
 **DAILY WIND**
 
-**Eligible Essences:** Wind, Air, Storm, Force, Cage, Trap, Elemental
+**Eligible Essences:** Wind, Air, Storm, Force, Cage, Trap, Elemental, Suppression
 
 **Slot:** 5 – Apex Ability
 **Tier:** Daily
@@ -31,7 +32,7 @@ Violent currents coil around your foe, forming an invisible prison of compressed
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 2d10 + Wisdom modifier damage. Whether the attack hits or misses, the target grants Combat Advantage until it moves or until the end of the encounter. 

@@ -26,7 +26,7 @@ You strike through one foe and let the momentum of the blow spill into another n
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage, and one enemy adjacent to you takes damage equal to your Essence ability modifier.

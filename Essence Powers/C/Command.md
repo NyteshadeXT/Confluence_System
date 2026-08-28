@@ -9,7 +9,6 @@ essences:
 - Rune
 - Revelation
 - Dominion
-- Equilibrium
 ---
 
 # `VIEW[{alias}][text]`
@@ -17,7 +16,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE CHARM IMPLEMENT**
 
-**Eligible Essences:** Order, Oath, Chain, Sound, Rune, Revelation, Dominion, Equilibrium  
+**Eligible Essences:** Order, Oath, Chain, Sound, Rune, Revelation, Dominion  
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter

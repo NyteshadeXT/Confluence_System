@@ -27,7 +27,7 @@ A lance of searing starlight punishes those who dare close the distance.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Fortitude
+> - Power Rank vs. Fortitude
 
 > [!Hit|background-color-green]
 > - 1d6 + your Constitution modifier radiant damage. If the target moves closer to you before the start of your next turn, it takes an additional 1d6 + your Constitution modifier radiant damage.

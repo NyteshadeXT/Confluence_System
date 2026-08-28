@@ -9,6 +9,7 @@ essences:
 - Swift
 - Gathering
 - Echo
+- Dimension
 ---
 
 # `VIEW[{alias}][text]`
@@ -17,7 +18,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER ARCANE IMPLEMENT**
 
-**Eligible Essences:** Air, Wind, Magic, Ranged, Swift, Gathering, Echo
+**Eligible Essences:** Air, Wind, Magic, Ranged, Swift, Gathering, Echo, Dimension
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter
@@ -31,7 +32,7 @@ You loose a scattering of violet eldritch bolts that arc unpredictably between y
 **Targets:** One creature, or two creatures no more than 5 squares apart
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d10 + your Essence ability modifier damage. You gain a bonus to each damage roll equal to your Intelligence modifier.

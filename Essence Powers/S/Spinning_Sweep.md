@@ -7,7 +7,6 @@ essences:
 - Might
 - Momentum
 - Swift
-- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +14,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon**
 
-**Eligible Essences:** Blade, Bludgeon, Might, Momentum, Swift, Storm
+**Eligible Essences:** Blade, Bludgeon, Might, Momentum, Swift
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -29,7 +28,7 @@ You slip beneath your enemy’s guard with a low, sweeping strike, cutting and t
 **Cost:** Cost: 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC
+> - Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage, and the target is knocked prone.

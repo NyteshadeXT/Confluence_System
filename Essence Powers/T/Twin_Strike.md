@@ -29,8 +29,8 @@ You attack twice in rapid succession, overwhelming your foe through relentless p
 
 > [!Attack|background-color-red]
 > Make two attacks, each against the same target or different targets.
-> - Melee: Essence Attack vs. AC (main weapon and off-hand weapon) 
-> - Ranged: Essence Attack vs. AC (two attacks)
+> - Melee: Power Rank vs. AC (main weapon and off-hand weapon) 
+> - Ranged: Power Rank vs. AC (two attacks)
 
 > [!Hit|background-color-green]
 > - 1[W] damage per attack.

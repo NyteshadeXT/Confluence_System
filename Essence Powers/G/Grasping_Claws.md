@@ -7,6 +7,7 @@ essences:
 - Ape
 - Lizard
 - Hunt
+- Claw
 ---
 
 # `VIEW[{alias}][text]`
@@ -15,7 +16,7 @@ Attack ✦ Bestial Assault
 
 **AT-WILL WILD SHAPE**
 
-**Eligible Essences:** Bear, Cat, Ape, Lizard, Hunt
+**Eligible Essences:** Bear, Cat, Ape, Lizard, Hunt, C
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
@@ -30,7 +31,7 @@ Your Wild Shape manifests vicious claws that tear into your foe, leaving it unab
 **Requirement:** You must be using Wild Shape.
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d8 + Wisdom modifier damage, and the target is Slowed until the end of your next turn. Grasping Claws can be used as a Melee Basic Attack.

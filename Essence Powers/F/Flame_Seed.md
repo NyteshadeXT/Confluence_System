@@ -5,7 +5,7 @@ essences:
 - Fire
 - Growth
 - Plant
-- Seed
+- Wood
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +14,7 @@ Attack ✦ Elemental Growth
 
 **AT-WILL FIRE ZONE**
 
-**Eligible Essences:** Fire, Growth, Plant, Seed
+**Eligible Essences:** Fire, Growth, Plant, Wood
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
@@ -28,7 +28,7 @@ You form a seed infused with volatile Essence and hurl it toward your foe. On im
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d6 fire damage. The squares adjacent to the target become a fiery zone until the end of your next turn. An enemy that enters the zone or starts its turn there takes fire damage equal to your Wisdom modifier. A creature can take this damage only once per turn.

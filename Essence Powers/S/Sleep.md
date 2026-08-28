@@ -4,7 +4,7 @@ slot: 5
 essences: 
 - Omen
 - Shadow
-- Balance
+- Dream
 - Mind
 ---
 
@@ -13,7 +13,7 @@ Attack ✦ Apex Ability
 
 **DAILY ARCANE SLEEP IMPLEMENT**
 
-**Eligible Essences:** Omen, Shadow, Balance, Mind
+**Eligible Essences:** Omen, Shadow, Dream, Mind
 
 **Slot:** 5 – Apex Ability  
 **Tier:** Daily

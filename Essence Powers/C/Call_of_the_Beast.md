@@ -9,6 +9,7 @@ essences:
 - Fox
 - Cat
 - Dog
+- Claw
 ---
 
 # `VIEW[{alias}][text]`
@@ -16,7 +17,7 @@ Attack ✦ Compulsion
 
 **AT-WILL PSYCHIC CHARM**
 
-**Eligible Essences:** Hunt, Wolf, Bear, Ape, Fox, Cat, Dog
+**Eligible Essences:** Hunt, Wolf, Bear, Ape, Fox, Cat, Dog, Claw
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
@@ -31,7 +32,7 @@ You awaken the predatory instinct buried beneath conscious thought, compelling y
 
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Will 
+> - Power Rank vs. Will 
 
 > [!Hit|background-color-green]
 > - The target cannot gain Combat Advantage until the end of your next turn. In addition, on its next turn, if the target makes an attack that does not include the ally of yours nearest to it as a target, it takes psychic damage equal to 5 + your Wisdom modifier.

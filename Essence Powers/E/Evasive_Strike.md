@@ -28,8 +28,8 @@ You flow through the battlefield with practiced ease, striking while never remai
 **Cost:** Cost: 1 Stamina
 
 > [!Attack|background-color-red]
-> - Melee: Essence Attack vs. AC
-> - Ranged: Essence Attack vs. AC
+> - Melee: Power Rank vs. AC
+> - Ranged: Power Rank vs. AC
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. You may shift a number of squares equal to 1 + your Wisdom modifier either before or after the attack.

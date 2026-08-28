@@ -29,7 +29,7 @@ You strike with sudden, lethal precision, exploiting the exact moment your quarr
 **Target:** One creature that is your quarry
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex; Strength (melee); Dexterity (ranged)
+> - Power Rank vs. Reflex; Strength (melee); Dexterity (ranged)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage.

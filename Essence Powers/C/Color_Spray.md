@@ -7,7 +7,6 @@ essences:
 - Magic
 - Eye
 - Revelation
-- Harmonic
 - Equilibrium
 - Mind
 ---
@@ -17,7 +16,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER ARCANE RADIANT IMPLEMENT**
 
-**Eligible Essences:** Light, Sound, Magic, Eye, Revelation, Harmonic, Equilibrium, Mind
+**Eligible Essences:** Light, Sound, Magic, Eye, Revelation, Equilibrium, Mind
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -31,7 +30,7 @@ A cascade of blinding, discordant colors erupts from your hands, overwhelming th
 **Target:** Each creature in blast
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - 1d6 + your Essence ability modifier radiant damage, and the target is dazed until the end of your next turn.

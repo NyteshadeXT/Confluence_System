@@ -38,7 +38,7 @@ You bind your will to a single foe, narrowing your purpose until nothing else ex
 
 > [!column]-
 >> [!info] ### RANK EXPRESSIONS (IRON TIER)
->> - **Rank 3 — Relentless Focus:** Gain a +1 bonus to Essence Attack rolls against the sworn target.
+>> - **Rank 3 — Relentless Focus:** Gain a +1 bonus to Power Rank rolls against the sworn target.
 >> - **Rank 6 — Isolated Prey:** You gain a +1 bonus to damage rolls against the target while no other enemies are adjacent to you.
 >> - **Rank 9 — Unerring Judgment:** When you roll twice from this power, you may treat one die as if it rolled a minimum of 10.
 >

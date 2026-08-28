@@ -1,4 +1,4 @@
-![[essence-bludgeon.png]]
+![[essence-bludgeon.png|right]]
 
 **Core Concept:** Impact, disruption, force  
 
@@ -27,13 +27,14 @@ Bludgeon expects to trade blows. Its durability reflects willingness to stay in 
 ---
 
 ### Training Interaction
-Bludgeon grants impact weapon training. At Rank 6, Bludgeon grants one of the following **Hammer Group Proficiency, Mace Group Proficiency OR Two-Handed Bludgeon Proficiency.**
+
 
 Bludgeon does NOT grant armor.
 
 ---
 
 ### Essence Mastery Milestones
+**Rank 1 — Weapon Training** Bludgeon grants one of the following Hammer Group Proficiency, Mace Group Proficiency OR Two-Handed Bludgeon Proficiency.  If the character is already Trained in the selected weapon group, increase to Expert.
 **Rank 3 — Crushing Force** Bludgeon fighters withstand impact and recoil. Gain +1 Fortitude.
 **Rank 5 — Overwhelming Strength** Increase Strength by +1.
 **Rank 9 — Relentless Impact** Gain +1 Fortitude AND +1 to Attack Rolls with Bludgeon weapons.

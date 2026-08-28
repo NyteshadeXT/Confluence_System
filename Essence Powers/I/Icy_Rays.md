@@ -29,7 +29,7 @@ Twin lances of freezing energy streak toward your foes, locking their movement i
 **Targets:** One or two creatures
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Intelligence-based; one attack per target)
+> - Power Rank vs. Reflex (Intelligence-based; one attack per target)
 
 > [!Hit|background-color-green]
 > - 1d10 + your Essence ability modifier cold damage, and the target is immobilized until the end of your next turn.

@@ -28,7 +28,7 @@ You pressure your enemy from multiple angles, forcing an opening through relentl
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (main-hand and off-hand weapon). Make two attacks.
+> - Power Rank vs. AC (main-hand and off-hand weapon). Make two attacks.
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage per attack.

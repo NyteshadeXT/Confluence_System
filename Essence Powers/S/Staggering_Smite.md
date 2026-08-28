@@ -28,7 +28,7 @@ You deliver a crushing blow that drives your enemy backward under the force of d
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Strength-based)
+> - Power Rank vs. AC (Strength-based)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage, and you push the target a number of squares equal to your Wisdom modifier.

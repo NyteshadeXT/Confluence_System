@@ -28,7 +28,7 @@ A burst of shifting, luminous color settles over your enemies. The supernatural 
 **Target:** Each creature in the burst
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - The target is Slowed and grants Combat Advantage (save ends both). 

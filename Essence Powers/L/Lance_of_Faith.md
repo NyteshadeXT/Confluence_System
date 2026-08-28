@@ -28,7 +28,7 @@ You hurl a focused lance of power that pierces certainty itself, leaving your ta
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d6 + your Essence ability modifier damage. The damage type is determined by the Essence that unlocked this power:

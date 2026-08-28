@@ -28,7 +28,7 @@ You reflect divine power through your wounds, turning pain into restoration and 
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs Reflex
+> - Power Rank vs Reflex
 
 > [!Hit|background-color-green]
 > - 1d8 + your Essence ability modifier light damage. You gain temporary hit points equal to your Essence ability modifier

@@ -4,7 +4,6 @@ slot: 4
 essences: 
 - Oath
 - Order
-- Ranged
 - Hunt
 - Wolf
 - Fox
@@ -16,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon Mobility**
 
-**Eligible Essences:** Fox, Wolf, Hunt, Ranged, Oath, Order, Harmony
+**Eligible Essences:** Fox, Wolf, Hunt, Oath, Order, Harmony
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -30,7 +29,7 @@ You slip behind a sturdier ally, striking from cover while switching places in o
 **Cost:** 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Dexterity)
+> - Power Rank vs. Reflex (Dexterity)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Dexterity modifier damage. After the attack, switch places with one willing adjacent ally.

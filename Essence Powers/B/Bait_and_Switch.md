@@ -31,7 +31,7 @@ You strike and slip past your foe in one seamless motion, leaving them off-balan
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will (Dexterity-based)
+> - Power Rank vs. Will (Dexterity-based)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. You switch places with the target, then shift 1 square.

@@ -6,6 +6,7 @@ essences:
 - Fox
 - Momentum
 - Wolf
+- Swift
 ---
 
 # `VIEW[{alias}][text]`
@@ -28,8 +29,8 @@ You stagger your foe with a vicious feint, then roll aside and drive your real s
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (off-hand weapon)
-> - **Secondary Attack:** Essence Attack vs. AC (main-hand weapon)
+> - Power Rank vs. AC (off-hand weapon)
+> - **Secondary Attack:** Power Rank vs. AC (main-hand weapon)
 
 > [!Hit|background-color-green]
 > - 1[W] damage. You shift 1 square and make a secondary attack against the target.

@@ -3,7 +3,6 @@ alias: "Fox’s Cunning"
 slot: 4
 essences: 
 - Fox
-- Cat
 - Swift
 - Hunt
 - Eye
@@ -15,7 +14,7 @@ Attack ✦ Tactical Strike
 
 **Encounter Martial Weapon Reaction**
 
-**Eligible Essences:** Fox, Cat, Swift, Hunt, Eye, Mind
+**Eligible Essences:** Fox, Swift, Hunt, Eye, Mind
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter

@@ -30,7 +30,7 @@ Your strike channels divine vitality, restoring strength to you and those who fi
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Will
+> - Power Rank vs. Will
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. If you are bloodied, you regain hit points equal to 5 + your Wisdom modifier. Bloodied allies within 5 squares regain hit points equal to 5 + your Wisdom modifier.

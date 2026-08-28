@@ -1,11 +1,18 @@
-Power Title
+---
+alias: "alias"
+slot: slot 
+essences: 
+- add_for_each_essence
+---
 
-**Attack** **✦** **Signature Strike**  
-TRAIT  TRAIT   TRAIT   TRAIT
+# `VIEW[{alias}][text]`
+Power Type ✦ Slot Type  
+
+**ALL TRAITS**
 
 **Eligible Essences:** Essences
 
-**Slot:** 3 – Signature Strike  
+**Slot:** Slot # – Slot Type
 **Tier:** Encounter
 
 Power description
@@ -17,27 +24,27 @@ Power description
 **Cost:** Associated Cost
 
 **Target:** Targets
+**Trigger:** If attack is reactive this is the trigger for the power.
 
-**Attack:** Attack Type
+> [!Effect|background-color-blue]
+> Effect which occurs when there is no attack needed to trigger the effect.
 
-**Hit:**  
-2d6 + your Essence ability modifier lightning damage.
+> [!Attack|background-color-red]
+> - Attack Type (Power Rank, Attribute, Etc) vs. Defense (AC, Reflex, Will, Fortitude, Etc)
 
-**Miss:**  
-Half damage.
+> [!Hit|background-color-green]
+> - Damage and effects caused by the power hitting the target.  Note, if weapon ins involved the power typically does # weapon damage (example, 1[W] for one weapon die of damage).  
 
-RANK EXPRESSIONS (IRON TIER)
+> [!Miss|background-color-yellow]
+> - Damage and effects caused by a miss if appropriate.
 
-• **Rank 3 — Name** Effect
-
-• **Rank 6 — Name** Effect
-
-• **Rank 9 — Name** Effect
-
-TIER EXPRESSIONS
-
-• **Bronze / Paragon:** Effect/s
-
-• **Silver / Epic:** Effect/s
-
-• **Gold / Post-Epic (Optional):** Effect/s
+> [!column]-
+>> [!info] ### RANK EXPRESSIONS (IRON TIER)
+>> - **Rank 3 — Name** Effect
+>> - **Rank 6 — Name** Effect
+>> - **Rank 9 — Name** Effect
+>
+>> [!note] ### TIER EXPRESSIONS
+>> - **Bronze / Paragon:** Bronze Rank Effect/s changes, additions or removals.
+>> - **Silver / Epic:** Silver Rank Effect/s changes, additions or removals.
+>> - **Gold / Post-Epic (Optional):** Gold Rank Effect/s changes, additions or removals.

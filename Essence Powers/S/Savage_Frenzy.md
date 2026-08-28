@@ -8,10 +8,10 @@ essences:
 - Ape
 - Crocodile
 - Dog
-- Lizard
 - Hunt
 - Might
 - Devouring
+- Claw
 ---
 
 # `VIEW[{alias}][text]`
@@ -20,7 +20,7 @@ Attack ✦ Bestial Onslaught
 
 **DAILY BEAST**
 
-**Eligible Essences:** Bear, Wolf, Cat, Ape, Crocodile, Dog, Lizard, Hunt, Might, Devouring
+**Eligible Essences:** Bear, Wolf, Cat, Ape, Crocodile, Dog, Hunt, Might, Devouring, Claw
 
 **Slot:** 5 – Apex Ability
 **Tier:** Daily
@@ -36,7 +36,7 @@ Instinct overwhelms restraint. In a blur of claw, fang, and brutal motion, you t
 If your current form does not possess appropriate natural weapons, claws, fangs, or equivalent; bestial features manifest for the duration of the attack.
 
 > [!Attack|background-color-red]
-> - Power Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d6 + Wisdom modifier damage, and the target is Dazed and Slowed (save ends both).

@@ -5,16 +5,15 @@ essences:
 - Force
 - Echo
 - Light
-- Omen
-- Reckoning
+- Magic
 ---
 
-# `VIEW[{alias}][text
+# `VIEW[{alias}][text]`
 Attack ✦ Core Concept
 
 **AT-WILL ARCANE FORCE IMPLEMENT**
 
-**Eligible Essences:** Force, Echo, Light, Omen, Reckoning  
+**Eligible Essences:** Force, Echo, Light, Magic  
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

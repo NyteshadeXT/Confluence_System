@@ -8,8 +8,6 @@ essences:
 - Ash
 - Force
 - Ranged
-- Gathering
-- Storm
 ---
 
 # `VIEW[{alias}][text]`
@@ -17,7 +15,7 @@ Attack ✦ Tactical Strike
 
 **ENCOUNTER ARCANE FIRE IMPLEMENT**
 
-**Eligible Essences:** Fire, Ruin, Magic, Ash, Force, Ranged, Gathering, Storm
+**Eligible Essences:** Fire, Ruin, Magic, Ash, Force, Ranged
 
 **Slot:** 4 – Tactical Strike  
 **Tier:** Encounter
@@ -31,7 +29,7 @@ You hurl a blazing bolt of flame that erupts outward, scorching all who stand to
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex
+> - Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 3d6 + your Essence ability modifier fire damage. Creatures adjacent to the target take 1d6 + your Essence ability modifier fire damage.

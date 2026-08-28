@@ -30,7 +30,7 @@ You commit to a wide, crushing swing that batters all foes within reach.
 **Cost:** 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC. If you are wielding an axe, flail, heavy blade, or pick, you gain a bonus to the attack roll equal to one-half your Strength modifier.
+> - Power Rank vs. AC. If you are wielding an axe, flail, heavy blade, or pick, you gain a bonus to the attack roll equal to one-half your Strength modifier.
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage.

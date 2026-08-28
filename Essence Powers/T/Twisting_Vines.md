@@ -6,6 +6,8 @@ essences:
 - Tree
 - Growth
 - Trap
+- Wood
+- Tentacle
 ---
 
 # `VIEW[{alias}][text]`
@@ -19,7 +21,7 @@ Attack ✦ Verdant Control
 **Slot:** 3 – Signature Strike
 **Tier:** Encounter
 
-Roots and grasping vines erupt across the battlefield, striking nearby creatures and leaving the ground tangled beneath them.
+Roots and grasping vines or fleshy tentacles erupt across the battlefield, striking nearby creatures and leaving the ground tangled beneath them.
 
 **Dungeon Resonance:** Stable
 **Action Type:** Standard Action
@@ -28,7 +30,7 @@ Roots and grasping vines erupt across the battlefield, striking nearby creatures
 **Target:** Each creature in the burst
 
 > [!Attack|background-color-red]
-> Power Attack vs. Reflex
+> Power Rank vs. Reflex
 
 > [!Hit|background-color-green]
 > - 1d8 + Wisdom modifier damage. Each square adjacent to a creature hit by Twisting Vines becomes Difficult Terrain until the end of your next turn. Overlapping affected squares remain a single area of Difficult Terrain.

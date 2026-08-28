@@ -6,7 +6,6 @@ essences:
 - Zeal
 - Oath
 - Light
-- Dog
 - Renewal
 - Equilibrium
 ---
@@ -16,7 +15,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER DIVINE WEAPON**
 
-**Eligible Essences:** Oath, Light, Zeal, Life, Dog, Renewal, Equilibrium
+**Eligible Essences:** Oath, Light, Zeal, Life, Renewal, Equilibrium
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter
@@ -30,7 +29,7 @@ Your strike carries the weight of righteous conviction, bolstering the spirits a
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Charisma-based)
+> - Power Rank vs. AC (Charisma-based)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. You and each ally within 5 squares gain temporary hit points equal to 5 + your Wisdom modifier.

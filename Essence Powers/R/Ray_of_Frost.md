@@ -4,9 +4,7 @@ slot: 1
 essences: 
 - Ice
 - Water
-- Omen
 - Wind
-- Balance
 ---
 
 # `VIEW[{alias}][text]`
@@ -14,7 +12,7 @@ Attack ✦ Core Concept
 
 **AT-WILL ARCANE COLD IMPLEMENT**
 
-**Eligible Essences:** Ice, Water, Omen, Wind, Balance  
+**Eligible Essences:** Ice, Water, Wind
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will

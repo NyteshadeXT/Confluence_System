@@ -3,7 +3,7 @@ alias: "Trickster’s Blade"
 slot: 3
 essences: 
 - Blade
-- Wolf
+- Fox
 - Shadow
 - Eye
 - Swift
@@ -15,7 +15,7 @@ Attack ✦ Signature Strike
 
 **ENCOUNTER MARTIAL WEAPON**
 
-**Eligible Essences:** Blade, Wolf, Shadow, Eye, Swift, Ambush
+**Eligible Essences:** Blade, Fox, Shadow, Eye, Swift, Ambush
 
 **Slot:** 3 – Signature Strike  
 **Tier:** Encounter
@@ -30,7 +30,7 @@ You strike true, then blur into motion and feints that leave your enemies guessi
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity-based)
+> - Power Rank vs. AC (Dexterity-based)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. You gain a bonus to AC equal to your Charisma modifier until the start of your next turn.

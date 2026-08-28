@@ -30,7 +30,7 @@ You sweep your weapon in a wide arc, calling divine judgment upon multiple foes 
 **Targets:** One or two creatures
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (one attack per target)
+> - Power Rank vs. AC (one attack per target)
 
 > [!Hit|background-color-green]
 > - 1[W] + your Essence ability modifier damage, and the target is marked until the end of your next turn.

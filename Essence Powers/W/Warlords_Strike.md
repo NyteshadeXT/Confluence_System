@@ -30,7 +30,7 @@ A single, decisive strike exposes your enemy’s weakness and calls your allies 
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Strength-based)
+> - Power Rank vs. AC (Strength-based)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. Until the end of your next turn, all allies gain a +2 bonus to damage rolls against the target. 

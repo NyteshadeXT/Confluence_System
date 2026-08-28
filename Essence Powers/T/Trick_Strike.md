@@ -28,7 +28,7 @@ Through misdirection and relentless pressure, you turn your foe into a piece on 
 **Cost:** 2 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. AC (Dexterity)
+> - Power Rank vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 3[W] + your Dexterity modifier damage, and you slide the target 1 square. Until the end of the encounter, each time you hit the target, you may slide it 1 square.

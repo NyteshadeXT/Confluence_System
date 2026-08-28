@@ -31,8 +31,8 @@ You wait for the perfect opening, striking only when the enemy’s guard slips.
 **Special:** This power cannot gain additional weapon damage dice beyond its listed [W] value. Flat modifiers, penalties, and vulnerability still apply.
 
 > [!Attack|background-color-red]
-> - **Melee:** Essence Attack +2 vs. AC (Strength or Dexterity chosen when unlocked) 
-> - **Ranged:** Essence Attack +2 vs. AC (Dexterity)
+> - **Melee:** Power Rank +2 vs. AC (Strength or Dexterity chosen when unlocked) 
+> - **Ranged:** Power Rank +2 vs. AC (Dexterity)
 
 > [!Hit|background-color-green]
 > - 1[W] damage.

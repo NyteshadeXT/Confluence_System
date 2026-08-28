@@ -27,7 +27,7 @@ You brand your foe with flames that burn hotter when fed by your suffering.
 **Target:** One creature
 
 > [!Attack|background-color-red]
-> - Essence Attack vs. Reflex (Constitution)
+> - Power Rank vs. Reflex (Constitution)
 
 > [!Hit|background-color-green]
 > - 1d6 + your Constitution modifier fire damage. If you take damage before the start of your next turn, the target takes an additional 1d6 + your Constitution modifier fire damage.

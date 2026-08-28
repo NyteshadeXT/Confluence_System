@@ -6,6 +6,7 @@ essences:
 - Cat
 - Hunt
 - Wind
+- Balance
 ---
 
 # `VIEW[{alias}][text]`
@@ -13,7 +14,7 @@ Utility ✦ Tactical
 
 **Encounter Martial**
 
-**Eligible Essences:** Swift, Cat, Hunt, Wind  
+**Eligible Essences:** Swift, Cat, Hunt, Wind, Balance
 
 **Slot:** 2 – Utility / Passive  
 **Tier:** Encounter

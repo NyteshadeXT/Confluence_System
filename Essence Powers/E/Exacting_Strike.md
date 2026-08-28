@@ -27,7 +27,7 @@ You commit fully to a precise, disciplined strike, sacrificing power for certain
 **Cost:** 1 Stamina
 
 > [!Attack|background-color-red]
-> - Essence Attack +2 vs. AC (Strength or Dexterity modifier chosen when this power is unlocked)
+> - Power Rank +2 vs. AC (Strength or Dexterity modifier chosen when this power is unlocked)
 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. This power cannot gain additional weapon damage dice beyond its listed [W] value.  Flat modifiers, penalties to the target, and vulnerability still apply.

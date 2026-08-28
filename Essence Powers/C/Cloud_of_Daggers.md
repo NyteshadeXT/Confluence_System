@@ -3,7 +3,7 @@ alias: "Cloud of Daggers"
 slot: 1
 essences: 
 - Force
-- Wind
+- Blade
 - Glass
 - Reckoning
 - Echo
@@ -14,7 +14,7 @@ Attack ✦ Core Concept
 
 **AT-WILL ARCANE FORCE IMPLEMENT**
 
-**Eligible Essences:** Force, Wind, Glass, Reckoning, Echo  
+**Eligible Essences:** Force, Blade, Glass, Reckoning, Echo  
 
 **Slot:** 1 – Core Concept  
 **Tier:** At-Will
