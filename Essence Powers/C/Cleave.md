@@ -21,6 +21,7 @@ Attack ✦ Core Concept
 You strike through one foe and let the momentum of the blow spill into another nearby enemy.
 
 **Dungeon Resonance:** Neutral
+**Associated Ability** Strength
 **Action Type:** Single Action
 **Attack Type and Range:** Melee weapon
 **Target:** One creature

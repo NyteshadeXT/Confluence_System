@@ -22,6 +22,7 @@ Attack ✦ Core Concept
 Your gaze fractures a single mind’s perception while you slip from its sight.
 
 **Dungeon Resonance:** Subtle
+**Associated Ability** Wisdom
 **Action Type:** Single Action  
 **Range:** Ranged 10
 **Target:** One creature
@@ -30,14 +31,14 @@ Your gaze fractures a single mind’s perception while you slip from its sight.
 > - Power Rank vs. Will
 
 > [!Hit|background-color-green]
-> - 1d6 + your Charisma modifier mental damage, and you are invisible to the target until the start of your next turn.
+> - 1d6 + your Essence Ability modifier mental damage, and you are invisible to the target until the start of your next turn.
 
 > [!Miss|background-color-yellow]
 > - No damage.
 
 > [!column]-
 >> [!info] ### RANK EXPRESSIONS (IRON TIER)
->> - **Rank 3 — Lingering Distortion** Increase the damage to 1d8 + your Charisma modifier.
+>> - **Rank 3 — Lingering Distortion** Increase the damage to 1d8.
 >> - **Rank 6 — Fractured Awareness** If the attack hits, the target takes a –2 penalty to Perception checks to detect you until the end of your next turn.
 >> - **Rank 9 — Shifting Veil** If you hit, you may shift 1 square as a free action after resolving the attack.
 >

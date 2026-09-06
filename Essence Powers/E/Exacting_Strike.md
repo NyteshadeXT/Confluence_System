@@ -21,14 +21,15 @@ Attack ✦ Core Concept
 You commit fully to a precise, disciplined strike, sacrificing power for certainty.
 
 **Dungeon Resonance:** Neutral
+**Associated Ability** Dexterity
 **Action Type:** Standard Action
 **Range:** Melee weapon
 **Target:** One creature
 **Cost:** 1 Stamina
 
 > [!Attack|background-color-red]
-> - Power Rank +2 vs. AC (Strength or Dexterity modifier chosen when this power is unlocked)
-
+> - Power Rank +2 vs. AC Essence ability modifier
+> 
 > [!Hit|background-color-green]
 > - 2[W] + your Essence ability modifier damage. This power cannot gain additional weapon damage dice beyond its listed [W] value.  Flat modifiers, penalties to the target, and vulnerability still apply.
 

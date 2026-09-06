@@ -23,6 +23,7 @@ At-Will Implement Radiant Psychic Sonic Force
 You hurl a focused lance of power that pierces certainty itself, leaving your target exposed to what follows.
 
 **Dungeon Resonance:** Neutral
+**Associated Ability:** Wisdom
 **Action Type:** Single Action
 **Range:** Ranged 5
 **Target:** One creature
