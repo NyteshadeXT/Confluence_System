@@ -36,17 +36,34 @@
             }
           },
           {
+            "id": "c89bed9f09a9c567",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://617cd9714292ab4bb1b26e93c071a83c9cdd/C:/Users/kkroe/Documents/Obsidian/Confluence_System/zz_attachments/essence-mind.png?1786314570031",
+                  "filePath": "zz_attachments/essence-mind.png"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
+            }
+          },
+          {
             "id": "b3210b5061077ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essence Powers/E/Eyebite.md",
+                "file": "Essences/Uncommon/Perception & Mastery/Mind.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eyebite"
+              "title": "Mind"
             }
           },
           {
@@ -78,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,9 +292,56 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bef2766af0ca576",
+  "floating": {
+    "id": "2d2f7dddc9dabe45",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3ca51c2a0161dfde",
+        "type": "window",
+        "children": [
+          {
+            "id": "00eff4d9898451ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "84448e80c858b1e0",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://617cd9714292ab4bb1b26e93c071a83c9cdd/C:/Users/kkroe/Documents/Obsidian/Confluence_System/zz_attachments/essence-mind.png?1786314570031",
+                      "filePath": "zz_attachments/essence-mind.png"
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3456,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c89bed9f09a9c567",
   "lastOpenFiles": [
+    "Essence Powers/Powers Query.md",
+    "Essence Powers/Cheat Sheet - Powers - System Data Library.md",
     "Essence Powers/E/Eyebite.md",
+    "zz-templates/Templete - Item.md",
+    "Essence Powers/L/Lance_of_Faith.md",
+    "Equipment/Weapons/Dagger (Dungeon-Born).md",
+    "Rules/Rules for Dungeons.md",
     "Essence Powers/E/Evasive_Strike.md",
     "Essence Powers/E/Eldritch_Rain.md",
     "Essence Powers/E/Exacting_Strike.md",
@@ -288,10 +352,8 @@
     "Equipment/Foundation Sigil.md",
     "Dungeons/Current Map Status.md",
     "Dungeons/Deep Wilds.md",
-    "Equipment/Weapons/Dagger (Dungeon-Born).md",
     "Equipment/Crafting Resources/Corpse Flower.md",
     "Essences/Uncommon/Perception & Mastery/Mind.md",
-    "Essence Powers/Cheat Sheet - Powers - System Data Library.md",
     "Essence Powers/C/Chill_Wind.md",
     "Essence Powers/C/Cause_Fear.md",
     "Essence Powers/B/Brute_Strike.md",
@@ -299,10 +361,6 @@
     "Essence Powers/P/Passing_Attack.md",
     "Essence Powers/D/Deft_Strike.md",
     "Essence Powers/S/Split_the_Sky.md",
-    "Essence Powers/D/Dance_of_Steel.md",
-    "Essence Powers/C/Command.md",
-    "Essence Powers/D/Divine_Strength.md",
-    "Essence Powers/A/Aid_the_Injured.md",
     "zz_attachments/Pasted image 20260824223236.png",
     "ZoomMap/PlayerScreen/Fog/image-zz_attachments-deep-wilds-dungeon.png.png",
     "Equipment/Consumables",
